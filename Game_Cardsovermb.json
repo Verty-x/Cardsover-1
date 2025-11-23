@@ -30,7 +30,7 @@
       },
       "newTurn": {
         "drawOnStart": false,
-        "sharedTurn": true
+        "sharedTurn": false
       },
       "countersStartingValues": [
         "50",
@@ -75,8 +75,7 @@
           "Magia Continua": "Magie",
           "Magia Rapida": "Magie",
           "Magia": "Magie",
-          "Equip": "GROUP",
-          "Terra": "Terreno"
+          "Equip": "GROUP"
         },
         "autoPlayFromStack": {
           "Mostri": "Mostri",
@@ -84,8 +83,7 @@
           "Magie Continue": "Magie",
           "Magie Rapide": "Discard",
           "Magie": "Discard",
-          "Equip": "GROUP",
-          "Terra": "Terreno"
+          "Equip": "GROUP"
         },
         "sectionsDict": {
           "Mostri": {
