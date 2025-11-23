@@ -1,0 +1,239 @@
+{
+  "name": "Cardsover",
+  "menuBackgroundImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2022/01/Magic-The-Gathering-Jace-The-Mind-Sculptor-And-Yu-Gi-Oh-Dark-Magician.jpg?q=50&fit=crop&w=825&dpr=1.5",
+  "deckBuilding": {
+    "mainFilters": [
+      "Tipo di carta",
+      "Colore",
+      "Costo",
+      "Sottotipo"
+    ],
+    "costCurveIgnoredTypes": [
+      "Land"
+    ],
+    "formats": [
+      {
+        "title": "Default",
+        "customCategories": [],
+        "gameplay": "Default",
+        "compatibility": "EDH"
+      }
+    ]
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "Pesca 7 carte ogni volta che fai mulligan. Una volta contento, metti 1 carta in fondo al tuo Mazzo per ogni tuo mulligan. (clicca quelle carte) each time you have mulliganed (click those cards).",
+        "startingHandSize": 7,
+        "drawNewHand": true,
+        "putSelectionAtBottom": true
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": true
+      },
+      "countersStartingValues": [
+        "50",
+        "4"
+      ],
+      "sections": {
+        "customSections": [
+          "Mostri",
+          "Magie",
+          "Terreno",
+          "Artefatti"
+        ],
+        "layout": {
+          "direction": "column",
+          "content": [
+            {
+              "section": "Mostri",
+              "style": false
+            },
+            {
+              "direction": "row",
+              "content": [
+                {
+                  "section": "Magie",
+                  "style": false
+                },
+                {
+                  "section": "Terreno",
+                  "style": false
+                },
+                {
+                  "section": "Artefatti",
+                  "style": false
+                }
+              ]
+            }
+          ]
+        },
+        "autoPlayFromHand": {
+          "Mostro": "Mostri",
+          "Artefatto": "Artefatti",
+          "Magia Continua": "Magie",
+          "Magia Rapida": "Magie",
+          "Magia": "Magie",
+          "Equip": "GROUP"
+        },
+        "autoPlayFromStack": {
+          "Mostri": "Mostri",
+          "Artefatti": "Artefatti",
+          "Magie Continue": "Magie",
+          "Magie Rapide": "Discard",
+          "Magie": "Discard",
+          "Equip": "GROUP"
+        },
+        "sectionsDict": {
+          "Mostri": {
+            "title": "Mostri",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "isHorizontalAllowed": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Magie": {
+            "title": "Magie",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "START",
+            "isHorizontalAllowed": false,
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Terra": {
+            "title": "Terra",
+            "isHidden": "no",
+            "height": "BIG",
+            "alignment": "CENTER",
+            "isHorizontalAllowed": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Artefatti": {
+            "title": "Artefatti",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "END",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      },
+      "defaultNotes": "",
+      "tokens": [
+        {
+          "name": "Pedina Demone",
+          "image": "https://i.postimg.cc/V5QN28Bp/Pedina%20Demone.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Pedina Druido",
+          "image": "https://i.postimg.cc/Bt9vR0cd/Pedina%20Druido.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Pedina Elfo",
+          "image": "https://i.postimg.cc/rzXp7kCB/Pedina%20Elfo.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Pedina Felino",
+          "image": "https://i.postimg.cc/9z5fshY5/Pedina%20Felino.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Pedina Goblin",
+          "image": "https://i.postimg.cc/c6yJPSBS/Pedina-Goblin.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Pedina Palla di Fuoco",
+          "image": "https://i.postimg.cc/DmkzRTP2/Pedina%20Palla%20di%20Fuoco.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Pedina Tappa",
+          "image": "https://i.postimg.cc/dDP0gYjs/Pedina%20Riferimento.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Pedina Soffice",
+          "image": "https://i.postimg.cc/rzXp7kNm/Pedina%20Soffice.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Pedina Spiritello",
+          "image": "https://i.postimg.cc/tR1N0NNn/Pedina%20Spiritello.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Pedina Tesoro",
+          "image": "https://i.postimg.cc/J7y5w55X/Pedina%20Tesoro.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Pedina Zombie",
+          "image": "https://i.postimg.cc/1Rgrxrrw/Pedina%20Zombie.png",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        }
+      ],
+      "hideFacedDownCards": false
+    }
+  },
+  "defaultRessources": {
+    "backgrounds": [
+      "https://www.wargamer.com/wp-content/sites/wargamer/2023/05/mtg-yugioh-fan-designs.jpg",
+      "https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fo0x6asahndp81.jpg%3Fwidth%3D720%26format%3Dpjpg%26auto%3Dwebp%26s%3D523facc8909241296a15cdd9f9c72665e25c871c"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cards": {
+    "dataUrl": "https://valcur.github.io/TCG-Arena-MTG/MTGCards.json",
+    "cardBack": "https://i.postimg.cc/2jwbKqPM/Retro.jpg"
+  }
+}
