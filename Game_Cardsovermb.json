@@ -75,7 +75,8 @@
           "Magia Continua": "Magie",
           "Magia Rapida": "Magie",
           "Magia": "Magie",
-          "Equip": "GROUP"
+          "Equip": "GROUP",
+          "Terra": "Terreno"
         },
         "autoPlayFromStack": {
           "Mostri": "Mostri",
@@ -83,7 +84,8 @@
           "Magie Continue": "Magie",
           "Magie Rapide": "Discard",
           "Magie": "Discard",
-          "Equip": "GROUP"
+          "Equip": "GROUP",
+          "Terra": "Terreno"
         },
         "sectionsDict": {
           "Mostri": {
