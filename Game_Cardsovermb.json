@@ -21,7 +21,7 @@
     ]
   },
   "gameplay": {
-    "Classic": {
+    "Default": {
       "mulligan": {
         "info": "Pesca 7 carte ogni volta che fai mulligan. Una volta contento, metti 1 carta in fondo al tuo Mazzo per ogni tuo mulligan. (clicca quelle carte) each time you have mulliganed (click those cards).",
         "startingHandSize": 7,
