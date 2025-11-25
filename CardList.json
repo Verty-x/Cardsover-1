@@ -3281,7 +3281,7 @@
         "name": "Siepe Guardiana",
         "type": "Mostro",
         "cost": "3",
-        "image": "https://i.postimg.cc/vZvW7qGm/Siepe%20Guardiana.png",
+        "image": "https://i.postimg.cc/xCb1qSPJ/Siepe-Guardiana.png",
         "isHorizontal": false
       }
     },
@@ -3695,7 +3695,7 @@
         "name": "Tagliagole Salmastride",
         "type": "Mostro",
         "cost": "2",
-        "image": "https://i.postimg.cc/DZRsfRP4/Tagliagole%20Salmastride.png",
+        "image": "https://i.postimg.cc/zfFL8Npc/Tagliagole-Salmastride.png",
         "isHorizontal": false
       }
     },
