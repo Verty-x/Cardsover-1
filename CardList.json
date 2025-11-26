@@ -1602,7 +1602,7 @@
         "name": "Freyalise, Furia di Llanowar",
         "type": "Mostro",
         "cost": "5",
-        "image": "https://i.postimg.cc/sf8GpFS4/Freyalise%20Furia%20di%20Llanowar.png",
+        "image": "https://i.postimg.cc/r8qZs0Hz/Freyalise-Furia-di-Llanowar.png",
         "isHorizontal": false
       }
     },
@@ -3976,7 +3976,7 @@
       }
     },
     "name": "Vampiro Intruso",
-    "type": false,
+    "type": "Mostro",
     "cost": "2",
     "Colore": "Nero",
     "Sottotipo": "Vampiro",
@@ -6856,6 +6856,259 @@
     "DEF": "",
     "Leggenda": false,
     "Tag": "Protection, Battle Trick",
+    "Extra": false
+  },
+  "117001": {
+    "id": "117001",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Demone",
+        "type": "Mostro",
+        "cost": "5",
+        "image": "https://i.postimg.cc/V5QN28Bp/Pedina%20Demone.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Demone",
+    "type": "Mostro",
+    "cost": "5",
+    "Colore": "Nero",
+    "Sottotipo": "Demone",
+    "ATK": "10",
+    "DEF": "10",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "117002": {
+    "id": "117002",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Druido",
+        "type": "Mostro",
+        "cost": "1",
+        "image": "https://i.postimg.cc/Bt9vR0cd/Pedina%20Druido.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Druido",
+    "type": "Mostro",
+    "cost": "1",
+    "Colore": "Verde",
+    "Sottotipo": "Elfo",
+    "ATK": "2",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "117003": {
+    "id": "117003",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Elfo",
+        "type": "Mostro",
+        "cost": "1",
+        "image": "https://i.postimg.cc/rzXp7kCB/Pedina%20Elfo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Elfo",
+    "type": "Mostro",
+    "cost": "1",
+    "Colore": "Verde",
+    "Sottotipo": "Elfo",
+    "ATK": "2",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "117004": {
+    "id": "117004",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Felino",
+        "type": "Mostro",
+        "cost": "1",
+        "image": "https://i.postimg.cc/9z5fshY5/Pedina%20Felino.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Felino",
+    "type": "Mostro",
+    "cost": "1",
+    "Colore": "Bianco",
+    "Sottotipo": "Bestia Felino",
+    "ATK": "2",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "117005": {
+    "id": "117005",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Goblin",
+        "type": "Mostro",
+        "cost": "1",
+        "image": "https://i.postimg.cc/c6yJPSBS/Pedina%20Goblin.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Goblin",
+    "type": "Mostro",
+    "cost": "1",
+    "Colore": "Rosso",
+    "Sottotipo": "Goblin",
+    "ATK": "2",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "117006": {
+    "id": "117006",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Palla di Fuoco",
+        "type": "Mostro",
+        "cost": "1",
+        "image": "https://i.postimg.cc/DmkzRTP2/Pedina%20Palla%20di%20Fuoco.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Palla di Fuoco",
+    "type": "Mostro",
+    "cost": "1",
+    "Colore": "Rosso",
+    "Sottotipo": "Elementale",
+    "ATK": "1",
+    "DEF": "1",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "117007": {
+    "id": "117007",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Soffice",
+        "type": "Mostro",
+        "cost": "1",
+        "image": "https://i.postimg.cc/rzXp7kNm/Pedina%20Soffice.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Soffice",
+    "type": "Mostro",
+    "cost": "1",
+    "Colore": "Verde",
+    "Sottotipo": "Pianta",
+    "ATK": "0",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "117008": {
+    "id": "117008",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Spiritello ",
+        "type": "Mostro",
+        "cost": "1",
+        "image": "https://i.postimg.cc/tR1N0NNn/Pedina%20Spiritello.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Spiritello ",
+    "type": "Mostro",
+    "cost": "1",
+    "Colore": "Blu",
+    "Sottotipo": "Fata",
+    "ATK": "2",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "117009": {
+    "id": "117009",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Tesoro",
+        "type": "Artefatto",
+        "cost": 0,
+        "image": "https://i.postimg.cc/J7y5w55X/Pedina%20Tesoro.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Tesoro",
+    "type": "Artefatto",
+    "cost": 0,
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Tesoro",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "117010": {
+    "id": "117010",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Zombie",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/1Rgrxrrw/Pedina%20Zombie.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Zombie",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Nero",
+    "Sottotipo": "Zombie",
+    "ATK": "4",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "117011": {
+    "id": "117011",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Tappa",
+        "type": "Magia",
+        "cost": 0,
+        "image": "https://i.postimg.cc/dDP0gYjs/Pedina%20Riferimento.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Tappa",
+    "type": "Magia",
+    "cost": 0,
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Continua Tappa",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "",
     "Extra": false
   }
 }
