@@ -25,8 +25,8 @@
       "mulligan": {
         "info": "Pesca 7 carte ogni volta che fai mulligan. Una volta contento, metti 1 carta in fondo al tuo Mazzo per ogni tuo mulligan. (clicca quelle carte) each time you have mulliganed (click those cards).",
         "startingHandSize": 7,
-        "drawNewHand": true,
-        "putSelectionAtBottom": true
+        "drawNewHand": false,
+        "putSelectionAtBottom": false
       },
       "newTurn": {
         "drawOnStart": false,
@@ -34,13 +34,13 @@
       },
       "countersStartingValues": [
         "50",
-        "4"
+        "0"
       ],
       "sections": {
         "customSections": [
           "Mostri",
           "Magie",
-          "Terreno",
+          "Mana",
           "Artefatti"
         ],
         "layout": {
@@ -58,7 +58,7 @@
                   "style": false
                 },
                 {
-                  "section": "Terreno",
+                  "section": "Mana",
                   "style": false
                 },
                 {
@@ -93,7 +93,7 @@
             "alignment": "CENTER",
             "isHorizontalAllowed": true,
             "opponentAlignment": false,
-            "noAutoPayTo": true,
+            "noAutoPayTo": false,
             "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
@@ -109,7 +109,7 @@
             "alignment": "START",
             "isHorizontalAllowed": false,
             "opponentAlignment": false,
-            "noAutoPayTo": true,
+            "noAutoPayTo": false,
             "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
@@ -124,7 +124,7 @@
             "height": "SMALL",
             "alignment": "END",
             "opponentAlignment": false,
-            "noAutoPayTo": true,
+            "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "",
             "noQuickActions": false,
@@ -134,15 +134,15 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Terreno": {
-            "title": "Terreno",
+          "Mana": {
+            "title": "Mana",
             "isHidden": "no",
             "height": "BIG",
             "alignment": "CENTER",
-            "isHorizontalAllowed": true,
+            "isHorizontalAllowed": false,
             "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "displayedTitle": "",
+            "noAutoPayTo": false,
+            "displayedTitle": "MP",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -153,74 +153,7 @@
         }
       },
       "defaultNotes": "",
-      "tokens": [
-        {
-          "name": "Pedina Demone",
-          "image": "https://i.postimg.cc/V5QN28Bp/Pedina%20Demone.png",
-          "isUnique": true,
-          "leavesAtEndOfTurn": false
-        },
-        {
-          "name": "Pedina Druido",
-          "image": "https://i.postimg.cc/Bt9vR0cd/Pedina%20Druido.png",
-          "isUnique": true,
-          "leavesAtEndOfTurn": false
-        },
-        {
-          "name": "Pedina Elfo",
-          "image": "https://i.postimg.cc/rzXp7kCB/Pedina%20Elfo.png",
-          "isUnique": true,
-          "leavesAtEndOfTurn": false
-        },
-        {
-          "name": "Pedina Felino",
-          "image": "https://i.postimg.cc/9z5fshY5/Pedina%20Felino.png",
-          "isUnique": true,
-          "leavesAtEndOfTurn": false
-        },
-        {
-          "name": "Pedina Goblin",
-          "image": "https://i.postimg.cc/c6yJPSBS/Pedina-Goblin.png",
-          "isUnique": true,
-          "leavesAtEndOfTurn": false
-        },
-        {
-          "name": "Pedina Palla di Fuoco",
-          "image": "https://i.postimg.cc/DmkzRTP2/Pedina%20Palla%20di%20Fuoco.png",
-          "isUnique": true,
-          "leavesAtEndOfTurn": false
-        },
-        {
-          "name": "Pedina Tappa",
-          "image": "https://i.postimg.cc/dDP0gYjs/Pedina%20Riferimento.png",
-          "isUnique": true,
-          "leavesAtEndOfTurn": false
-        },
-        {
-          "name": "Pedina Soffice",
-          "image": "https://i.postimg.cc/rzXp7kNm/Pedina%20Soffice.png",
-          "isUnique": true,
-          "leavesAtEndOfTurn": false
-        },
-        {
-          "name": "Pedina Spiritello",
-          "image": "https://i.postimg.cc/tR1N0NNn/Pedina%20Spiritello.png",
-          "isUnique": true,
-          "leavesAtEndOfTurn": false
-        },
-        {
-          "name": "Pedina Tesoro",
-          "image": "https://i.postimg.cc/J7y5w55X/Pedina%20Tesoro.png",
-          "isUnique": true,
-          "leavesAtEndOfTurn": false
-        },
-        {
-          "name": "Pedina Zombie",
-          "image": "https://i.postimg.cc/1Rgrxrrw/Pedina%20Zombie.png",
-          "isUnique": true,
-          "leavesAtEndOfTurn": false
-        }
-      ],
+      "tokens": [],
       "hideFacedDownCards": false
     }
   },
