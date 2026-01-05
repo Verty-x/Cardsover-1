@@ -137,7 +137,7 @@
           "Mana": {
             "title": "Mana",
             "isHidden": "no",
-            "height": "BIG",
+            "height": "SMALL",
             "alignment": "CENTER",
             "isHorizontalAllowed": false,
             "opponentAlignment": false,
