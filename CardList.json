@@ -2021,7 +2021,7 @@
       }
     },
     "name": "Imperatore della Fiamma Infernale ",
-    "type": false,
+    "type": "Mostro",
     "cost": "9",
     "Colore": "Rosso",
     "Sottotipo": "Elementare",
@@ -6197,7 +6197,7 @@
     "face": {
       "front": {
         "name": "Istinto di Caccia",
-        "type": "Mostro",
+        "type": "Magia",
         "cost": "4",
         "image": "https://i.postimg.cc/GmPBwHfX/Istinto%20di%20Caccia.png",
         "isHorizontal": false
