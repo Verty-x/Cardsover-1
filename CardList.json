@@ -1761,7 +1761,7 @@
     "face": {
       "front": {
         "name": "Gigapianta",
-        "type": false,
+        "type": "Pendulum",
         "cost": "6",
         "image": "https://i.postimg.cc/HsyczS91/Gigapianta.png",
         "isHorizontal": false
@@ -7109,6 +7109,5825 @@
     "DEF": "",
     "Leggenda": false,
     "Tag": "",
+    "Extra": false
+  },
+  "120001": {
+    "id": "120001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Acquitrino Tetro",
+        "type": "Terra",
+        "cost": 0,
+        "image": "https://i.postimg.cc/NFbWySMk/Acquitrino-Tetro.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Acquitrino Tetro",
+    "type": "Terra",
+    "cost": 0,
+    "Colore": "Dimir",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "dual lifegain",
+    "Extra": false
+  },
+  "120002": {
+    "id": "120002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Altopiani Accidentati",
+        "type": "Terra",
+        "cost": 0,
+        "image": "https://i.postimg.cc/yxnwJtdL/Altopiani-Accidentati.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Altopiani Accidentati",
+    "type": "Terra",
+    "cost": 0,
+    "Colore": "Gruul",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "dual lifegain",
+    "Extra": false
+  },
+  "120003": {
+    "id": "120003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Baia Tranquilla",
+        "type": "Pendulum",
+        "cost": 0,
+        "image": "https://i.postimg.cc/vHqJbJCx/Baia-Tranquilla.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Baia Tranquilla",
+    "type": "Terra",
+    "cost": 0,
+    "Colore": "Azorius Bianco Blu",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "dual lifegain",
+    "Extra": false
+  },
+  "120004": {
+    "id": "120004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cascate di Boscorovo",
+        "type": "Terra",
+        "cost": 0,
+        "image": "https://i.postimg.cc/RFB8g4Js/Cascate%20di%20Boscorovo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cascate di Boscorovo",
+    "type": "Terra",
+    "cost": 0,
+    "Colore": "Simic Blu Verde",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "dual lifegain",
+    "Extra": false
+  },
+  "120005": {
+    "id": "120005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Caverne del Sangue Versato",
+        "type": "Terra",
+        "cost": 0,
+        "image": "https://i.postimg.cc/MHZL85DZ/Caverne%20del%20Sangue%20Versato.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Caverne del Sangue Versato",
+    "type": "Terra",
+    "cost": 0,
+    "Colore": "Nero Rosso Rakdos",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "dual lifegain",
+    "Extra": false
+  },
+  "120006": {
+    "id": "120006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Conca nella Giungla",
+        "type": "Terra",
+        "cost": 0,
+        "image": "https://i.postimg.cc/GtM53DgC/Conca%20nella%20Giungla.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Conca nella Giungla",
+    "type": "Terra",
+    "cost": 0,
+    "Colore": "Nero Verde",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "dual lifegain",
+    "Extra": false
+  },
+  "120007": {
+    "id": "120007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dirupo Eroso dai Venti",
+        "type": "Terra",
+        "cost": 0,
+        "image": "https://i.postimg.cc/MpfFxvyy/Dirupo%20Eroso%20dai%20Venti.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dirupo Eroso dai Venti",
+    "type": "Terra",
+    "cost": 0,
+    "Colore": "Bianco Rosso Boros",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "dual lifegain",
+    "Extra": false
+  },
+  "120008": {
+    "id": "120008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Distese Desolate",
+        "type": "Terra",
+        "cost": 0,
+        "image": "https://i.postimg.cc/K83HFRPX/Distese%20Desolate.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Distese Desolate",
+    "type": "Terra",
+    "cost": 0,
+    "Colore": "Nero Bianco Orzhov",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "dual lifegain",
+    "Extra": false
+  },
+  "120009": {
+    "id": "120009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gola Drago",
+        "type": "Terra",
+        "cost": 0,
+        "image": "https://i.postimg.cc/yYtLfswT/Gola%20Drago.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gola Drago",
+    "type": "Terra",
+    "cost": 0,
+    "Colore": "Rosso",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "monored discard outlet search dragunity bury dragon",
+    "Extra": false
+  },
+  "120010": {
+    "id": "120010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Il Santuario nel Cielo",
+        "type": "Terra",
+        "cost": 0,
+        "image": "https://i.postimg.cc/d0mntdDD/Il%20Santuario%20nel%20Cielo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Il Santuario nel Cielo",
+    "type": "Terra",
+    "cost": 0,
+    "Colore": "Bianco",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "monowhite fairy protection",
+    "Extra": false
+  },
+  "121001": {
+    "id": "121001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aberrazione Distruttiva",
+        "type": "Mostro",
+        "cost": "5",
+        "image": "https://i.postimg.cc/mkV0cJD3/Aberrazione-Distruttiva.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aberrazione Distruttiva",
+    "type": "Mostro",
+    "cost": "5",
+    "Colore": "Dimir",
+    "Sottotipo": "Acquatico",
+    "ATK": "0",
+    "DEF": "1",
+    "Leggenda": false,
+    "Tag": "mill landmark",
+    "Extra": false
+  },
+  "121002": {
+    "id": "121002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aizzatore Fanatico",
+        "type": "Mostro",
+        "cost": "1",
+        "image": "https://i.postimg.cc/BbNd8k6C/Aizzatore-Fanatico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aizzatore Fanatico",
+    "type": "Mostro",
+    "cost": "1",
+    "Colore": "Rosso",
+    "Sottotipo": "Fuorilegge Goblin",
+    "ATK": "2",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "removal burn",
+    "Extra": false
+  },
+  "121003": {
+    "id": "121003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aklys Dragunità",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/Znj192RV/Aklys-Dragunita.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aklys Dragunità",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Rosso",
+    "Sottotipo": "Drago Dragunità",
+    "ATK": "5",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "union, synchro, removal, antimonster, antiartifact",
+    "Extra": false
+  },
+  "121004": {
+    "id": "121004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Angelo dell'Arcata",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/1RHxYnH3/Angelo-dell-Arcata.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Angelo dell'Arcata",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Bianco",
+    "Sottotipo": "Fata",
+    "ATK": "6",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "flier lifegain gate",
+    "Extra": false
+  },
+  "121005": {
+    "id": "121005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Angelo dell'Ineluttabilità",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/y6PqrgPx/Angelo-dell-Ineluttabilita.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Angelo dell'Ineluttabilità",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Bianco",
+    "Sottotipo": "Fata",
+    "ATK": "6",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "flier antigrave",
+    "Extra": false
+  },
+  "121006": {
+    "id": "121006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Angelo della Vitalità",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/DfgVYJgv/Angelo-della-Vitalita.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Angelo della Vitalità",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Bianco",
+    "Sottotipo": "Fata",
+    "ATK": "4",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "flier lifegain",
+    "Extra": false
+  },
+  "121007": {
+    "id": "121007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Angelo Mietitore della Saggezza",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/xjRrFJRk/Angelo-Mietitore-della-Saggezza.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Angelo Mietitore della Saggezza",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Bianco",
+    "Sottotipo": "Fata",
+    "ATK": "9",
+    "DEF": "5",
+    "Leggenda": false,
+    "Tag": "flier recover fairy lifegain",
+    "Extra": false
+  },
+  "121008": {
+    "id": "121008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aquila Empirea",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/05fgHMfK/Aquila-Empirea.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aquila Empirea",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Azorius",
+    "Sottotipo": "Uccello",
+    "ATK": "4",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "flier lord",
+    "Extra": false
+  },
+  "121009": {
+    "id": "121009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Araldo della Perfezione",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/zDjmPbjT/Araldo-della-Perfezione.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Araldo della Perfezione",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Azorius",
+    "Sottotipo": "Fata",
+    "ATK": "9",
+    "DEF": "14",
+    "Leggenda": false,
+    "Tag": "flier negate",
+    "Extra": false
+  },
+  "121010": {
+    "id": "121010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Araldo delle Maree",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/FFZtndZy/Araldo-delle-Maree.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Araldo delle Maree",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Blu",
+    "Sottotipo": "Tritone Mago",
+    "ATK": "4",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "bounce removal flash",
+    "Extra": false
+  },
+  "121011": {
+    "id": "121011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arcanis l'Onnipotente",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/02yggkWD/Arcanis-l-Onnipotente.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arcanis l'Onnipotente",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Blu",
+    "Sottotipo": "Mago",
+    "ATK": "6",
+    "DEF": "8",
+    "Leggenda": true,
+    "Tag": "draw",
+    "Extra": false
+  },
+  "121012": {
+    "id": "121012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arcidemone Drago Rosso",
+        "type": "Mostro",
+        "cost": "8",
+        "image": "https://i.postimg.cc/QxdLL84f/Arcidemone-Drago-Rosso.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arcidemone Drago Rosso",
+    "type": "Mostro",
+    "cost": "8",
+    "Colore": "Nero Rosso",
+    "Sottotipo": "Drago Demone",
+    "ATK": "15",
+    "DEF": "10",
+    "Leggenda": false,
+    "Tag": "flier sweeper",
+    "Extra": true
+  },
+  "121013": {
+    "id": "121013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arcidemone Lancere",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/9FQ33m8g/Arcidemone-Lancere.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arcidemone Lancere",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Nero",
+    "Sottotipo": "Demone",
+    "ATK": "8",
+    "DEF": "7",
+    "Leggenda": false,
+    "Tag": "trample",
+    "Extra": false
+  },
+  "121014": {
+    "id": "121014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arcidemone Nebbia",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/bNwXXyCB/Arcidemone-Nebbia.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arcidemone Nebbia",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Nero",
+    "Sottotipo": "Demone",
+    "ATK": "12",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "haste",
+    "Extra": false
+  },
+  "121015": {
+    "id": "121015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Artemis il Magnanimo",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/Wb1RRNYv/Artemis-il-Magnanimo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Artemis il Magnanimo",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Bianco",
+    "Sottotipo": "Fata",
+    "ATK": "8",
+    "DEF": "8",
+    "Leggenda": true,
+    "Tag": "flier lifegain draw",
+    "Extra": false
+  },
+  "121016": {
+    "id": "121016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Artista Perforante",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/BQYr4rkk/Artista-Perforante.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Artista Perforante",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Rakdos",
+    "Sottotipo": "Demone",
+    "ATK": "6",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "deathtouch punisher",
+    "Extra": false
+  },
+  "121017": {
+    "id": "121017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Assaltatrice del Forziere",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/yYQMsMt5/Assaltatrice-del-Forziere.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Assaltatrice del Forziere",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Rosso",
+    "Sottotipo": "Orco Fuorilegge",
+    "ATK": "10",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "attacker draw",
+    "Extra": false
+  },
+  "121018": {
+    "id": "121018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aurelia, la Condottiera",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/bNC7p74z/Aurelia-la-Condottiera.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aurelia, la Condottiera",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Boros",
+    "Sottotipo": "Fata",
+    "ATK": "6",
+    "DEF": "8",
+    "Leggenda": true,
+    "Tag": "flier haste hitcounter",
+    "Extra": false
+  },
+  "121019": {
+    "id": "121019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Auriga dei Morti",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/vHqJbJCH/Auriga-dei-Morti.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Auriga dei Morti",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Nero",
+    "Sottotipo": "Vampiro",
+    "ATK": "6",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "fodder reanimate",
+    "Extra": false
+  },
+  "121020": {
+    "id": "121020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Automa Adattivo",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/WbWBTBxt/Automa-Adattivo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Automa Adattivo",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Artefatto",
+    "ATK": "4",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "shapeshifter lord",
+    "Extra": false
+  },
+  "121021": {
+    "id": "121021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ayli, Pellegrina Eterna",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/FsWMNMwY/Ayli-Pellegrina-Eterna.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ayli, Pellegrina Eterna",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Orzhov",
+    "Sottotipo": "Chierico",
+    "ATK": "4",
+    "DEF": "6",
+    "Leggenda": true,
+    "Tag": "deathtouch lifegain removal banish",
+    "Extra": false
+  },
+  "121022": {
+    "id": "121022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Baloth Infuriati",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/bNC7p74n/Baloth-Infuriati.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Baloth Infuriati",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Verde",
+    "Sottotipo": "Bestia",
+    "ATK": "12",
+    "DEF": "12",
+    "Leggenda": false,
+    "Tag": "trample landfall token",
+    "Extra": false
+  },
+  "121023": {
+    "id": "121023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Balter Oscuro il Terribile ",
+        "type": "Mostro",
+        "cost": "5",
+        "image": "https://i.postimg.cc/vZ4pBPdc/Balter-Oscuro-il-Terribile.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Balter Oscuro il Terribile",
+    "type": "Mostro",
+    "cost": "5",
+    "Colore": "Nero Blu",
+    "Sottotipo": "Fusione Demone",
+    "ATK": "10",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "intimidate negate wizard fiend spirit",
+    "Extra": true
+  },
+  "121024": {
+    "id": "121024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Banco di Nebbia",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/Bnjd6hGt/Banco-di-Nebbia.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Banco di Nebbia",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Blu",
+    "Sottotipo": "Elementale",
+    "ATK": "0",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "flier protection",
+    "Extra": false
+  },
+  "121025": {
+    "id": "121025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Behemoth il Re degli Animali",
+        "type": "Mostro",
+        "cost": "7",
+        "image": "https://i.postimg.cc/rwDvmhLC/Behemoth-il-Re-degli-Animali.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Behemoth il Re degli Animali",
+    "type": "Mostro",
+    "cost": "7",
+    "Colore": "Verde",
+    "Sottotipo": "Bestia Nobile",
+    "ATK": "6",
+    "DEF": "8",
+    "Leggenda": true,
+    "Tag": "+2/+2 counter offer recover beast",
+    "Extra": false
+  },
+  "121026": {
+    "id": "121026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Berretto Rosso dei Bassifondi",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/vZ4pBPdh/Berretto-Rosso-dei-Bassifondi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Berretto Rosso dei Bassifondi",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Rosso",
+    "Sottotipo": "Goblin Guerriero",
+    "ATK": "6",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "menace token +2/+2 counter draw",
+    "Extra": false
+  },
+  "121027": {
+    "id": "121027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bestia Ingranaggio Antico",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/K81dz9y0/Bestia-Ingranaggio-Antico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bestia Ingranaggio Antico",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Bestia Artefatto Ingranaggio",
+    "ATK": "10",
+    "DEF": "10",
+    "Leggenda": false,
+    "Tag": "intimidate",
+    "Extra": false
+  },
+  "121028": {
+    "id": "121028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Brandistocco Dragunità ",
+        "type": "Mostro",
+        "cost": "1",
+        "image": "https://i.postimg.cc/MpnhTs83/Brandistocco-Dragunita.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brandistocco Dragunità",
+    "type": "Mostro",
+    "cost": "1",
+    "Colore": "Rosso",
+    "Sottotipo": "Drago Dragunità",
+    "ATK": "3",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "double strike synchro",
+    "Extra": false
+  },
+  "121029": {
+    "id": "121029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cacciatore Cecchino",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/MpnhTs8F/Cacciatore-Cecchino.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cacciatore Cecchino",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Rosso",
+    "Sottotipo": "Demone",
+    "ATK": "7",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "removal antiartifact antimonster",
+    "Extra": false
+  },
+  "121030": {
+    "id": "121030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cacciatore di Battiti",
+        "type": "Mostro",
+        "cost": "1",
+        "image": "https://i.postimg.cc/FHwwJj9x/Cacciatore-di-Battiti.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cacciatore di Battiti",
+    "type": "Mostro",
+    "cost": "1",
+    "Colore": "Nero",
+    "Sottotipo": "Vampiro Fuorilegge",
+    "ATK": "2",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "burn",
+    "Extra": false
+  },
+  "121031": {
+    "id": "121031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cacciatore Marino Armato",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/jSBBJzsc/Cacciatore%20Marino%20Armato.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cacciatore Marino Armato",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Blu",
+    "Sottotipo": "Tritone",
+    "ATK": "8",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "intimidate regenerate",
+    "Extra": false
+  },
+  "121032": {
+    "id": "121032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Caius il Monarca dell'Ombra",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/NjZZr1gb/Caius%20il%20Monarca%20dell%20Ombra.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Caius il Monarca dell'Ombra",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Nero",
+    "Sottotipo": "Demone Monarca",
+    "ATK": "12",
+    "DEF": "5",
+    "Leggenda": true,
+    "Tag": "shortcut discard removal burn",
+    "Extra": false
+  },
+  "121033": {
+    "id": "121033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Calciatore Axon Finale",
+        "type": "Mostro",
+        "cost": "10",
+        "image": "https://i.postimg.cc/g2116vYM/Calciatore%20Axon%20Finale.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Calciatore Axon Finale",
+    "type": "Mostro",
+    "cost": "10",
+    "Colore": "Nero Blu Bianco",
+    "Sottotipo": "Fusione Psichico",
+    "ATK": "14",
+    "DEF": "17",
+    "Leggenda": false,
+    "Tag": "flier lifegain armored psychic",
+    "Extra": false
+  },
+  "121034": {
+    "id": "121034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cannone Ingranaggio Antico",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/85S3ZNf7/Cannone%20Ingranaggio%20Antico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cannone Ingranaggio Antico",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Artefatto Ingranaggio",
+    "ATK": "3",
+    "DEF": "3",
+    "Leggenda": false,
+    "Tag": "burn lingering",
+    "Extra": false
+  },
+  "121035": {
+    "id": "121035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cavalcalava Ghitu",
+        "type": "Mostro",
+        "cost": "1",
+        "image": "https://i.postimg.cc/zBrMx8H9/Cavalcalava%20Ghitu.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cavalcalava Ghitu",
+    "type": "Mostro",
+    "cost": "1",
+    "Colore": "Rosso",
+    "Sottotipo": "Mago Umano",
+    "ATK": "2",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "spellsling haste",
+    "Extra": false
+  },
+  "121036": {
+    "id": "121036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cavaliera della Grazia",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/cHSjF0tp/Cavaliera%20della%20Grazia.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cavaliera della Grazia",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Bianco Orzhov",
+    "Sottotipo": "Cavaliere Umano",
+    "ATK": "4",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "first strike antiblack",
+    "Extra": false
+  },
+  "121037": {
+    "id": "121037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cavaliera della Malvagità ",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/XJkPhm92/Cavaliera%20della%20Malvagit%C3%A0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cavaliera della Malvagità ",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Nero Orzhov",
+    "Sottotipo": "Cavaliere Umano",
+    "ATK": "4",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "first strike antiwhite",
+    "Extra": false
+  },
+  "121038": {
+    "id": "121038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cavaliere dell'Armageddon",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/DZPNDH1Y/Cavaliere%20dell%20Armageddon.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cavaliere dell'Armageddon",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Nero",
+    "Sottotipo": "Cavaliere Umano",
+    "ATK": "7",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "bury",
+    "Extra": false
+  },
+  "121039": {
+    "id": "121039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cavaliere Divino Ishzark",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/rmNHb353/Cavaliere%20Divino%20Ishzark.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cavaliere Divino Ishzark",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Bianco",
+    "Sottotipo": "Cavaliere Umano",
+    "ATK": "11",
+    "DEF": "9",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "121040": {
+    "id": "121040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cavaliere Evocatore",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/C1s2tXjg/Cavaliere%20Evocatore.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cavaliere Evocatore",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Rosso Bianco",
+    "Sottotipo": "Gemelli Cavaliere Umano",
+    "ATK": "9",
+    "DEF": "7",
+    "Leggenda": false,
+    "Tag": "gemini equip removal",
+    "Extra": false
+  },
+  "121041": {
+    "id": "121041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cavaliere Fiamma Oscura",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/wvQrPZhg/Cavaliere%20Fiamma%20Oscura.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cavaliere Fiamma Oscura",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Boros",
+    "Sottotipo": "Cavaliere Umano",
+    "ATK": "11",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "armor float warrior knight soldier",
+    "Extra": false
+  },
+  "121042": {
+    "id": "121042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cecchino",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/4y40TP5m/Cecchino.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cecchino",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Rosso",
+    "Sottotipo": "Goblin Sciamano",
+    "ATK": "5",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "spellsling burn",
+    "Extra": false
+  },
+  "121043": {
+    "id": "121043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cecchino Atlantico",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/qqBFdwLp/Cecchino%20Atlantico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cecchino Atlantico",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Blu",
+    "Sottotipo": "Tritone Atlantico",
+    "ATK": "7",
+    "DEF": "5",
+    "Leggenda": false,
+    "Tag": "search merfolk removal fodder",
+    "Extra": false
+  },
+  "121044": {
+    "id": "121044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cervo Brunito",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/KjcWyfNk/Cervo%20Brunito.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cervo Brunito",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Bestia Artefatto",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "ramp landmark token",
+    "Extra": false
+  },
+  "121045": {
+    "id": "121045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chimera Gadjiltron",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/nrVWt2km/Chimera%20Gadjiltron.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chimera Gadjiltron",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Bestia Artefatto Ingranaggio",
+    "ATK": "11",
+    "DEF": "7",
+    "Leggenda": false,
+    "Tag": "offer gadget +2/+2 counter ruin loss burn",
+    "Extra": false
+  },
+  "121046": {
+    "id": "121046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ciclope Crepitante",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/brY5jgTR/Ciclope%20Crepitante.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ciclope Crepitante",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Rosso",
+    "Sottotipo": "Orco Mago",
+    "ATK": "0",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "spellsling",
+    "Extra": false
+  },
+  "121047": {
+    "id": "121047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Codarus",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/3NrqH1BC/Codarus.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Codarus",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Blu",
+    "Sottotipo": "Pesce",
+    "ATK": "7",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "landmark bounce removal",
+    "Extra": false
+  },
+  "121048": {
+    "id": "121048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Collezionista di Felini",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/mkd5Z9X9/Collezionista%20di%20Felini.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Collezionista di Felini",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Bianco",
+    "Sottotipo": "Umano",
+    "ATK": "6",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "food token cat lifegain",
+    "Extra": false
+  },
+  "121049": {
+    "id": "121049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Colosso del Cancello",
+        "type": "Mostro",
+        "cost": "8",
+        "image": "https://i.postimg.cc/yxfb6RQj/Colosso%20del%20Cancello.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Colosso del Cancello",
+    "type": "Mostro",
+    "cost": "8",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Artefatto",
+    "ATK": "14",
+    "DEF": "12",
+    "Leggenda": false,
+    "Tag": "affinity gate shield recursion",
+    "Extra": false
+  },
+  "121050": {
+    "id": "121050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Colosso di Darksteel",
+        "type": "Mostro",
+        "cost": "11",
+        "image": "https://i.postimg.cc/7hBWPzsm/Colosso%20di%20Darksteel.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Colosso di Darksteel",
+    "type": "Mostro",
+    "cost": "11",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Artefatto",
+    "ATK": "22",
+    "DEF": "22",
+    "Leggenda": false,
+    "Tag": "trample armor recursion",
+    "Extra": false
+  },
+  "121051": {
+    "id": "121051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Comandante di Campo Rahz",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/0jtB5SWB/Comandante%20di%20Campo%20Rahz.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Comandante di Campo Rahz",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Bianco",
+    "Sottotipo": "Soldato Umano",
+    "ATK": "8",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "search soldier",
+    "Extra": false
+  },
+  "121052": {
+    "id": "121052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Combattente Colossale",
+        "type": "Mostro",
+        "cost": "8",
+        "image": "https://i.postimg.cc/rshPy4ZL/Combattente%20Colossale.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Combattente Colossale",
+    "type": "Mostro",
+    "cost": "8",
+    "Colore": "Bianco Verde",
+    "Sottotipo": "Orco Guerriero",
+    "ATK": "14",
+    "DEF": "10",
+    "Leggenda": false,
+    "Tag": "warrior threat reanimate",
+    "Extra": true
+  },
+  "121053": {
+    "id": "121053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Condottiero Dragunità",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/fW5Fv4z3/Condottiero%20Dragunit%C3%A0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Condottiero Dragunità ",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Rosso",
+    "Sottotipo": "Uccello Soldato Dragunità",
+    "ATK": "7",
+    "DEF": "5",
+    "Leggenda": false,
+    "Tag": "threat dragunity dragon recursion",
+    "Extra": false
+  },
+  "121054": {
+    "id": "121054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Congegno Giallo",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/2jTJxpkb/Congegno%20Giallo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Congegno Giallo",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Artefatto Congegno",
+    "ATK": "6",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "search gadget",
+    "Extra": false
+  },
+  "121055": {
+    "id": "121055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Congegno Rosso",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/KcQV5XGB/Congegno%20Rosso.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Congegno Rosso",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Artefatto Congegno",
+    "ATK": "6",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "search gadget",
+    "Extra": false
+  },
+  "121056": {
+    "id": "121056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Congegno Verde",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/44wM1Cfp/Congegno%20Verde.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Congegno Verde",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Congegno Artefatto",
+    "ATK": "7",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "gadget search",
+    "Extra": false
+  },
+  "121057": {
+    "id": "121057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Crociata di Odric",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/TYws7k1S/Crociata%20di%20Odric.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Crociata di Odric",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Bianco",
+    "Sottotipo": "Soldato Umano",
+    "ATK": "?",
+    "DEF": "?",
+    "Leggenda": false,
+    "Tag": "gowide threat",
+    "Extra": false
+  },
+  "121058": {
+    "id": "121058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cucciolo di Felidar",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/MKTLPsX2/Cucciolo%20di%20Felidar.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cucciolo di Felidar",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Bianco",
+    "Sottotipo": "Bestia Felino",
+    "ATK": "4",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "removal antispell",
+    "Extra": false
+  },
+  "121059": {
+    "id": "121059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Custode di Malakir",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/wTvrfW3d/Custode%20di%20Malakir.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Custode di Malakir",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Nero",
+    "Sottotipo": "Vampiro Guerriero",
+    "ATK": "4",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "kicker removal tribute",
+    "Extra": false
+  },
+  "121060": {
+    "id": "121060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cyber Esper",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/ZKRQ7f0Z/Cyber%20Esper.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cyber Esper",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Artefatto Psichico",
+    "ATK": "6",
+    "DEF": "9",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "121061": {
+    "id": "121061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cyber Lama",
+        "type": "Mostro",
+        "cost": "7",
+        "image": "https://i.postimg.cc/7Y6RsBbY/Cyber%20Lama.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cyber Lama",
+    "type": "Mostro",
+    "cost": "7",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Fusione Guerriero Artefatto",
+    "ATK": "10",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "warrior artifact armor threat floodgate",
+    "Extra": true
+  },
+  "121062": {
+    "id": "121062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cyber Orco",
+        "type": "Mostro",
+        "cost": "5",
+        "image": "https://i.postimg.cc/c4bbVQ8d/Cyber%20Orco.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cyber Orco",
+    "type": "Mostro",
+    "cost": "5",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Orco Artefatto",
+    "ATK": "9",
+    "DEF": "5",
+    "Leggenda": false,
+    "Tag": "+2/+2 counter",
+    "Extra": false
+  },
+  "121063": {
+    "id": "121063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cyber Orco 2",
+        "type": "Mostro",
+        "cost": "8",
+        "image": "https://i.postimg.cc/sDNNtpZz/Cyber%20Orco%202.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cyber Orco 2",
+    "type": "Mostro",
+    "cost": "8",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Fusione Orco Artefatto",
+    "ATK": "13",
+    "DEF": "10",
+    "Leggenda": false,
+    "Tag": "threat",
+    "Extra": true
+  },
+  "121064": {
+    "id": "121064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Decoyroid",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/SNvvwWzy/Decoyroid.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Decoyroid",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Vehicroid Artefatto",
+    "ATK": "3",
+    "DEF": "5",
+    "Leggenda": false,
+    "Tag": "hook",
+    "Extra": false
+  },
+  "121065": {
+    "id": "121065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Demise, Re dell'Armageddon",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/pX66gDnp/Demise%20Re%20dell%20Armageddon.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Demise, Re dell'Armageddon",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Orzhov",
+    "Sottotipo": "Demone",
+    "ATK": "12",
+    "DEF": "10",
+    "Leggenda": true,
+    "Tag": "removal boardwipe",
+    "Extra": false
+  },
+  "121066": {
+    "id": "121066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Demone della Profanazione",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/CLQQWjff/Demone%20della%20Profanazione.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Demone della Profanazione",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Nero",
+    "Sottotipo": "Demone",
+    "ATK": "12",
+    "DEF": "12",
+    "Leggenda": false,
+    "Tag": "flier punisher removal +2/+2 counter threat",
+    "Extra": false
+  },
+  "121067": {
+    "id": "121067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Des Lacooda",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/4NSSrzht/Des%20Lacooda.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Des Lacooda",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Nero",
+    "Sottotipo": "Bestia Zombie",
+    "ATK": "3",
+    "DEF": "3",
+    "Leggenda": false,
+    "Tag": "flip draw camouflage",
+    "Extra": false
+  },
+  "121068": {
+    "id": "121068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Destriero di Diamante",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/K83HFRnK/Destriero%20di%20Diamante.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Destriero di Diamante",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Bestia Artefatto",
+    "ATK": "2",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "lifegain",
+    "Extra": false
+  },
+  "121069": {
+    "id": "121069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Diabolos Re degli Abissi",
+        "type": "Mostro",
+        "cost": "7",
+        "image": "https://i.postimg.cc/cLtbZrQw/Diabolos%20Re%20degli%20Abissi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Diabolos Re degli Abissi",
+    "type": "Mostro",
+    "cost": "7",
+    "Colore": "Nero",
+    "Sottotipo": "Drago",
+    "ATK": "14",
+    "DEF": "10",
+    "Leggenda": true,
+    "Tag": "offer fateseal",
+    "Extra": false
+  },
+  "121070": {
+    "id": "121070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arcidemone Dominatore dei Pensieri",
+        "type": "Mostro",
+        "cost": "8",
+        "image": "https://i.postimg.cc/J4zwwr6c/Arcidemone-Dominatore-dei-Pensieri.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arcidemone Dominatore dei Pensieri ",
+    "type": "Mostro",
+    "cost": "8",
+    "Colore": "Nero Blu",
+    "Sottotipo": "Demone Psichico",
+    "ATK": "13",
+    "DEF": "12",
+    "Leggenda": false,
+    "Tag": "flier lifegain psychic protection barrier",
+    "Extra": true
+  },
+  "121071": {
+    "id": "121071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Doriado Signora Elementale",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/fb4gbDKG/Doriado%20Signora%20Elementale.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Doriado Signora Elementale",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Bianco Blu Rosso Verde",
+    "Sottotipo": "Mago Umano",
+    "ATK": "6",
+    "DEF": "7",
+    "Leggenda": true,
+    "Tag": "landmark threat ritualize shortcut",
+    "Extra": false
+  },
+  "121072": {
+    "id": "121072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dracomago",
+        "type": "Mostro",
+        "cost": "7",
+        "image": "https://i.postimg.cc/nL8wLp2x/Dracomago.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dracomago",
+    "type": "Mostro",
+    "cost": "7",
+    "Colore": "Rosso",
+    "Sottotipo": "Drago Mago",
+    "ATK": "10",
+    "DEF": "10",
+    "Leggenda": false,
+    "Tag": "flier draw wheel",
+    "Extra": false
+  },
+  "121073": {
+    "id": "121073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Draghetto degli Enigmi",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/BvWwv4pq/Draghetto%20degli%20Enigmi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Draghetto degli Enigmi",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Izzet",
+    "Sottotipo": "Drago",
+    "ATK": "0",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "flier spellsling threat",
+    "Extra": false
+  },
+  "121074": {
+    "id": "121074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drago Accaparratore",
+        "type": "Mostro",
+        "cost": "5",
+        "image": "https://i.postimg.cc/8C8nCN4z/Drago%20Accaparratore.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drago Accaparratore",
+    "type": "Mostro",
+    "cost": "5",
+    "Colore": "Rosso",
+    "Sottotipo": "Drago",
+    "ATK": "8",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "flier artifact search banish",
+    "Extra": false
+  },
+  "121075": {
+    "id": "121075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drago da Richiamo",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/g09B0ms0/Drago%20da%20Richiamo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drago da Richiamo",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Rosso",
+    "Sottotipo": "Drago",
+    "ATK": "1",
+    "DEF": "1",
+    "Leggenda": false,
+    "Tag": "dragon reanimate",
+    "Extra": false
+  },
+  "121076": {
+    "id": "121076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drago Destino Imperatore",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/6Qs1Qtcq/Drago%20Destino%20Imperatore.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drago Destino Imperatore",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Nero Rosso",
+    "Sottotipo": "Drago Zombie",
+    "ATK": "12",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "flier reanimate",
+    "Extra": true
+  },
+  "121077": {
+    "id": "121077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drago Fiamma Nera",
+        "type": "Mostro",
+        "cost": "7",
+        "image": "https://i.postimg.cc/QMpY9wYN/Drago%20Fiamma%20Nera.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drago Fiamma Nera",
+    "type": "Mostro",
+    "cost": "7",
+    "Colore": "Rosso",
+    "Sottotipo": "Drago",
+    "ATK": "6",
+    "DEF": "5",
+    "Leggenda": false,
+    "Tag": "+2/+2 counter flier burn removal",
+    "Extra": false
+  },
+  "121078": {
+    "id": "121078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drago Gadjiltron",
+        "type": "Mostro",
+        "cost": "8",
+        "image": "https://i.postimg.cc/rpSZ03Zp/Drago%20Gadjiltron.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drago Gadjiltron",
+    "type": "Mostro",
+    "cost": "8",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Drago Artefatto Ingranaggio",
+    "ATK": "15",
+    "DEF": "15",
+    "Leggenda": false,
+    "Tag": "gadget offer trample corrode loss counter",
+    "Extra": false
+  },
+  "121079": {
+    "id": "121079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drago Polvere di Stelle",
+        "type": "Mostro",
+        "cost": "8",
+        "image": "https://i.postimg.cc/fbxqtpqy/Drago%20Polvere%20di%20Stelle.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drago Polvere di Stelle",
+    "type": "Mostro",
+    "cost": "8",
+    "Colore": "Bianco Blu",
+    "Sottotipo": "Drago",
+    "ATK": "12",
+    "DEF": "10",
+    "Leggenda": false,
+    "Tag": "flier protection negate removal banish",
+    "Extra": true
+  },
+  "121080": {
+    "id": "121080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drago Rosa Nera",
+        "type": "Mostro",
+        "cost": "7",
+        "image": "https://i.postimg.cc/YS1DGZDh/Drago%20Rosa%20Nera.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drago Rosa Nera",
+    "type": "Mostro",
+    "cost": "7",
+    "Colore": "Rosso Verde",
+    "Sottotipo": "Drago",
+    "ATK": "12",
+    "DEF": "9",
+    "Leggenda": false,
+    "Tag": "removal boardwipe plant rage flier ",
+    "Extra": true
+  },
+  "121081": {
+    "id": "121081",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drago Teschio-Demone",
+        "type": "Mostro",
+        "cost": "5",
+        "image": "https://i.postimg.cc/SKW12312/Drago%20Teschio%20Demone.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drago Teschio-Demone",
+    "type": "Mostro",
+    "cost": "5",
+    "Colore": "Nero Bianco",
+    "Sottotipo": "Drago Demone",
+    "ATK": "10",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "zombie fiend elusive floodgate",
+    "Extra": false
+  },
+  "121082": {
+    "id": "121082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drago Tiranno",
+        "type": "Mostro",
+        "cost": "8",
+        "image": "https://i.postimg.cc/tghvZwvx/Drago%20Tiranno.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drago Tiranno",
+    "type": "Mostro",
+    "cost": "8",
+    "Colore": "Rosso",
+    "Sottotipo": "Drago",
+    "ATK": "14",
+    "DEF": "13",
+    "Leggenda": false,
+    "Tag": "return flier double elusive",
+    "Extra": false
+  },
+  "121083": {
+    "id": "121083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drago Zombie Occhi-Rossi",
+        "type": "Mostro",
+        "cost": "7",
+        "image": "https://i.postimg.cc/CKjrBXrb/Drago%20Zombie%20Occhi%20Rossi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drago Zombie Occhi-Rossi",
+    "type": "Mostro",
+    "cost": "7",
+    "Colore": "Nero",
+    "Sottotipo": "Drago Zombie Occhi-Rossi",
+    "ATK": "12",
+    "DEF": "10",
+    "Leggenda": false,
+    "Tag": "offer zombie flier control",
+    "Extra": false
+  },
+  "121084": {
+    "id": "121084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragoni Atlantici",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/s2pHQqHK/Dragoni%20Atlantici.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dragoni Atlantici",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Blu",
+    "Sottotipo": "Tritone Atlantico",
+    "ATK": "9",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "shadow fodder merfolk level3 level2 level1 search",
+    "Extra": false
+  },
+  "121085": {
+    "id": "121085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragoniere Reietto",
+        "type": "Mostro",
+        "cost": "1",
+        "image": "https://i.postimg.cc/d1wH86gC/Dragoniere%20Reietto.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dragoniere Reietto",
+    "type": "Mostro",
+    "cost": "1",
+    "Colore": "Rosso",
+    "Sottotipo": "Sciamano Umano",
+    "ATK": "2",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "landmark flier token",
+    "Extra": false
+  },
+  "121086": {
+    "id": "121086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragonute Ascia",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/ydsQFj2c/Dragonute%20Ascia.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dragonute Ascia",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Nero",
+    "Sottotipo": "Drago",
+    "ATK": "10",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "hook",
+    "Extra": false
+  },
+  "121087": {
+    "id": "121087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Driade Militante",
+        "type": "Mostro",
+        "cost": "1",
+        "image": "https://i.postimg.cc/50b7wgDn/Driade%20Militante.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Driade Militante",
+    "type": "Mostro",
+    "cost": "1",
+    "Colore": "Bianco Verde",
+    "Sottotipo": "Pianta Soldato",
+    "ATK": "4",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "antigrave banish",
+    "Extra": false
+  },
+  "121088": {
+    "id": "121088",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drogskol Razziatore",
+        "type": "Mostro",
+        "cost": "7",
+        "image": "https://i.postimg.cc/qR4b8wW1/Drogskol%20Razziatore.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drogskol Razziatore",
+    "type": "Mostro",
+    "cost": "7",
+    "Colore": "Azorius",
+    "Sottotipo": "Spirito",
+    "ATK": "6",
+    "DEF": "10",
+    "Leggenda": false,
+    "Tag": "flier lifegain doublestrike draw",
+    "Extra": false
+  },
+  "121089": {
+    "id": "121089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Druido dei Germogli Primaverili",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/85NKh4xX/Druido%20dei%20Germogli%20Primaverili.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Druido dei Germogli Primaverili",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Verde",
+    "Sottotipo": "Elfo Sciamano",
+    "ATK": "2",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "landmark token ramp",
+    "Extra": false
+  },
+  "121090": {
+    "id": "121090",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Duemila Punte",
+        "type": "Mostro",
+        "cost": "5",
+        "image": "https://i.postimg.cc/Qth4pmvz/Duemila%20Punte.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Duemila Punte",
+    "type": "Mostro",
+    "cost": "5",
+    "Colore": "Verde",
+    "Sottotipo": "Bestia",
+    "ATK": "10",
+    "DEF": "9",
+    "Leggenda": false,
+    "Tag": "firststrike",
+    "Extra": false
+  },
+  "121091": {
+    "id": "121091",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Empatico Spietato",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/50gPpvMr/Empatico%20Spietato.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Empatico Spietato",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Verde",
+    "Sottotipo": "Pianta",
+    "ATK": "2",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "search level6+",
+    "Extra": false
+  },
+  "121092": {
+    "id": "121092",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Esploratore delle Profondità ",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/HxzS35gr/Esploratore%20delle%20Profondit%C3%A0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Esploratore delle Profondità ",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Blu",
+    "Sottotipo": "Umano Acquatico",
+    "ATK": "5",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "search spellsling",
+    "Extra": false
+  },
+  "121093": {
+    "id": "121093",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Evocatore Gemelli",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/d16WndYC/Evocatore%20Gemelli.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Evocatore Gemelli",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Bianco",
+    "Sottotipo": "Mago Umano",
+    "ATK": "7",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "filter gemini",
+    "Extra": false
+  },
+  "121094": {
+    "id": "121094",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fanteria Pesante Atlantica",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/tJgBcTqx/Fanteria%20Pesante%20Atlantica.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fanteria Pesante Atlantica",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Blu",
+    "Sottotipo": "Soldato Tritone Atlantico",
+    "ATK": "0",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "handsummon ramp level 2- merfolk fodder removal",
+    "Extra": false
+  },
+  "121095": {
+    "id": "121095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fata delle Spine",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/1XzvdtmC/Fata%20delle%20Spine.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fata delle Spine",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Verde",
+    "Sottotipo": "Fata Pianta",
+    "ATK": "2",
+    "DEF": "10",
+    "Leggenda": false,
+    "Tag": "hook corrode loss counter",
+    "Extra": false
+  },
+  "121096": {
+    "id": "121096",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flagello degli Eroi",
+        "type": "Mostro",
+        "cost": "5",
+        "image": "https://i.postimg.cc/qqZ1HTq5/Flagello%20degli%20Eroi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flagello degli Eroi",
+    "type": "Mostro",
+    "cost": "5",
+    "Colore": "Verde",
+    "Sottotipo": "Rettile",
+    "ATK": "8",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "+2/+2 counter threat",
+    "Extra": false
+  },
+  "121097": {
+    "id": "121097",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Folletta Beffarda",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/T1Htv61S/Folletta%20Beffarda.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Folletta Beffarda",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Blu",
+    "Sottotipo": "Fata Fuorilegge",
+    "ATK": "4",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "flier spellsling ramp",
+    "Extra": false
+  },
+  "121098": {
+    "id": "121098",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Folletto dei Sogni",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/0jHV1sr1/Folletto%20dei%20Sogni.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Folletto dei Sogni",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Verde",
+    "Sottotipo": "Pianta",
+    "ATK": "3",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "snipe deviate",
+    "Extra": false
+  },
+  "121099": {
+    "id": "121099",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frantumatore del Blu Perduto",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/c1D9nQh7/Frantumatore%20del%20Blu%20Perduto.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frantumatore del Blu Perduto",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Blu",
+    "Sottotipo": "Pesce",
+    "ATK": "7",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "removal antispell antiartifact",
+    "Extra": false
+  },
+  "121100": {
+    "id": "121100",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Freed il Generale Senza Rivali",
+        "type": "Mostro",
+        "cost": "5",
+        "image": "https://i.postimg.cc/v8PqVWhz/Freed%20il%20Generale%20Senza%20Rivali.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Freed il Generale Senza Rivali",
+    "type": "Mostro",
+    "cost": "5",
+    "Colore": "Bianco",
+    "Sottotipo": "Cavaliere Umano",
+    "ATK": "11",
+    "DEF": "9",
+    "Leggenda": true,
+    "Tag": "elusive search human level4-",
+    "Extra": false
+  },
+  "121101": {
+    "id": "121101",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Freed il Viandante Coraggioso",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/3rLSvg1V/Freed%20il%20Viandante%20Coraggioso.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Freed il Viandante Coraggioso",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Bianco",
+    "Sottotipo": "Cavaliere Umano",
+    "ATK": "9",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "banish removal antitall antimonster",
+    "Extra": false
+  },
+  "121102": {
+    "id": "121102",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fulmine Globulare",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/15fWcf7W/Fulmine%20Globulare.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fulmine Globulare",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Rosso",
+    "Sottotipo": "Elemental",
+    "ATK": "12",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "haste trample aggro",
+    "Extra": false
+  },
+  "121103": {
+    "id": "121103",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Furtiva dei Cancelli",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/wT7Wc7b8/Furtiva%20dei%20Cancelli.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Furtiva dei Cancelli",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Blu",
+    "Sottotipo": "Fuorilegge Vedalken",
+    "ATK": "2",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "gate unblockable draw",
+    "Extra": false
+  },
+  "121104": {
+    "id": "121104",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fynn il Portatore della Zanna",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/m2tdNt6G/Fynn%20il%20Portatore%20della%20Zanna.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fynn il Portatore della Zanna",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Verde",
+    "Sottotipo": "Guerriero Umano",
+    "ATK": "2",
+    "DEF": "6",
+    "Leggenda": true,
+    "Tag": "deathtouch removal antimonster corrode loss counter",
+    "Extra": false
+  },
+  "121105": {
+    "id": "121105",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Galeogrugno",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/15fWcfYy/Galeogrugno.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Galeogrugno",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Nero",
+    "Sottotipo": "Leggenda Gemelli Zombie",
+    "ATK": "10",
+    "DEF": "14",
+    "Leggenda": true,
+    "Tag": "gemini zombie handsummon reanimate",
+    "Extra": false
+  },
+  "121106": {
+    "id": "121106",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Garna, Pugno Sanguinario di Keld",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/xTcsycF0/Garna%20Pugno%20Sanguinario%20di%20Keld.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Garna, Pugno Sanguinario di Keld",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Rakdos",
+    "Sottotipo": "Guerriero Umano",
+    "ATK": "8",
+    "DEF": "6",
+    "Leggenda": true,
+    "Tag": "morbid draw burn",
+    "Extra": false
+  },
+  "121107": {
+    "id": "121107",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gatto da Soccorso",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/CLzvHz6d/Gatto%20da%20Soccorso.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gatto da Soccorso",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Verde",
+    "Sottotipo": "Bestia Felino",
+    "ATK": "3",
+    "DEF": "1",
+    "Leggenda": false,
+    "Tag": "beast level3- decksummon search",
+    "Extra": false
+  },
+  "121108": {
+    "id": "121108",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gearfried Fenice",
+        "type": "Mostro",
+        "cost": "8",
+        "image": "https://i.postimg.cc/PrP6zPFL/Gearfried%20Fenice.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gearfried Fenice",
+    "type": "Mostro",
+    "cost": "8",
+    "Colore": "Bianco Rosso",
+    "Sottotipo": "Gemelli Cavaliere",
+    "ATK": "14",
+    "DEF": "11",
+    "Leggenda": true,
+    "Tag": "gemini reanimate recursion elusive protection",
+    "Extra": false
+  },
+  "121109": {
+    "id": "121109",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gellenduo",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/pX4s0RgP/Gellenduo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gellenduo",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Bianco",
+    "Sottotipo": "Fata",
+    "ATK": "8",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "filter offer",
+    "Extra": false
+  },
+  "121110": {
+    "id": "121110",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Genio delle Tempeste",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/SN3gZkwj/Genio%20delle%20Tempeste.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Genio delle Tempeste",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Blu",
+    "Sottotipo": "Elementale",
+    "ATK": "0",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "flier monoblue artifact enchant equip",
+    "Extra": false
+  },
+  "121111": {
+    "id": "121111",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gernia",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/SN3gZkw2/Gernia.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gernia",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Nero",
+    "Sottotipo": "Zombie",
+    "ATK": "6",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "persist float fodder",
+    "Extra": false
+  },
+  "121112": {
+    "id": "121112",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Giavellotto Dragunità ",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/qMS1m496/Giavellotto%20Dragunit%C3%A0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Giavellotto Dragunità",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Rosso",
+    "Sottotipo": "Drago Dragunità",
+    "ATK": "6",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "bird synchro aftermath",
+    "Extra": false
+  },
+  "121113": {
+    "id": "121113",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gigante Famelico",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/Pr9S6TBD/Gigante%20Famelico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gigante Famelico",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Rosso",
+    "Sottotipo": "Orco",
+    "ATK": "10",
+    "DEF": "10",
+    "Leggenda": false,
+    "Tag": "aggro",
+    "Extra": false
+  },
+  "121114": {
+    "id": "121114",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gigantosauro",
+        "type": "Mostro",
+        "cost": "5",
+        "image": "https://i.postimg.cc/hP62CcHx/Gigantosauro.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gigantosauro",
+    "type": "Mostro",
+    "cost": "5",
+    "Colore": "Verde",
+    "Sottotipo": "Dinosauro",
+    "ATK": "20",
+    "DEF": "20",
+    "Leggenda": false,
+    "Tag": "monogreen",
+    "Extra": false
+  },
+  "121115": {
+    "id": "121115",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Giudice dell'Angoscia",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/7YdKBwpn/Giudice%20dell%20Angoscia.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Giudice dell'Angoscia",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Nero",
+    "Sottotipo": "Demone",
+    "ATK": "10",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "flier draw discard removal drain burn lifegain",
+    "Extra": false
+  },
+  "121116": {
+    "id": "121116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Golem Ingranaggio Antico",
+        "type": "Magia",
+        "cost": "8",
+        "image": "https://i.postimg.cc/c42FD0VF/Golem%20Ingranaggio%20Antico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Golem Ingranaggio Antico",
+    "type": "Mostro",
+    "cost": "8",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Golem Artefatto Ingranaggio",
+    "ATK": "15",
+    "DEF": "15",
+    "Leggenda": false,
+    "Tag": "intimidate trample",
+    "Extra": false
+  },
+  "121117": {
+    "id": "121117",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Golem Meteora",
+        "type": "Mostro",
+        "cost": "5",
+        "image": "https://i.postimg.cc/HkMBRFg9/Golem%20Meteora.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Golem Meteora",
+    "type": "Mostro",
+    "cost": "7",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Golem Artefatto",
+    "ATK": "6",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "removal",
+    "Extra": false
+  },
+  "121118": {
+    "id": "121118",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Golem-Ingranaggio la Fortezza Movente",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/VktDp284/Golem%20Ingranaggio%20la%20Fortezza%20Movente.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Golem-Ingranaggio la Fortezza Movente",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Golem Artefatto",
+    "ATK": "4",
+    "DEF": "10",
+    "Leggenda": false,
+    "Tag": "unblockable",
+    "Extra": false
+  },
+  "121119": {
+    "id": "121119",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gransqualo Vorace",
+        "type": "Mostro",
+        "cost": "5",
+        "image": "https://i.postimg.cc/Sx9D3HhT/Gransqualo%20Vorace.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gransqualo Vorace",
+    "type": "Mostro",
+    "cost": "5",
+    "Colore": "Blu",
+    "Sottotipo": "Pesce",
+    "ATK": "10",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "flash negate antimonster antiartifact",
+    "Extra": false
+  },
+  "121120": {
+    "id": "121120",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guardia Reale",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/mg98JK4W/Guardia%20Reale.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guardia Reale",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Nero",
+    "Sottotipo": "Soldato Zombie",
+    "ATK": "8",
+    "DEF": "9",
+    "Leggenda": false,
+    "Tag": "flip +2/+2 counter camouflage",
+    "Extra": false
+  },
+  "121121": {
+    "id": "121121",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guardiani del Ciclo",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/sgWwqbzR/Guardiani%20del%20Ciclo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guardiani del Ciclo",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Golgari",
+    "Sottotipo": "Elfo Fuorilegge",
+    "ATK": "6",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "morbid lifegain draw",
+    "Extra": false
+  },
+  "121122": {
+    "id": "121122",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guerriero D.D.",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/3xGnVzhY/Guerriero%20D%20D.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guerriero D.D.",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Bianco",
+    "Sottotipo": "Guerriero",
+    "ATK": "6",
+    "DEF": "5",
+    "Leggenda": false,
+    "Tag": "banish removal antimonster",
+    "Extra": false
+  },
+  "121123": {
+    "id": "121123",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guerriero di Atlantide",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/6QNYXz6X/Guerriero%20di%20Atlantide.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guerriero di Atlantide",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Blu",
+    "Sottotipo": "Tritone Guerriero Atlantico",
+    "ATK": "7",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "merfolk anthem fortify ramp",
+    "Extra": false
+  },
+  "121124": {
+    "id": "121124",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guerriero Nitro",
+        "type": "Mostro",
+        "cost": "7",
+        "image": "https://i.postimg.cc/s2RwrKfy/Guerriero%20Nitro.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guerriero Nitro",
+    "type": "Mostro",
+    "cost": "7",
+    "Colore": "Blu Rosso",
+    "Sottotipo": "Synchro Guerriero",
+    "ATK": "14",
+    "DEF": "9",
+    "Leggenda": false,
+    "Tag": "prowess spellsling doublestrike",
+    "Extra": true
+  },
+  "121125": {
+    "id": "121125",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gyroid",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/6QNYXz6B/Gyroid.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gyroid",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Vehicroid Artefatto",
+    "ATK": "5",
+    "DEF": "5",
+    "Leggenda": false,
+    "Tag": "flier filter",
+    "Extra": false
+  },
+  "121126": {
+    "id": "121126",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ha Des Sovrano Oscuro ",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/KYyJ2QcG/Ha%20Des%20Sovrano%20Oscuro.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ha Des Sovrano Oscuro ",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Nero",
+    "Sottotipo": "Demone Nobile",
+    "ATK": "12",
+    "DEF": "8",
+    "Leggenda": true,
+    "Tag": "fiend intimidate menace",
+    "Extra": false
+  },
+  "121127": {
+    "id": "121127",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Halana e Alena, Compagne",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/FKgGsc1K/Halana%20e%20Alena%20Compagne.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Halana e Alena, Compagne",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Gruul",
+    "Sottotipo": "Guerriero Umano",
+    "ATK": "4",
+    "DEF": "6",
+    "Leggenda": true,
+    "Tag": "firststrike snipe haste +2/+2 counter",
+    "Extra": false
+  },
+  "121128": {
+    "id": "121128",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hoshiningen",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/q7djTQB6/Hoshiningen.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hoshiningen",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Bianco",
+    "Sottotipo": "Fata",
+    "ATK": "2",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "lord",
+    "Extra": false
+  },
+  "121129": {
+    "id": "121129",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Immolatore di Fuoco del Cuore",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/PqzKrZN6/Immolatore-di-Fuoco-del-Cuore.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Immolatore di Fuoco del Cuore",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Rosso",
+    "Sottotipo": "Mago Umano",
+    "ATK": "4",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "prowess spellsling threat removal",
+    "Extra": false
+  },
+  "121130": {
+    "id": "121130",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ingegnere Ingranaggio Antico",
+        "type": "Mostro",
+        "cost": "5",
+        "image": "https://i.postimg.cc/HxYzJx7P/Ingegnere%20Ingranaggio%20Antico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ingegnere Ingranaggio Antico",
+    "type": "Mostro",
+    "cost": "5",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Artefatto Ingranaggio ",
+    "ATK": "7",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "elusive intimidate demolish removal",
+    "Extra": false
+  },
+  "121131": {
+    "id": "121131",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ingranaggio Antico",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/Twd0ywDM/Ingranaggio%20Antico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ingranaggio Antico",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Artefatto Ingranaggio",
+    "ATK": "1",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "affinity gear",
+    "Extra": false
+  },
+  "121132": {
+    "id": "121132",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Intenditrice di Veleni",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/ZRwc6S8J/Intenditrice%20di%20Veleni.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Intenditrice di Veleni",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Verde",
+    "Sottotipo": "Druido Umano",
+    "ATK": "4",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "deathtouch removal",
+    "Extra": false
+  },
+  "121133": {
+    "id": "121133",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Joan Angelo Guardiano ",
+        "type": "Mostro",
+        "cost": "7",
+        "image": "https://i.postimg.cc/1tvHDQGq/Joan%20Angelo%20Guardiano.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Joan Angelo Guardiano ",
+    "type": "Mostro",
+    "cost": "7",
+    "Colore": "Bianco",
+    "Sottotipo": "Fata",
+    "ATK": "14",
+    "DEF": "10",
+    "Leggenda": false,
+    "Tag": "flier lifelink lifegain",
+    "Extra": false
+  },
+  "121134": {
+    "id": "121134",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Koalo-Koala",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/k4TcWmQx/Koalo%20Koala.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Koalo-Koala",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Verde Rosso",
+    "Sottotipo": "Fusione Bestia",
+    "ATK": "14",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "beast removal hit",
+    "Extra": true
+  },
+  "121135": {
+    "id": "121135",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kuraz il Monarca della Luce",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/T1hc940r/Kuraz%20il%20Monarca%20della%20Luce.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kuraz il Monarca della Luce",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Bianco",
+    "Sottotipo": "Guerriero Monarca",
+    "ATK": "12",
+    "DEF": "5",
+    "Leggenda": false,
+    "Tag": "shortcut removal draw",
+    "Extra": false
+  },
+  "121136": {
+    "id": "121136",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "L'Agile Momonga",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/C5d4NQ72/L%20Agile%20Momonga.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "L'Agile Momonga",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Verde",
+    "Sottotipo": "Bestia",
+    "ATK": "5",
+    "DEF": "1",
+    "Leggenda": false,
+    "Tag": "aftermath float lifegain decksummon search",
+    "Extra": false
+  },
+  "121137": {
+    "id": "121137",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "L'Ultimo Guerriero da un Altro Pianeta",
+        "type": "Mostro",
+        "cost": "7",
+        "image": "https://i.postimg.cc/15nHVbfz/L%20Ultimo%20Guerriero%20da%20un%20Altro%20Pianeta.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "L'Ultimo Guerriero da un Altro Pianeta",
+    "type": "Mostro",
+    "cost": "7",
+    "Colore": "Verde Bianco",
+    "Sottotipo": "Fusione Alieno Artefatto",
+    "ATK": "11",
+    "DEF": "12",
+    "Leggenda": true,
+    "Tag": "floodgate reptile aqua alien fiend",
+    "Extra": true
+  },
+  "121138": {
+    "id": "121138",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lama Oscura il Cavaliere del Drago",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/D0mcgM5V/Lama%20Oscura%20il%20Cavaliere%20del%20Drago.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lama Oscura il Cavaliere del Drago",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Nero Rosso",
+    "Sottotipo": "Fusione Guerriero Drago",
+    "ATK": "11",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "warrior dragon flier antigrave banish",
+    "Extra": true
+  },
+  "121139": {
+    "id": "121139",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lancia Demente",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/wMPQbQ40/Lancia%20Demente.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lancia Demente",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Rosso",
+    "Sottotipo": "Demone",
+    "ATK": "2",
+    "DEF": "3",
+    "Leggenda": false,
+    "Tag": "persist float +2/+2 counter",
+    "Extra": false
+  },
+  "121140": {
+    "id": "121140",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lancianera Dragunità ",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/hvw131ZN/Lancianera%20Dragunit%C3%A0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lancianera Dragunità",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Rosso",
+    "Sottotipo": "Drago Dragunità",
+    "ATK": "5",
+    "DEF": "5",
+    "Leggenda": false,
+    "Tag": "synchro dragon bird reanimate",
+    "Extra": false
+  },
+  "121141": {
+    "id": "121141",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lathliss, Regina dei Draghi",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/XqhkDkD0/Lathliss%20Regina%20dei%20Draghi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lathliss, Regina dei Draghi",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Rosso",
+    "Sottotipo": "Drago",
+    "ATK": "12",
+    "DEF": "12",
+    "Leggenda": true,
+    "Tag": "flier dragon token anthem breath",
+    "Extra": false
+  },
+  "121142": {
+    "id": "121142",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Layard il Liberatore ",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/rsbNYNYq/Layard%20il%20Liberatore.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Layard il Liberatore ",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Bianco",
+    "Sottotipo": "Fata",
+    "ATK": "7",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "banish recover recursion lifegain flier fairy",
+    "Extra": false
+  },
+  "121143": {
+    "id": "121143",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Legionario Dragunità",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/gj5HBHBr/Legionario%20Dragunit%C3%A0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Legionario Dragunità ",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Rosso",
+    "Sottotipo": "Uccello Dragunità",
+    "ATK": "6",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "dragon recursion equip removal antimonster",
+    "Extra": false
+  },
+  "121144": {
+    "id": "121144",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lekunga",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/VsHg6zsB/Lekunga.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lekunga",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Verde",
+    "Sottotipo": "Pianta",
+    "ATK": "8",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "myriad token",
+    "Extra": false
+  },
+  "121145": {
+    "id": "121145",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leyvaten Arma Dragunità",
+        "type": "Mostro",
+        "cost": "8",
+        "image": "https://i.postimg.cc/L40DXm4v/Leyvaten%20Arma%20Dragunit%C3%A0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leyvaten Arma Dragunità",
+    "type": "Mostro",
+    "cost": "8",
+    "Colore": "Rosso",
+    "Sottotipo": "Drago Dragunità",
+    "ATK": "13",
+    "DEF": "12",
+    "Leggenda": true,
+    "Tag": "offer flier dragon equip goodbye reanimate",
+    "Extra": false
+  },
+  "121146": {
+    "id": "121146",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Licantropo",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/gcBsJGct/Licantropo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Licantropo",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Gruul",
+    "Sottotipo": "Terio Lupo",
+    "ATK": "12",
+    "DEF": "9",
+    "Leggenda": false,
+    "Tag": "deathtouch burn removal antimonster",
+    "Extra": false
+  },
+  "121147": {
+    "id": "121147",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Limite dei 1000 Occhi",
+        "type": "Mostro",
+        "cost": "0",
+        "image": "https://i.postimg.cc/RCbdFvC2/Limite%20dei%201000%20Occhi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Limite dei 1000 Occhi",
+    "type": "Mostro",
+    "cost": "1",
+    "Colore": "Nero oppure Blu",
+    "Sottotipo": "Fusione Mago",
+    "ATK": "0",
+    "DEF": "1",
+    "Leggenda": false,
+    "Tag": "floodgate control regenerate",
+    "Extra": true
+  },
+  "121148": {
+    "id": "121148",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lince Reale",
+        "type": "Mostro",
+        "cost": "5",
+        "image": "https://i.postimg.cc/MZr5TzKS/Lince%20Reale.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lince Reale",
+    "type": "Mostro",
+    "cost": "5",
+    "Colore": "Bianco",
+    "Sottotipo": "Bestia Felino",
+    "ATK": "6",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "cat lord lifegain lifelink token",
+    "Extra": false
+  },
+  "121149": {
+    "id": "121149",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Linden, la Regina Risoluta",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/Y2yR9tqt/Linden%20la%20Regina%20Risoluta.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Linden, la Regina Risoluta",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Bianco",
+    "Sottotipo": "Nobile Umano",
+    "ATK": "6",
+    "DEF": "6",
+    "Leggenda": true,
+    "Tag": "vigilance monowhite lifegain heal",
+    "Extra": false
+  },
+  "121150": {
+    "id": "121150",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lyra Dawnbringer",
+        "type": "Mostro",
+        "cost": "5",
+        "image": "https://i.postimg.cc/DyJg4R80/Lyra%20Dawnbringer.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lyra Dawnbringer",
+    "type": "Mostro",
+    "cost": "5",
+    "Colore": "Bianco",
+    "Sottotipo": "Fata",
+    "ATK": "8",
+    "DEF": "8",
+    "Leggenda": true,
+    "Tag": "flier firststrike fairy lord anthem lifegain lifelink",
+    "Extra": false
+  },
+  "121151": {
+    "id": "121151",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Maestro Kyonshee",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/tCZ5n8Y7/Maestro%20Kyonshee.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maestro Kyonshee",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Nero",
+    "Sottotipo": "Vampiro Zombie",
+    "ATK": "9",
+    "DEF": "5",
+    "Leggenda": false,
+    "Tag": "vanilla",
+    "Extra": false
+  },
+  "121152": {
+    "id": "121152",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mago di Arcanite",
+        "type": "Mostro",
+        "cost": "0",
+        "image": "https://i.postimg.cc/J4DqHSGs/Mago%20di%20Arcanite.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mago di Arcanite",
+    "type": "Mostro",
+    "cost": "7",
+    "Colore": "Nero Bianco Blu",
+    "Sottotipo": "Synchro Mago",
+    "ATK": "2",
+    "DEF": "9",
+    "Leggenda": false,
+    "Tag": "spellcounter atk buff removal",
+    "Extra": true
+  },
+  "121153": {
+    "id": "121153",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mago Supremo di Arcanite",
+        "type": "Mostro",
+        "cost": "10",
+        "image": "https://i.postimg.cc/qMPGsQ37/Mago%20Supremo%20di%20Arcanite.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mago Supremo di Arcanite",
+    "type": "Mostro",
+    "cost": "7",
+    "Colore": "Nero Blu Bianco",
+    "Sottotipo": "Fusione Mago",
+    "ATK": "7",
+    "DEF": "14",
+    "Leggenda": false,
+    "Tag": "spellcounter counter atk buff draw removal",
+    "Extra": true
+  },
+  "121154": {
+    "id": "121154",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Marescialla Ala dell'Alba",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/ncy14TD9/Marescialla%20Ala%20dell%20Alba.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Marescialla Ala dell'Alba",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Bianco",
+    "Sottotipo": "Terio Felino Soldato",
+    "ATK": "4",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "flier anthem",
+    "Extra": false
+  },
+  "121155": {
+    "id": "121155",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mascellardente Gigante",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/c4pcRTnQ/Mascellardente%20Gigante.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mascellardente Gigante",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Rosso",
+    "Sottotipo": "Bestia Dinosauro",
+    "ATK": "8",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "trample antiheal",
+    "Extra": false
+  },
+  "121156": {
+    "id": "121156",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Maschera dell'Oscurità",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/28sxQTZF/Maschera%20dell%20Oscurit%C3%A0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maschera dell'Oscurità",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Nero",
+    "Sottotipo": "Demone Artefatto",
+    "ATK": "5",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "flip recover artifact recursion",
+    "Extra": false
+  },
+  "122001": {
+    "id": "122001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Carovana della Coltivatrice ",
+        "type": "Pendulum",
+        "cost": "3",
+        "image": "https://i.postimg.cc/mDsqmB1Y/Carovana%20della%20Coltivatrice.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Carovana della Coltivatrice ",
+    "type": "Pendulum",
+    "cost": "3",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Artefatto Veicolo",
+    "ATK": "10",
+    "DEF": "10",
+    "Leggenda": false,
+    "Tag": "pendulum mobilize nomi ramp",
+    "Extra": false
+  },
+  "122002": {
+    "id": "122002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Distese Striscianti",
+        "type": "Pendulum",
+        "cost": "3",
+        "image": "https://i.postimg.cc/FKtnKNZ2/Distese%20Striscianti.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Distese Striscianti",
+    "type": "Pendulum",
+    "cost": "3",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Tappa Elementale",
+    "ATK": "0",
+    "DEF": "1",
+    "Leggenda": false,
+    "Tag": "nomi ramp mobilize +2/+2 counter",
+    "Extra": false
+  },
+  "123001": {
+    "id": "123001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abbondanza Primordiale",
+        "type": "Magia",
+        "cost": "6",
+        "image": "https://i.postimg.cc/Y0t5CMpQ/Abbondanza-Primordiale.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abbondanza Primordiale",
+    "type": "Magia",
+    "cost": "6",
+    "Colore": "Verde",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "token tokenmaker +2/+2 counter lifegain landfall spellsling",
+    "Extra": false
+  },
+  "123002": {
+    "id": "123002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abrasione",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/PJKBL9xz/Abrasione.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abrasione",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Rosso",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal antimonster antiartifact",
+    "Extra": false
+  },
+  "123003": {
+    "id": "123003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Andare in Berserk",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/T1QZyFwZ/Andare-in-Berserk.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Andare in Berserk",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Verde",
+    "Sottotipo": "Continua",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "beast battletrick",
+    "Extra": false
+  },
+  "123004": {
+    "id": "123004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arte Spirituale dell'Acqua - Aoi",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/YqCccrDB/Arte-Spirituale-dell-Acqua-Aoi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arte Spirituale dell'Acqua - Aoi",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Blu",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal",
+    "Extra": false
+  },
+  "123005": {
+    "id": "123005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arte Spirituale della Terra - Kurogane",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/qMvffJbY/Arte-Spirituale-della-Terra-Kurogane.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arte Spirituale della Terra - Kurogane",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Verde",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "reanimate",
+    "Extra": false
+  },
+  "123006": {
+    "id": "123006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Attaccati!",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/ncRypyNZ/Attaccati.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Attaccati!",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "union recover",
+    "Extra": false
+  },
+  "123007": {
+    "id": "123007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Attacco Icaro ",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/65jktkFW/Attacco-Icaro.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Attacco Icaro ",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "bird removal",
+    "Extra": false
+  },
+  "123008": {
+    "id": "123008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Baratto",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/138LtWZ8/Baratto.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Baratto",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "draw",
+    "Extra": false
+  },
+  "123009": {
+    "id": "123009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Batosta Arborea",
+        "type": "Magia",
+        "cost": "1",
+        "image": "https://i.postimg.cc/pLmgT0tB/Batosta-Arborea.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Batosta Arborea",
+    "type": "Magia",
+    "cost": "1",
+    "Colore": "Verde",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "fight removal search landmark",
+    "Extra": false
+  },
+  "123010": {
+    "id": "123010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Benedizione delle Lame Gemelle",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/kg2k4jdc/Benedizione-delle-Lame-Gemelle.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Benedizione delle Lame Gemelle",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Bianco",
+    "Sottotipo": "Equip",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "double strike",
+    "Extra": false
+  },
+  "123011": {
+    "id": "123011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Brivido della Possibilità",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/CxRW1vVP/Brivido-della-Possibilita.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brivido della Possibilità",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Rosso",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "draw",
+    "Extra": false
+  },
+  "123012": {
+    "id": "123012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Capro Espiatorio",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/3RT6tY0g/Capro%20Espiatorio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Capro Espiatorio",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Verde",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "token",
+    "Extra": false
+  },
+  "123013": {
+    "id": "123013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Caverne Criptiche",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/1trdT2pz/Caverne%20Criptiche.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Caverne Criptiche",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Continua",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "ramp draw",
+    "Extra": false
+  },
+  "123014": {
+    "id": "123014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Comando del Drago",
+        "type": "Magia",
+        "cost": "4",
+        "image": "https://i.postimg.cc/GtM53D7f/Comando%20del%20Drago.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Comando del Drago",
+    "type": "Magia",
+    "cost": "4",
+    "Colore": "Rosso",
+    "Sottotipo": "Continua Dragunità",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "dragunity",
+    "Extra": false
+  },
+  "123015": {
+    "id": "123015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Confiscare",
+        "type": "Magia",
+        "cost": "6",
+        "image": "https://i.postimg.cc/dQnX9Ms0/Confiscare.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Confiscare",
+    "type": "Magia",
+    "cost": "6",
+    "Colore": "Blu",
+    "Sottotipo": "Equip",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "control",
+    "Extra": false
+  },
+  "123016": {
+    "id": "123016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Controevocazione",
+        "type": "Magia",
+        "cost": "1",
+        "image": "https://i.postimg.cc/SQV5G0SW/Controevocazione.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Controevocazione",
+    "type": "Magia",
+    "cost": "1",
+    "Colore": "Blu",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "bounce removal antimonster",
+    "Extra": false
+  },
+  "123017": {
+    "id": "123017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Controllo della Mente",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/y6n5Tq1X/Controllo%20della%20Mente.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Controllo della Mente",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "control",
+    "Extra": false
+  },
+  "123018": {
+    "id": "123018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Coraggio Inflessibile",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/VL6hG7vF/Coraggio%20Inflessibile.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Coraggio Inflessibile",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Selesnya",
+    "Sottotipo": "Equip",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "trample lifegain",
+    "Extra": false
+  },
+  "123019": {
+    "id": "123019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Costrizione",
+        "type": "Magia",
+        "cost": "1",
+        "image": "https://i.postimg.cc/3JRqSLNt/Costrizione.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Costrizione",
+    "type": "Magia",
+    "cost": "1",
+    "Colore": "Nero",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "discard removal handreveal",
+    "Extra": false
+  },
+  "123020": {
+    "id": "123020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Decreto Devoto",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/jdFFGzJC/Decreto%20Devoto.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Decreto Devoto",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Bianco",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal banish antiblack antired scry",
+    "Extra": false
+  },
+  "123021": {
+    "id": "123021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Destino Angelico",
+        "type": "Magia",
+        "cost": "4",
+        "image": "https://i.postimg.cc/J4229bB3/Destino%20Angelico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Destino Angelico",
+    "type": "Magia",
+    "cost": "4",
+    "Colore": "Bianco",
+    "Sottotipo": "Equip",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "flier first strike recursion",
+    "Extra": false
+  },
+  "123022": {
+    "id": "123022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dettami di Krufix",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/t4nMyYhx/Dettami%20di%20Krufix.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dettami di Krufix",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Blu",
+    "Sottotipo": "Continua",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "flash draw",
+    "Extra": false
+  },
+  "123023": {
+    "id": "123023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Disincantare",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/3x0c7dg9/Disincantare.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Disincantare",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Bianco",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal antispell antiartifact",
+    "Extra": false
+  },
+  "123024": {
+    "id": "123024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Disperdere Essenza",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/T354Gprk/Disperdere%20Essenza.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Disperdere Essenza",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Blu",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal protection negate antimonster",
+    "Extra": false
+  },
+  "123025": {
+    "id": "123025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dissanguare",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/dVZxvL8x/Dissanguare.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dissanguare",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Nero",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "burn drain lifegain x",
+    "Extra": false
+  },
+  "123026": {
+    "id": "123026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Duplicazione di Macchine",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/63tjdcDJ/Duplicazione%20di%20Macchine.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Duplicazione di Macchine",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "decksummon search artifact atk3-",
+    "Extra": false
+  },
+  "123027": {
+    "id": "123027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Egida del Signore dei Draghi dell'Oceano ",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/pTRGDCgv/Egida%20del%20Signore%20dei%20Draghi%20dell%20Oceano.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Egida del Signore dei Draghi dell'Oceano",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Blu",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "armor barrier protection",
+    "Extra": false
+  },
+  "123028": {
+    "id": "123028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Egida di Gaia",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/854ywWV0/Egida%20di%20Gaia.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Egida di Gaia",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Continua",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "heal lifegain",
+    "Extra": false
+  },
+  "123029": {
+    "id": "123029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eruzione Oscura",
+        "type": "Magia",
+        "cost": "1",
+        "image": "https://i.postimg.cc/sXmnKSrR/Eruzione%20Oscura.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eruzione Oscura",
+    "type": "Magia",
+    "cost": "1",
+    "Colore": "Nero",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "recursion recover atk7-",
+    "Extra": false
+  },
+  "123030": {
+    "id": "123030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Esplosivo Ingranaggio Antico",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/ZRHfj3SR/Esplosivo%20Ingranaggio%20Antico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Esplosivo Ingranaggio Antico",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "burn artifact",
+    "Extra": false
+  },
+  "123031": {
+    "id": "123031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Essere d'Esempio",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/sXmnKSrG/Essere%20d%20Esempio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Essere d'Esempio",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Bianco Rosso",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "spellsling copy",
+    "Extra": false
+  },
+  "123032": {
+    "id": "123032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Evocazioni di Terrore",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/1Xzvdtm8/Evocazioni%20di%20Terrore.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Evocazioni di Terrore",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Nero",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "mill selfmill token x",
+    "Extra": false
+  },
+  "123033": {
+    "id": "123033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fascino dell'Oscurità",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/QCMfzt8c/Fascino%20dell%20Oscurit%C3%A0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fascino dell'Oscurità",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Nero",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "banish draw",
+    "Extra": false
+  },
+  "123034": {
+    "id": "123034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fauci Velenose",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/d305f1sS/Fauci%20Velenose.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fauci Velenose",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Verde",
+    "Sottotipo": "Continua",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "beast corrode loss counter",
+    "Extra": false
+  },
+  "123035": {
+    "id": "123035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fiammata di Drago",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/wMBwrvqG/Fiammata%20di%20Drago.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fiammata di Drago",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Rosso",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "dragon removal burn",
+    "Extra": false
+  },
+  "123036": {
+    "id": "123036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Finale di Rivelazione",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/Bbwmf0bB/Finale%20di%20Rivelazione.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Finale di Rivelazione",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Blu",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "draw recursion recycle untap limitbreak banish",
+    "Extra": false
+  },
+  "123037": {
+    "id": "123037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Follia del Cercatore",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/yxrLCHW7/Follia%20del%20Cercatore.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Follia del Cercatore",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Nero",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal debuff discard",
+    "Extra": false
+  },
+  "123038": {
+    "id": "123038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Foresta Spirituale",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/RhbgxBqS/Foresta%20Spirituale.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Foresta Spirituale",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Verde",
+    "Sottotipo": "Continua",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "filter protection",
+    "Extra": false
+  },
+  "123039": {
+    "id": "123039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Forza Riflessa",
+        "type": "Magia",
+        "cost": "6",
+        "image": "https://i.postimg.cc/ZYf7drHp/Forza%20Riflessa.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Forza Riflessa",
+    "type": "Magia",
+    "cost": "6",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal boardwipe antimonster",
+    "Extra": false
+  },
+  "123040": {
+    "id": "123040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frattura Sismica",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/xjsxzK5P/Frattura%20Sismica.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frattura Sismica",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Rosso",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal boardwipe antimonster",
+    "Extra": false
+  },
+  "123041": {
+    "id": "123041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fulmine Dirompente",
+        "type": "Magia",
+        "cost": "-2",
+        "image": "https://i.postimg.cc/QN64TpSL/Fulmine%20Dirompente.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fulmine Dirompente",
+    "type": "Magia",
+    "cost": "1",
+    "Colore": "Rosso",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "antimonster removal burn kicker",
+    "Extra": false
+  },
+  "123042": {
+    "id": "123042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fumigare",
+        "type": "Magia",
+        "cost": "5",
+        "image": "https://i.postimg.cc/jdL8QL3k/Fumigare.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fumigare",
+    "type": "Magia",
+    "cost": "5",
+    "Colore": "Bianco",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal boardwipe antimonster lifegain",
+    "Extra": false
+  },
+  "123043": {
+    "id": "123043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gelolampo",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/kXzTjqkn/Gelolampo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gelolampo",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Blu",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "negate protection removal antired antigreen",
+    "Extra": false
+  },
+  "123044": {
+    "id": "123044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Giudizio Solenne",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/m2JmdB0N/Giudizio%20Solenne.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Giudizio Solenne",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "negate removal protection",
+    "Extra": false
+  },
+  "123045": {
+    "id": "123045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Illusione Oscura",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/6QNYXz6Z/Illusione%20Oscura.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Illusione Oscura",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Nero",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "elusive protection",
+    "Extra": false
+  },
+  "123046": {
+    "id": "123046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Immergersi",
+        "type": "Magia",
+        "cost": "1",
+        "image": "https://i.postimg.cc/YSf8qgj6/Immergersi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Immergersi",
+    "type": "Magia",
+    "cost": "1",
+    "Colore": "Blu",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "protection elusive def buff",
+    "Extra": false
+  },
+  "123047": {
+    "id": "123047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Impulso del Maelstrom",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/W46SbrtY/Impulso%20del%20Maelstrom.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Impulso del Maelstrom",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Golgari",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal",
+    "Extra": false
+  },
+  "123048": {
+    "id": "123048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Infuso Mortale",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/504gH0FS/Infuso%20Mortale.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Infuso Mortale",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Golgari",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal recover recursion tribute",
+    "Extra": false
+  },
+  "123049": {
+    "id": "123049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Insegnamenti Mistici",
+        "type": "Magia",
+        "cost": "4",
+        "image": "https://i.postimg.cc/bJygGJ24/Insegnamenti%20Mistici.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Insegnamenti Mistici",
+    "type": "Magia",
+    "cost": "4",
+    "Colore": "Blu Dimir",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "search instant flashback flash",
+    "Extra": false
+  },
+  "123050": {
+    "id": "123050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Insurrezione di Garruk",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/C1h7Z1qF/Insurrezione%20di%20Garruk.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Insurrezione di Garruk",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Verde",
+    "Sottotipo": "Continua",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "trample draw atk8+",
+    "Extra": false
+  },
+  "123051": {
+    "id": "123051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "La Grande Marcia degli Animali",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/Y0jx3sRd/La%20Grande%20Marcia%20degli%20Animali.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "La Grande Marcia degli Animali",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Verde",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "beast atk buff",
+    "Extra": false
+  },
+  "123052": {
+    "id": "123052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Laboratorio Ingranaggio Antico",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/zv3kjc7M/Laboratorio%20Ingranaggio%20Antico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Laboratorio Ingranaggio Antico",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Ingranaggio",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "recover recursion gear",
+    "Extra": false
+  },
+  "123053": {
+    "id": "123053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lancia in Resta",
+        "type": "Magia",
+        "cost": "1",
+        "image": "https://i.postimg.cc/wMPQbQ4G/Lancia%20in%20Resta.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lancia in Resta",
+    "type": "Magia",
+    "cost": "1",
+    "Colore": "Bianco",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal antimonster heal lifegain",
+    "Extra": false
+  },
+  "123055": {
+    "id": "123055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Luce del Giudizio",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/02MfKhb1/Luce%20del%20Giudizio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Luce del Giudizio",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Bianco",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal discard",
+    "Extra": false
+  },
+  "123056": {
+    "id": "123056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Luce del Richiamo",
+        "type": "Magia",
+        "cost": "7",
+        "image": "https://i.postimg.cc/m2zw1KtB/Luce%20del%20Richiamo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Luce del Richiamo",
+    "type": "Magia",
+    "cost": "7",
+    "Colore": "Bianco",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "recursion recover discard shortcut",
+    "Extra": false
+  },
+  "123057": {
+    "id": "123057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Marchiare a Morte",
+        "type": "Magia",
+        "cost": "1",
+        "image": "https://i.postimg.cc/Hsqtw3y7/Marchiare%20a%20Morte.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Marchiare a Morte",
+    "type": "Magia",
+    "cost": "1",
+    "Colore": "Nero",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "antigreen antiwhite antimonster removal destroy",
+    "Extra": false
+  },
+  "123072": {
+    "id": "123072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Itinerario Tortuoso",
+        "type": "Magia",
+        "cost": "4",
+        "image": "https://i.postimg.cc/JnpqjLNy/Itinerario%20Tortuoso.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Itinerario Tortuoso",
+    "type": "Magia",
+    "cost": "4",
+    "Colore": "Verde",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "ramp gate search token",
+    "Extra": false
+  },
+  "124001": {
+    "id": "124001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Amuleto Famelico",
+        "type": "Artefatto",
+        "cost": "2",
+        "image": "https://i.postimg.cc/C5JWZX12/Amuleto-Famelico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Amuleto Famelico",
+    "type": "Artefatto",
+    "cost": "2",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "sac outlet draw burn",
+    "Extra": false
+  },
+  "124002": {
+    "id": "124002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Archivio nell'Edro",
+        "type": "Artefatto",
+        "cost": "4",
+        "image": "https://i.postimg.cc/J4zwwr6J/Archivio-nell-Edro.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Archivio nell'Edro",
+    "type": "Artefatto",
+    "cost": "4",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "ramp draw",
+    "Extra": false
+  },
+  "124003": {
+    "id": "124003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bastone di Feldon",
+        "type": "Artefatto",
+        "cost": "1",
+        "image": "https://i.postimg.cc/P5CBx6k8/Bastone-di-Feldon.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bastone di Feldon",
+    "type": "Artefatto",
+    "cost": "1",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "recycle antigraveyard",
+    "Extra": false
+  },
+  "124004": {
+    "id": "124004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Campo di Demolizione",
+        "type": "Artefatto",
+        "cost": "3",
+        "image": "https://i.postimg.cc/dVggT8qg/Campo%20di%20Demolizione.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Campo di Demolizione",
+    "type": "Artefatto",
+    "cost": "3",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Tappa",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "ramp removal landmark",
+    "Extra": false
+  },
+  "124005": {
+    "id": "124005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cancello della Gilda Azorius",
+        "type": "Artefatto",
+        "cost": "1",
+        "image": "https://i.postimg.cc/htNN79DW/Cancello%20della%20Gilda%20Azorius.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cancello della Gilda Azorius",
+    "type": "Artefatto",
+    "cost": "1",
+    "Colore": "Bianco Blu",
+    "Sottotipo": "Tappa Cancello",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "ramp gate landmark",
+    "Extra": false
+  },
+  "124006": {
+    "id": "124006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cancello della Gilda Boros",
+        "type": "Artefatto",
+        "cost": "1",
+        "image": "https://i.postimg.cc/YCTTm1rB/Cancello%20della%20Gilda%20Boros.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cancello della Gilda Boros",
+    "type": "Artefatto",
+    "cost": "1",
+    "Colore": "Bianco Rosso",
+    "Sottotipo": "Tappa Cancello",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "ramp gate landmark",
+    "Extra": false
+  },
+  "124007": {
+    "id": "124007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cancello della Gilda Dimir",
+        "type": "Artefatto",
+        "cost": "1",
+        "image": "https://i.postimg.cc/52DDFw41/Cancello%20della%20Gilda%20Dimir.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cancello della Gilda Dimir",
+    "type": "Artefatto",
+    "cost": "1",
+    "Colore": "Blu Nero",
+    "Sottotipo": "Tappa Cancello",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "ramp gate landmark",
+    "Extra": false
+  },
+  "124008": {
+    "id": "124008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cancello della Gilda Golgari",
+        "type": "Artefatto",
+        "cost": "1",
+        "image": "https://i.postimg.cc/x1BBbKfj/Cancello%20della%20Gilda%20Golgari.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cancello della Gilda Golgari",
+    "type": "Artefatto",
+    "cost": "1",
+    "Colore": "Nero Verde",
+    "Sottotipo": "Tappa Cancello",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "ramp gate landmark",
+    "Extra": false
+  },
+  "124009": {
+    "id": "124009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cancello della Gilda Gruul",
+        "type": "Artefatto",
+        "cost": "1",
+        "image": "https://i.postimg.cc/1yYSQFZz/Cancello-della-Gilda-Gruul.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cancello della Gilda Gruul",
+    "type": "Artefatto",
+    "cost": "1",
+    "Colore": "Verde Rosso",
+    "Sottotipo": "Tappa Cancello",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "ramp landmark gate",
+    "Extra": false
+  },
+  "124010": {
+    "id": "124010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cancello della Gilda Izzet",
+        "type": "Artefatto",
+        "cost": "1",
+        "image": "https://i.postimg.cc/s2SqPvxr/Cancello%20della%20Gilda%20Izzet.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cancello della Gilda Izzet",
+    "type": "Artefatto",
+    "cost": "1",
+    "Colore": "Blu Rosso",
+    "Sottotipo": "Cancello Tappa",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "ramp gate landmark",
+    "Extra": false
+  },
+  "124011": {
+    "id": "124011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cancello della Gilda Orzhov",
+        "type": "Artefatto",
+        "cost": "1",
+        "image": "https://i.postimg.cc/BvDk5Xb3/Cancello%20della%20Gilda%20Orzhov.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cancello della Gilda Orzhov",
+    "type": "Artefatto",
+    "cost": "1",
+    "Colore": "Bianco Nero",
+    "Sottotipo": "Cancello Tappa",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "ramp gate landmark",
+    "Extra": false
+  },
+  "124012": {
+    "id": "124012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cancello della Gilda Rakdos",
+        "type": "Artefatto",
+        "cost": "1",
+        "image": "https://i.postimg.cc/bvbW0srz/Cancello%20della%20Gilda%20Rakdos.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cancello della Gilda Rakdos",
+    "type": "Artefatto",
+    "cost": "1",
+    "Colore": "Nero Rosso",
+    "Sottotipo": "Cancello Tappa",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "ramp gate landmark",
+    "Extra": false
+  },
+  "124013": {
+    "id": "124013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cancello della Gilda Selesnya",
+        "type": "Artefatto",
+        "cost": "1",
+        "image": "https://i.postimg.cc/wBJZ57MB/Cancello%20della%20Gilda%20Selesnya.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cancello della Gilda Selesnya",
+    "type": "Artefatto",
+    "cost": "1",
+    "Colore": "Bianco Verde",
+    "Sottotipo": "Cancello Tappa",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "ramp gate landmark",
+    "Extra": false
+  },
+  "124014": {
+    "id": "124014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cancello della Gilda Simic",
+        "type": "Artefatto",
+        "cost": "1",
+        "image": "https://i.postimg.cc/mrMJ3tkk/Cancello%20della%20Gilda%20Simic.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cancello della Gilda Simic",
+    "type": "Artefatto",
+    "cost": "1",
+    "Colore": "Verde Blu",
+    "Sottotipo": "Cancello Tappa",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "ramp gate landmark",
+    "Extra": false
+  },
+  "124015": {
+    "id": "124015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cannocchiale Incantato",
+        "type": "Artefatto",
+        "cost": "2",
+        "image": "https://i.postimg.cc/0NmFGbjw/Cannocchiale%20Incantato.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cannocchiale Incantato",
+    "type": "Artefatto",
+    "cost": "2",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal discard specific",
+    "Extra": false
+  },
+  "124016": {
+    "id": "124016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cannone ad Accelerazione Lineare",
+        "type": "Artefatto",
+        "cost": "1",
+        "image": "https://i.postimg.cc/g0RQynjR/Cannone%20ad%20Accelerazione%20Lineare.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cannone ad Accelerazione Lineare",
+    "type": "Artefatto",
+    "cost": "1",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "burn",
+    "Extra": false
+  },
+  "124017": {
+    "id": "124017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Carro Armato Ingranaggio Antico",
+        "type": "Artefatto",
+        "cost": "2",
+        "image": "https://i.postimg.cc/XJbhs4Bk/Carro%20Armato%20Ingranaggio%20Antico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Carro Armato Ingranaggio Antico",
+    "type": "Artefatto",
+    "cost": "2",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Equip Ingranaggio",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "burn ",
+    "Extra": false
+  },
+  "124018": {
+    "id": "124018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Castello Ingranaggio Antico",
+        "type": "Artefatto",
+        "cost": "3",
+        "image": "https://i.postimg.cc/xC276nNZ/Castello%20Ingranaggio%20Antico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Castello Ingranaggio Antico",
+    "type": "Artefatto",
+    "cost": "3",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Ingranaggio",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "anthem handsummon",
+    "Extra": false
+  },
+  "124019": {
+    "id": "124019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Collare del Basilisco",
+        "type": "Artefatto",
+        "cost": "2",
+        "image": "https://i.postimg.cc/d3QfK6BB/Collare%20del%20Basilisco.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Collare del Basilisco",
+    "type": "Artefatto",
+    "cost": "2",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Equip",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "lifegain deathtouch removal",
+    "Extra": false
+  },
+  "124020": {
+    "id": "124020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cyber Fulminatore di Evocazioni",
+        "type": "Artefatto",
+        "cost": "2",
+        "image": "https://i.postimg.cc/653PjHTt/Cyber%20Fulminatore%20di%20Evocazioni.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cyber Fulminatore di Evocazioni",
+    "type": "Artefatto",
+    "cost": "2",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "artifact burn",
+    "Extra": false
+  },
+  "124021": {
+    "id": "124021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fabbrica Igranaggio Antico",
+        "type": "Artefatto",
+        "cost": "3",
+        "image": "https://i.postimg.cc/hvG2YjDx/Fabbrica%20Igranaggio%20Antico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fabbrica Igranaggio Antico",
+    "type": "Artefatto",
+    "cost": "3",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Ingranaggio",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "artifact delve ramp",
+    "Extra": false
+  },
+  "124022": {
+    "id": "124022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fine del Labirinto",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/hv32RBvZ/Fine%20del%20Labirinto.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fine del Labirinto",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Continua Tappa",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "ramp gate search wincon",
+    "Extra": false
+  },
+  "124023": {
+    "id": "124023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lanterna Guida Spiriti",
+        "type": "Artefatto",
+        "cost": "1",
+        "image": "https://i.postimg.cc/mkqy6y6f/Lanterna%20Guida%20Spiriti.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lanterna Guida Spiriti",
+    "type": "Artefatto",
+    "cost": "1",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "antigrave draw",
+    "Extra": false
+  },
+  "124024": {
+    "id": "124024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Loto Dorato",
+        "type": "Mostro",
+        "cost": "5",
+        "image": "https://i.postimg.cc/jdwXnBCB/Loto%20Dorato.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Loto Dorato",
+    "type": "Artefatto",
+    "cost": "5",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "ramp",
+    "Extra": false
+  },
+  "124025": {
+    "id": "124025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mappa della Spedizione",
+        "type": "Artefatto",
+        "cost": "1",
+        "image": "https://i.postimg.cc/pXwBfkFr/Mappa%20della%20Spedizione.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mappa della Spedizione",
+    "type": "Artefatto",
+    "cost": "1",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "landmark search",
+    "Extra": false
+  },
+  "124026": {
+    "id": "124026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Maschera di Tutan",
+        "type": "Artefatto",
+        "cost": "1",
+        "image": "https://i.postimg.cc/ncy14TDT/Maschera%20di%20Tutan.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maschera di Tutan",
+    "type": "Artefatto",
+    "cost": "1",
+    "Colore": "Nero",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "zombie protection elusive hexproof",
+    "Extra": false
+  },
+  "124027": {
+    "id": "124027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mascotte dei Tre Alberi",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/15kKGMqJ/Mascotte%20dei%20Tre%20Alberi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mascotte dei Tre Alberi",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Artefatto Mutaforma",
+    "ATK": "4",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "changeling fix",
+    "Extra": false
+  },
+  "124028": {
+    "id": "124028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mausoleo dell'Imperatore",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/m2vSYVHX/Mausoleo%20dell%20Imperatore.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mausoleo dell'Imperatore",
+    "type": "Artefatto",
+    "cost": "4",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Tappa",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "ramp handsummon lifepay",
     "Extra": false
   }
 }
