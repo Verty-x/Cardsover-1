@@ -10929,6 +10929,443 @@
     "Tag": "flip recover artifact recursion",
     "Extra": false
   },
+  "121158": {
+    "id": "121158",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mazzuolatore Taurino",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/pXwBfkF7/Mazzuolatore%20Taurino.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mazzuolatore Taurino",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Rosso",
+    "Sottotipo": "Mutaforma",
+    "ATK": "4",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "+2/+2 counter changeling",
+    "Extra": false
+  },
+  "121159": {
+    "id": "121159",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Meccacciatore",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/zGTF0WCk/Meccacciatore.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Meccacciatore",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Artefatto",
+    "ATK": "9",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "firststrike",
+    "Extra": false
+  },
+  "121160": {
+    "id": "121160",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Melma Predatrice",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/528SnvBp/Melma%20Predatrice.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Melma Predatrice",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Verde",
+    "Sottotipo": "Pianta",
+    "ATK": "2",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "ravenous +2/+2 counter unbreakable monogreen",
+    "Extra": false
+  },
+  "121161": {
+    "id": "121161",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Meltiel Saggio del Cielo",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/CxbsmDGc/Meltiel%20Saggio%20del%20Cielo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Meltiel Saggio del Cielo",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Bianco",
+    "Sottotipo": "Fata",
+    "ATK": "8",
+    "DEF": "6",
+    "Leggenda": true,
+    "Tag": "flier lifegain removal antispell antiartifact",
+    "Extra": false
+  },
+  "121162": {
+    "id": "121162",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mentescintilla",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/NjRkpT6P/Mentescintilla.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mentescintilla",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Rosso",
+    "Sottotipo": "Elementale",
+    "ATK": "6",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "firststrike antiwhite antiblue burn",
+    "Extra": false
+  },
+  "121163": {
+    "id": "121163",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mentore degli Umili",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/9QyYJTdg/Mentore%20degli%20Umili.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mentore degli Umili",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Bianco",
+    "Sottotipo": "Soldato Umano",
+    "ATK": "5",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "atk5- draw",
+    "Extra": false
+  },
+  "121164": {
+    "id": "121164",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mezuki",
+        "type": "Mostro",
+        "cost": "5",
+        "image": "https://i.postimg.cc/jSy4ZNHm/Mezuki.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mezuki",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Nero",
+    "Sottotipo": "Zombie",
+    "ATK": "8",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "flashback reanimate zombie",
+    "Extra": false
+  },
+  "121165": {
+    "id": "121165",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Micromante",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/YCQzbgNk/Micromante.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Micromante",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Blu",
+    "Sottotipo": "Mago Umano",
+    "ATK": "6",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "spellsling search value1",
+    "Extra": false
+  },
+  "121166": {
+    "id": "121166",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mietitore di Mezzanotte",
+        "type": "Mostro",
+        "cost": "0",
+        "image": "https://i.postimg.cc/8zLmtWd1/Mietitore%20di%20Mezzanotte.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mietitore di Mezzanotte",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Nero",
+    "Sottotipo": "Zombie Cavaliere",
+    "ATK": "6",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "morbid draw lifepay",
+    "Extra": false
+  },
+  "121167": {
+    "id": "121167",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Milite Dragunità",
+        "type": "Mostro",
+        "cost": "1",
+        "image": "https://i.postimg.cc/y80yv9hs/Milite%20Dragunit%C3%A0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Milite Dragunità",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Rosso",
+    "Sottotipo": "Uccello Dragunità",
+    "ATK": "8",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "union",
+    "Extra": false
+  },
+  "121168": {
+    "id": "121168",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Milus il Raggiante",
+        "type": "Mostro",
+        "cost": "1",
+        "image": "https://i.postimg.cc/t4FN2Pdq/Milus%20il%20Raggiante.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Milus il Raggiante",
+    "type": "Mostro",
+    "cost": "1",
+    "Colore": "Verde",
+    "Sottotipo": "Bestia",
+    "ATK": "1",
+    "DEF": "1",
+    "Leggenda": false,
+    "Tag": "lord antifly",
+    "Extra": false
+  },
+  "121169": {
+    "id": "121169",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Myojin dei Confini della Notte",
+        "type": "Mostro",
+        "cost": "8",
+        "image": "https://i.postimg.cc/9fVtSM1M/Myojin%20dei%20Confini%20della%20Notte.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Myojin dei Confini della Notte",
+    "type": "Mostro",
+    "cost": "8",
+    "Colore": "Nero",
+    "Sottotipo": "Spirito",
+    "ATK": "10",
+    "DEF": "4",
+    "Leggenda": true,
+    "Tag": "counter divinity unbreakable discard",
+    "Extra": false
+  },
+  "121170": {
+    "id": "121170",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mystletainn Arma Dragunità",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/9fVtSM1d/Mystletainn%20Arma%20Dragunit%C3%A0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mystletainn Arma Dragunità",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Rosso",
+    "Sottotipo": "Drago Dragunità",
+    "ATK": "10",
+    "DEF": "8",
+    "Leggenda": true,
+    "Tag": "offer dragon flier equip recursion",
+    "Extra": false
+  },
+  "121171": {
+    "id": "121171",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Neo-Parshath, Paladino del Cielo ",
+        "type": "Mostro",
+        "cost": "7",
+        "image": "https://i.postimg.cc/7LVMykQn/Neo%20Parshath%20Paladino%20del%20Cielo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Neo-Parshath, Paladino del Cielo ",
+    "type": "Mostro",
+    "cost": "7",
+    "Colore": "Bianco",
+    "Sottotipo": "Fata",
+    "ATK": "11",
+    "DEF": "10",
+    "Leggenda": true,
+    "Tag": "flier lifegain shortcut atk def buff",
+    "Extra": false
+  },
+  "121172": {
+    "id": "121172",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nibbio Infernale d'Acciaio",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/Xv8c0bDL/Nibbio%20Infernale%20d%20Acciaio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nibbio Infernale d'Acciaio",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Drago Artefatto",
+    "ATK": "10",
+    "DEF": "10",
+    "Leggenda": false,
+    "Tag": "flier breath atk buff x boardwipe removal ",
+    "Extra": false
+  },
+  "121173": {
+    "id": "121173",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nobile di Stormkirk ",
+        "type": "Mostro",
+        "cost": "1",
+        "image": "https://i.postimg.cc/JhqcWL2w/Nobile%20di%20Stormkirk.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nobile di Stormkirk ",
+    "type": "Mostro",
+    "cost": "1",
+    "Colore": "Rosso",
+    "Sottotipo": "Vampiro Nobile",
+    "ATK": "2",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "antihuman +2/+2 counter",
+    "Extra": false
+  },
+  "121174": {
+    "id": "121174",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nobile Kalastria",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/Tw3jd4Zt/Nobile%20Kalastria.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nobile Kalastria",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Nero ",
+    "Sottotipo": "Vampiro Sciamano",
+    "ATK": "4",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "die aristocrat vampire drain burn lifegain",
+    "Extra": false
+  },
+  "121175": {
+    "id": "121175",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ombra dell'Oscurità ",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/SsxLSvBK/Ombra%20dell%20Oscurit%C3%A0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ombra dell'Oscurità ",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Nero",
+    "Sottotipo": "Spirito Demone",
+    "ATK": "3",
+    "DEF": "3",
+    "Leggenda": false,
+    "Tag": "atk def nerf",
+    "Extra": false
+  },
+  "121176": {
+    "id": "121176",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ovika, Golia dell'Enigma",
+        "type": "Mostro",
+        "cost": "7",
+        "image": "https://i.postimg.cc/HxvwVtmY/Ovika%20Golia%20dell%20Enigma.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ovika, Golia dell'Enigma",
+    "type": "Mostro",
+    "cost": "7",
+    "Colore": "Izzet",
+    "Sottotipo": "Demone Phyrexiano",
+    "ATK": "10",
+    "DEF": "10",
+    "Leggenda": false,
+    "Tag": "flier barrier phyrexian goblin token spellsling artifact enchant equip",
+    "Extra": false
+  },
   "122001": {
     "id": "122001",
     "isToken": false,
@@ -12263,6 +12700,282 @@
     "Tag": "antigreen antiwhite antimonster removal destroy",
     "Extra": false
   },
+  "123058": {
+    "id": "123058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mortificare",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/Dw1PBsQw/Mortificare.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mortificare",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Orzhov",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal antimonster antispell",
+    "Extra": false
+  },
+  "123059": {
+    "id": "123059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Murena dell'Avarizia",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/xdYy7CgT/Murena%20dell%20Avarizia.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Murena dell'Avarizia",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Blu",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "draw",
+    "Extra": false
+  },
+  "123060": {
+    "id": "123060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Muro Tornado",
+        "type": "Magia",
+        "cost": "0",
+        "image": "https://i.postimg.cc/N0Y7VMb0/Muro%20Tornado.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Muro Tornado",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Blu",
+    "Sottotipo": "Continua",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "floodgate upkeep landmark",
+    "Extra": false
+  },
+  "123061": {
+    "id": "123061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Natura Selvaggia",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/fbKjhNgS/Natura%20Selvaggia.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Natura Selvaggia",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Verde",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "atk buff",
+    "Extra": false
+  },
+  "123062": {
+    "id": "123062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Negare",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/CKNHVg68/Negare.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Negare",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Blu",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "negate antispell antiartifact removal protection",
+    "Extra": false
+  },
+  "123063": {
+    "id": "123063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Negoziazione Goblin",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/8CHBVSnM/Negoziazione%20Goblin.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Negoziazione Goblin",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Rosso",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal goblin token x",
+    "Extra": false
+  },
+  "123064": {
+    "id": "123064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nutrire lo Sciame",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/1t30mjL7/Nutrire%20lo%20Sciame.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nutrire lo Sciame",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Nero",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal antimonster antispell lifepay",
+    "Extra": false
+  },
+  "123065": {
+    "id": "123065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Offerta Innocua",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/63pVWmkJ/Offerta%20Innocua.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Offerta Innocua",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Rosso",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "donate",
+    "Extra": false
+  },
+  "123066": {
+    "id": "123066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Offerte al Condannato",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/Hxk0YhqT/Offerte%20al%20Condannato.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Offerte al Condannato",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "3",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal antimonster",
+    "Extra": false
+  },
+  "123067": {
+    "id": "123067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Opporre Resistenza",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/Y9CNrs59/Opporre%20Resistenza.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Opporre Resistenza",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Bianco",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "atk buff protection unbreakable",
+    "Extra": false
+  },
+  "123068": {
+    "id": "123068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ordalia di Nylea",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/C1xChQ3z/Ordalia%20di%20Nylea.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ordalia di Nylea",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Verde",
+    "Sottotipo": "Equip",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "+2/+2 counter ramp landmark token",
+    "Extra": false
+  },
+  "123069": {
+    "id": "123069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Oscurità Strisciante",
+        "type": "Magia",
+        "cost": "1",
+        "image": "https://i.postimg.cc/76t3fN4q/Oscurit%C3%A0%20Strisciante.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Oscurità Strisciante",
+    "type": "Magia",
+    "cost": "1",
+    "Colore": "Nero",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "search level4- banish",
+    "Extra": false
+  },
   "123072": {
     "id": "123072",
     "isToken": false,
@@ -12928,6 +13641,29 @@
     "DEF": "",
     "Leggenda": false,
     "Tag": "ramp handsummon lifepay",
+    "Extra": false
+  },
+  "124029": {
+    "id": "124029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Occhialoni della Piromante",
+        "type": "Artefatto",
+        "cost": "5",
+        "image": "https://i.postimg.cc/Qtdg8yRz/Occhialoni%20della%20Piromante.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Occhialoni della Piromante",
+    "type": "Artefatto",
+    "cost": "5",
+    "Colore": "Rosso",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": true,
+    "Tag": "ramp spellsling copy",
     "Extra": false
   }
 }
