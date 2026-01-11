@@ -464,7 +464,7 @@
     "ATK": "2",
     "DEF": "8",
     "Leggenda": true,
-    "Tag": "Equip, Threat"
+    "Tag": "equip doublestrike riposte sweeper"
   },
   "111017": {
     "id": "111017",
@@ -1683,7 +1683,7 @@
     "ATK": "4",
     "DEF": "4",
     "Leggenda": false,
-    "Tag": "Token",
+    "Tag": "cat token riposte",
     "Extra": false
   },
   "111071": {
@@ -1982,7 +1982,7 @@
     "ATK": "10",
     "DEF": "8",
     "Leggenda": false,
-    "Tag": "",
+    "Tag": "trample riposte",
     "Extra": false
   },
   "111084": {
@@ -3592,7 +3592,7 @@
     "ATK": "6",
     "DEF": "10",
     "Leggenda": false,
-    "Tag": "",
+    "Tag": "riposte",
     "Extra": false
   },
   "111154": {
@@ -5353,7 +5353,7 @@
     "ATK": "",
     "DEF": "",
     "Leggenda": false,
-    "Tag": "Equip, Haste",
+    "Tag": "firststrike riposte trample haste atk buff",
     "Extra": false
   },
   "115058": {
@@ -7341,6 +7341,29 @@
     "Tag": "monowhite fairy protection",
     "Extra": false
   },
+  "120011": {
+    "id": "120011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rupi di Rapidacque",
+        "type": "Terra",
+        "cost": 0,
+        "image": "https://i.postimg.cc/C128FLCC/Rupi%20di%20Rapidacque.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rupi di Rapidacque",
+    "type": "Terra",
+    "cost": 0,
+    "Colore": "Blu Rosso Izzet",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "dual lifegain",
+    "Extra": false
+  },
   "121001": {
     "id": "121001",
     "isToken": false,
@@ -7610,7 +7633,7 @@
     "type": "Mostro",
     "cost": "8",
     "Colore": "Nero Rosso",
-    "Sottotipo": "Drago Demone",
+    "Sottotipo": "Synchro Drago Demone",
     "ATK": "15",
     "DEF": "10",
     "Leggenda": false,
@@ -8530,11 +8553,11 @@
     "type": "Mostro",
     "cost": "8",
     "Colore": "Bianco Verde",
-    "Sottotipo": "Orco Guerriero",
+    "Sottotipo": "Synchro Orco Guerriero",
     "ATK": "14",
     "DEF": "10",
     "Leggenda": false,
-    "Tag": "warrior threat reanimate",
+    "Tag": "warrior atk buff reanimate",
     "Extra": true
   },
   "121053": {
@@ -8944,7 +8967,7 @@
     "type": "Mostro",
     "cost": "8",
     "Colore": "Nero Blu",
-    "Sottotipo": "Demone Psichico",
+    "Sottotipo": "Synchro Demone Psichico",
     "ATK": "13",
     "DEF": "12",
     "Leggenda": false,
@@ -9082,7 +9105,7 @@
     "type": "Mostro",
     "cost": "6",
     "Colore": "Nero Rosso",
-    "Sottotipo": "Drago Zombie",
+    "Sottotipo": "Synchro Drago Zombie",
     "ATK": "12",
     "DEF": "8",
     "Leggenda": false,
@@ -9151,7 +9174,7 @@
     "type": "Mostro",
     "cost": "8",
     "Colore": "Bianco Blu",
-    "Sottotipo": "Drago",
+    "Sottotipo": "Synchro Drago",
     "ATK": "12",
     "DEF": "10",
     "Leggenda": false,
@@ -9174,7 +9197,7 @@
     "type": "Mostro",
     "cost": "7",
     "Colore": "Rosso Verde",
-    "Sottotipo": "Drago",
+    "Sottotipo": "Synchro Drago",
     "ATK": "12",
     "DEF": "9",
     "Leggenda": false,
@@ -9197,7 +9220,7 @@
     "type": "Mostro",
     "cost": "5",
     "Colore": "Nero Bianco",
-    "Sottotipo": "Drago Demone",
+    "Sottotipo": "Fusione Drago Demone",
     "ATK": "10",
     "DEF": "6",
     "Leggenda": false,
@@ -9408,7 +9431,7 @@
     "ATK": "10",
     "DEF": "9",
     "Leggenda": false,
-    "Tag": "firststrike",
+    "Tag": "firststrike riposte",
     "Extra": false
   },
   "121091": {
@@ -10397,7 +10420,7 @@
     "ATK": "14",
     "DEF": "10",
     "Leggenda": false,
-    "Tag": "flier lifelink lifegain",
+    "Tag": "flier lifelink lifegain riposte",
     "Extra": false
   },
   "121134": {
@@ -10765,7 +10788,7 @@
     "ATK": "6",
     "DEF": "6",
     "Leggenda": true,
-    "Tag": "vigilance monowhite lifegain heal",
+    "Tag": "riposte monowhite lifegain heal",
     "Extra": false
   },
   "121150": {
@@ -11365,6 +11388,673 @@
     "Leggenda": false,
     "Tag": "flier barrier phyrexian goblin token spellsling artifact enchant equip",
     "Extra": false
+  },
+  "121177": {
+    "id": "121177",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Paladino Oscuro",
+        "type": "Mostro",
+        "cost": 0,
+        "image": "https://i.postimg.cc/rmZ1K9TF/Paladino-Oscuro.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Paladino Oscuro",
+    "type": "Mostro",
+    "cost": "8",
+    "Colore": "Nero Bianco",
+    "Sottotipo": "Fusione Mago Guerriero",
+    "ATK": "14",
+    "DEF": "12",
+    "Leggenda": false,
+    "Tag": "warrior wizard discard negate removal protection antispell antidragon atk buff",
+    "Extra": true
+  },
+  "121178": {
+    "id": "121178",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pandiabolico",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/G2gFHjR8/Pandiabolico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pandiabolico",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Orzhov",
+    "Sottotipo": "Bestia",
+    "ATK": "6",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "lifegain +2/+2 counter reanimate",
+    "Extra": false
+  },
+  "121179": {
+    "id": "121179",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Paura Oscura",
+        "type": "Mostro",
+        "cost": "8",
+        "image": "https://i.postimg.cc/tTv3Yzb5/Paura%20Oscura.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Paura Oscura",
+    "type": "Mostro",
+    "cost": "8",
+    "Colore": "Nero",
+    "Sottotipo": "Demone",
+    "ATK": "11",
+    "DEF": "14",
+    "Leggenda": false,
+    "Tag": "nomi fiend banish menace aftermath control removal",
+    "Extra": false
+  },
+  "121180": {
+    "id": "121180",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Piattaforma di Supporto per Mezzi Pesanti",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/DfDQh55M/Piattaforma%20di%20Supporto%20per%20Mezzi%20Pesanti.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Piattaforma di Supporto per Mezzi Pesanti",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Artefatto",
+    "ATK": "2",
+    "DEF": "3",
+    "Leggenda": false,
+    "Tag": "union atk def buff regenerate",
+    "Extra": false
+  },
+  "121181": {
+    "id": "121181",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Picchiere Atlantico",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/J7g38KKF/Picchiere%20Atlantico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Picchiere Atlantico",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Blu",
+    "Sottotipo": "Soldato Tritone Atlantico",
+    "ATK": "7",
+    "DEF": "1",
+    "Leggenda": false,
+    "Tag": "vanilla",
+    "Extra": false
+  },
+  "121182": {
+    "id": "121182",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pinguino dell'Incubo",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/MZ40wtdZ/Pinguino%20dell%20Incubo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pinguino dell'Incubo",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Blu",
+    "Sottotipo": "Uccello Pinguino",
+    "ATK": "5",
+    "DEF": "9",
+    "Leggenda": false,
+    "Tag": "flip removal bounce anthem lord",
+    "Extra": false
+  },
+  "121183": {
+    "id": "121183",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Piromante Viashino",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/Hsywk5hg/Piromante%20Viashino.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Piromante Viashino",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Rosso",
+    "Sottotipo": "Mago Rettile",
+    "ATK": "4",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "burn antilegend",
+    "Extra": false
+  },
+  "121184": {
+    "id": "121184",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Piumizzatore",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/fT9cRXrz/Piumizzatore.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Piumizzatore",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Bianco",
+    "Sottotipo": "Mago",
+    "ATK": "3",
+    "DEF": "5",
+    "Leggenda": false,
+    "Tag": "gemini aftermath bury draw",
+    "Extra": false
+  },
+  "121185": {
+    "id": "121185",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Portavoce Zegana",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/FsLyHcB7/Portavoce%20Zegana.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Portavoce Zegana",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Simic",
+    "Sottotipo": "Mago Tritone",
+    "ATK": "2",
+    "DEF": "2",
+    "Leggenda": true,
+    "Tag": "+2/+2 counter draw",
+    "Extra": false
+  },
+  "121186": {
+    "id": "121186",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poseidra, il Drago Atlantico",
+        "type": "Mostro",
+        "cost": "7",
+        "image": "https://i.postimg.cc/L61t8fbq/Poseidra%20il%20Drago%20Atlantico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Poseidra, il Drago Atlantico",
+    "type": "Mostro",
+    "cost": "7",
+    "Colore": "Blu",
+    "Sottotipo": "Pesce Atlantico",
+    "ATK": "14",
+    "DEF": "8",
+    "Leggenda": true,
+    "Tag": "shortcut return reanimate boardwipe bounce antispell antiartifact atk nerf",
+    "Extra": false
+  },
+  "121187": {
+    "id": "121187",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Predatore di Immersturm",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/W1cMF3BM/Predatore%20di%20Immersturm.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Predatore di Immersturm",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Rakdos",
+    "Sottotipo": "Drago Vampiro",
+    "ATK": "6",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "flier banish antigrave +2/+2 counter regenerate tribute",
+    "Extra": false
+  },
+  "121188": {
+    "id": "121188",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Predatore Trigone",
+        "type": "Mostro",
+        "cost": "0",
+        "image": "https://i.postimg.cc/bwfQDJ7g/Predatore%20Trigone.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Predatore Trigone",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Simic",
+    "Sottotipo": "Bestia",
+    "ATK": "4",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "flier removal antispell antigrave",
+    "Extra": false
+  },
+  "121189": {
+    "id": "121189",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Primo Pilum Dragunità",
+        "type": "Mostro",
+        "cost": "5",
+        "image": "https://i.postimg.cc/Njv19M3S/Primo%20Pilum%20Dragunit%C3%A0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Primo Pilum Dragunità",
+    "type": "Mostro",
+    "cost": "5",
+    "Colore": "Rosso",
+    "Sottotipo": "Uccello Dragunità",
+    "ATK": "11",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "level3- dragon ramp decksummon enter",
+    "Extra": false
+  },
+  "121190": {
+    "id": "121190",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Principe Affascinante ",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/mgWQzDvv/Principe%20Affascinante.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Principe Affascinante ",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Bianco",
+    "Sottotipo": "Nobile Umano",
+    "ATK": "4",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "enter scry lifegain heal flicker banish",
+    "Extra": false
+  },
+  "121191": {
+    "id": "121191",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Principessa Danzante",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/Nj8R1ttN/Principessa%20Danzante.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Principessa Danzante",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Blu",
+    "Sottotipo": "Mago Glaciale Umano",
+    "ATK": "8",
+    "DEF": "5",
+    "Leggenda": false,
+    "Tag": "glacial removal x bounce antispell antiartifact",
+    "Extra": false
+  },
+  "121192": {
+    "id": "121192",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Prometheus, Re delle Ombre",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/mg37Q440/Prometheus%20Re%20delle%20Ombre.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Prometheus, Re delle Ombre",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Nero",
+    "Sottotipo": "Demone",
+    "ATK": "8",
+    "DEF": "6",
+    "Leggenda": true,
+    "Tag": "enter banish +2/+2 counter growth",
+    "Extra": false
+  },
+  "121193": {
+    "id": "121193",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Protettore Figlio della Selva",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/dVRG8Fvq/Protettore%20Figlio%20della%20Selva.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Protettore Figlio della Selva",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Verde",
+    "Sottotipo": "Elfo Soldato",
+    "ATK": "4",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "flash snipe +2/+2 counter enter",
+    "Extra": false
+  },
+  "121194": {
+    "id": "121194",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pupazzo di Neve Carnivoro",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/9fWZbkFm/Pupazzo%20di%20Neve%20Carnivoro.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pupazzo di Neve Carnivoro",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Blu",
+    "Sottotipo": "Elementale Glaciale",
+    "ATK": "0",
+    "DEF": "10",
+    "Leggenda": false,
+    "Tag": "flip removal spin",
+    "Extra": false
+  },
+  "121195": {
+    "id": "121195",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rabdomante dei Relitti",
+        "type": "Mostro",
+        "cost": "5",
+        "image": "https://i.postimg.cc/YSpYRPq0/Rabdomante%20dei%20Relitti.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rabdomante dei Relitti",
+    "type": "Mostro",
+    "cost": "5",
+    "Colore": "Blu",
+    "Sottotipo": "Mago Tritone",
+    "ATK": "6",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "prowess atk buff spellsling enter recover",
+    "Extra": false
+  },
+  "121196": {
+    "id": "121196",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ramos, Drago Meccanico",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/tgXWkcCk/Ramos%20Drago%20Meccanico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ramos, Drago Meccanico",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Drago Artefatto",
+    "ATK": "8",
+    "DEF": "8",
+    "Leggenda": true,
+    "Tag": "flier +2/+2 counter multicolor ramp",
+    "Extra": false
+  },
+  "121197": {
+    "id": "121197",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ratto Gigante",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/W4XrH7hM/Ratto%20Gigante.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ratto Gigante",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Verde",
+    "Sottotipo": "Bestia",
+    "ATK": "7",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "substitute float atk7-",
+    "Extra": false
+  },
+  "121198": {
+    "id": "121198",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Re Dragone",
+        "type": "Mostro",
+        "cost": "0",
+        "image": "https://i.postimg.cc/XvQFzgpL/Re%20Dragone.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Re Dragone",
+    "type": "Mostro",
+    "cost": "7",
+    "Colore": "Verde Rosso",
+    "Sottotipo": "Fusione Drago",
+    "ATK": "12",
+    "DEF": "11",
+    "Leggenda": false,
+    "Tag": "dragon elusive protection flier handsummon ramp",
+    "Extra": true
+  },
+  "121199": {
+    "id": "121199",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Re Ojama",
+        "type": "Mostro",
+        "cost": "8",
+        "image": "https://i.postimg.cc/d04dx9L5/Re%20Ojama.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Re Ojama",
+    "type": "Mostro",
+    "cost": "8",
+    "Colore": "Verde Blu",
+    "Sottotipo": "Bestia Ojama",
+    "ATK": "0",
+    "DEF": "15",
+    "Leggenda": false,
+    "Tag": "ojama floodgate",
+    "Extra": true
+  },
+  "121200": {
+    "id": "121200",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reshef l'Entità Oscura",
+        "type": "Mostro",
+        "cost": "8",
+        "image": "https://i.postimg.cc/KYJLH5RW/Reshef%20l%20Entit%C3%A0%20Oscura.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reshef l'Entità Oscura",
+    "type": "Mostro",
+    "cost": "8",
+    "Colore": "Nero Blu",
+    "Sottotipo": "Demone",
+    "ATK": "12",
+    "DEF": "8",
+    "Leggenda": true,
+    "Tag": "shortcut ritualize discard control",
+    "Extra": false
+  },
+  "121201": {
+    "id": "121201",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "https://i.postimg.cc/QtC5GW7h/Rinforzi%20Risoluti.png",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/QtC5GW7h/Rinforzi%20Risoluti.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rinforzi Risoluti",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Bianco",
+    "Sottotipo": "Soldato Umano",
+    "ATK": "2",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "flash enter soldier token",
+    "Extra": false
+  },
+  "121202": {
+    "id": "121202",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rinoceronte Dorsonodoso",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/Tw1mMWbR/Rinoceronte%20Dorsonodoso.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rinoceronte Dorsonodoso",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Verde",
+    "Sottotipo": "Bestia",
+    "ATK": "8",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "trample draw",
+    "Extra": false
+  },
+  "121203": {
+    "id": "121203",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rubinia, Battipista Audace",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/xCZm0TGK/Rubinia%20Battipista%20Audace.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rubinia, Battipista Audace",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Gruul",
+    "Sottotipo": "Guerriero Umano",
+    "ATK": "2",
+    "DEF": "4",
+    "Leggenda": true,
+    "Tag": "ramp haste atk def buff atk8+",
+    "Extra": false
+  },
+  "121204": {
+    "id": "121204",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ruin, Regina dell'Oblio",
+        "type": "Mostro",
+        "cost": "8",
+        "image": "https://i.postimg.cc/XJP5V7Kg/Ruin%20Regina%20dell%20Oblio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ruin, Regina dell'Oblio",
+    "type": "Mostro",
+    "cost": "8",
+    "Colore": "Boros",
+    "Sottotipo": "Fata",
+    "ATK": "11",
+    "DEF": "10",
+    "Leggenda": true,
+    "Tag": "shortcut ritualize doublestrike hit removal",
+    "Extra": false
+  },
+  "121205": {
+    "id": "121205",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ryu Senshi",
+        "type": "Mostro",
+        "cost": 0,
+        "image": "https://i.postimg.cc/RFYtMV1g/Ryu%20Senshi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ryu Senshi",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Rosso Bianco",
+    "Sottotipo": "Fusione Guerriero Umano",
+    "ATK": "10",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "warrior spirit barrier",
+    "Extra": true
   },
   "122001": {
     "id": "122001",
@@ -12976,6 +13666,52 @@
     "Tag": "search level4- banish",
     "Extra": false
   },
+  "123070": {
+    "id": "123070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Patto Demoniaco",
+        "type": "Magia",
+        "cost": "4",
+        "image": "https://i.postimg.cc/V6ZqdFwj/Patto%20Demoniaco.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Patto Demoniaco",
+    "type": "Magia",
+    "cost": "4",
+    "Colore": "Nero",
+    "Sottotipo": "Continua",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "draw removal discard lifegain burn drain wincon losecon",
+    "Extra": false
+  },
+  "123071": {
+    "id": "123071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pensarci Due Volte",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/mZq34VV6/Pensarci%20Due%20Volte.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pensarci Due Volte",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Blu",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "draw flashback",
+    "Extra": false
+  },
   "123072": {
     "id": "123072",
     "isToken": false,
@@ -12997,6 +13733,489 @@
     "DEF": "",
     "Leggenda": false,
     "Tag": "ramp gate search token",
+    "Extra": false
+  },
+  "123073": {
+    "id": "123073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pericolo Acquatico",
+        "type": "Magia",
+        "cost": "4",
+        "image": "https://i.postimg.cc/rybGTggf/Pericolo%20Acquatico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pericolo Acquatico",
+    "type": "Magia",
+    "cost": "4",
+    "Colore": "Blu",
+    "Sottotipo": "Continua",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "handsummon ramp level3-",
+    "Extra": false
+  },
+  "123074": {
+    "id": "123074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Piegare le Saette",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/QNPgDS08/Piegare%20le%20Saette.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Piegare le Saette",
+    "type": "Magia",
+    "cost": "4",
+    "Colore": "Rosso",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "protection redirect discount atk8+",
+    "Extra": false
+  },
+  "123075": {
+    "id": "123075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Polimerizzazione",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/28ZQSvKj/Polimerizzazione.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Polimerizzazione",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "fusion",
+    "Extra": false
+  },
+  "123076": {
+    "id": "123076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Posizione Valorosa",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/TYDV3m4m/Posizione%20Valorosa.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Posizione Valorosa",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Bianco",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal protection def8+ unbreakable",
+    "Extra": false
+  },
+  "123077": {
+    "id": "123077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Potenza Primordiale",
+        "type": "Magia",
+        "cost": "-2",
+        "image": "https://i.postimg.cc/y8CFgdMg/Potenza%20Primordiale.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Potenza Primordiale",
+    "type": "Magia",
+    "cost": "1",
+    "Colore": "Verde",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal fight x",
+    "Extra": false
+  },
+  "123078": {
+    "id": "123078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Potere del Mago",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/0y1pMQTm/Potere%20del%20Mago.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Potere del Mago",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Equip",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "atk buff enchant",
+    "Extra": false
+  },
+  "123079": {
+    "id": "123079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Privazione Spietata",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/5258wJJT/Privazione%20Spietata.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Privazione Spietata",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "discard tribute removal",
+    "Extra": false
+  },
+  "123080": {
+    "id": "123080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Protezione Testimoni",
+        "type": "Magia",
+        "cost": "1",
+        "image": "https://i.postimg.cc/x1GLKQYT/Protezione%20Testimoni.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Protezione Testimoni",
+    "type": "Magia",
+    "cost": "1",
+    "Colore": "Blu",
+    "Sottotipo": "Equip",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal atk def debuff",
+    "Extra": false
+  },
+  "123081": {
+    "id": "123081",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Raggio della Speranza",
+        "type": "Magia",
+        "cost": "1",
+        "image": "https://i.postimg.cc/Jh1ZxF4D/Raggio%20della%20Speranza.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raggio della Speranza",
+    "type": "Magia",
+    "cost": "1",
+    "Colore": "Bianco",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "banish recycle",
+    "Extra": false
+  },
+  "123082": {
+    "id": "123082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Raggio Solare",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/BvqHpzQ5/Raggio%20Solare.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raggio Solare",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Bianco",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "atk buff",
+    "Extra": false
+  },
+  "123083": {
+    "id": "123083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Refutare",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/mr8M5Stq/Refutare.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Refutare",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Blu",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "negate protection removal draw discard",
+    "Extra": false
+  },
+  "123084": {
+    "id": "123084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Resilienza Divina",
+        "type": "Magia",
+        "cost": "1",
+        "image": "https://i.postimg.cc/tg2PMzsj/Resilienza%20Divina.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Resilienza Divina",
+    "type": "Magia",
+    "cost": "1",
+    "Colore": "Bianco",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "protection kicker overload unbreakable",
+    "Extra": false
+  },
+  "123085": {
+    "id": "123085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Richiamo degli Atlantici",
+        "type": "Magia",
+        "cost": "5",
+        "image": "https://i.postimg.cc/6QYRmh8t/Richiamo%20degli%20Atlantici.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Richiamo degli Atlantici",
+    "type": "Magia",
+    "cost": "5",
+    "Colore": "Blu",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "reanimate level3- restrict merfolk",
+    "Extra": false
+  },
+  "123086": {
+    "id": "123086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Riemersione",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/0NcmBCz9/Riemersione.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Riemersione",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Blu",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "recover spellsling",
+    "Extra": false
+  },
+  "123087": {
+    "id": "123087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rifugio dei Felidar",
+        "type": "Magia",
+        "cost": "4",
+        "image": "https://i.postimg.cc/G2tYwsyZ/Rifugio%20dei%20Felidar.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rifugio dei Felidar",
+    "type": "Magia",
+    "cost": "4",
+    "Colore": "Bianco",
+    "Sottotipo": "Continua",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "landfall cat beast token +2/+2 counter riposte",
+    "Extra": false
+  },
+  "123088": {
+    "id": "123088",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rimozione di Limite",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/ydx94SR4/Rimozione%20di%20Limite.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rimozione di Limite",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "artifact atk buff",
+    "Extra": false
+  },
+  "123089": {
+    "id": "123089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rinforzi Eroici",
+        "type": "Magia",
+        "cost": "4",
+        "image": "https://i.postimg.cc/gJjRF6hp/Rinforzi%20Eroici.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rinforzi Eroici",
+    "type": "Magia",
+    "cost": "4",
+    "Colore": "Boros",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "soldier token haste atk buff",
+    "Extra": false
+  },
+  "123090": {
+    "id": "123090",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rintocco di Mezzanotte",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/QtC5GW7V/Rintocco%20di%20Mezzanotte.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rintocco di Mezzanotte",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Bianco",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal",
+    "Extra": false
+  },
+  "123091": {
+    "id": "123091",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Riti Vampirici",
+        "type": "Magia",
+        "cost": "1",
+        "image": "https://i.postimg.cc/gJjRF6h8/Riti%20Vampirici.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Riti Vampirici",
+    "type": "Magia",
+    "cost": "1",
+    "Colore": "Nero",
+    "Sottotipo": "Continua",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "tribute draw lifegain manasink",
+    "Extra": false
+  },
+  "123092": {
+    "id": "123092",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rito di Riproduzione",
+        "type": "Magia",
+        "cost": "4",
+        "image": "https://i.postimg.cc/tTc6XCdJ/Rito%20di%20Riproduzione.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rito di Riproduzione",
+    "type": "Magia",
+    "cost": "4",
+    "Colore": "Blu",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "clone kicker",
+    "Extra": false
+  },
+  "123093": {
+    "id": "123093",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ritorno Totale",
+        "type": "Magia",
+        "cost": "4",
+        "image": "https://i.postimg.cc/bJ5nzN0D/Ritorno%20Totale.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ritorno Totale",
+    "type": "Magia",
+    "cost": "4",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal antispell antiartifact bounce",
     "Extra": false
   },
   "124001": {
@@ -13664,6 +14883,489 @@
     "DEF": "",
     "Leggenda": true,
     "Tag": "ramp spellsling copy",
+    "Extra": false
+  },
+  "124030": {
+    "id": "124030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Passaggio dei Farabutti",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/qRDszGr2/Passaggio%20dei%20Farabutti.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Passaggio dei Farabutti",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Neutro",
+    "Sottotipo": "Continua",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "ramp unblockable",
+    "Extra": false
+  },
+  "124031": {
+    "id": "124031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pirostrillo",
+        "type": "Artefatto",
+        "cost": "2",
+        "image": "https://i.postimg.cc/qBYcrQjM/Pirostrillo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pirostrillo",
+    "type": "Artefatto",
+    "cost": "2",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Equip",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "doublestrike",
+    "Extra": false
+  },
+  "124032": {
+    "id": "124032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pugno Ingranaggio Antico",
+        "type": "Artefatto",
+        "cost": "2",
+        "image": "https://i.postimg.cc/hGSTsYP4/Pugno%20Ingranaggio%20Antico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pugno Ingranaggio Antico",
+    "type": "Artefatto",
+    "cost": "2",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Equip Ingranaggio",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "trample deathtouch artifact",
+    "Extra": false
+  },
+  "124033": {
+    "id": "124033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Roccaforte della Fortezza Movente",
+        "type": "Artefatto",
+        "cost": "4",
+        "image": "https://i.postimg.cc/26tWz8d1/Roccaforte%20della%20Fortezza%20Movente.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Roccaforte della Fortezza Movente",
+    "type": "Artefatto",
+    "cost": "4",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "",
+    "ATK": "0",
+    "DEF": "10",
+    "Leggenda": false,
+    "Tag": "enter atk buff gadget",
+    "Extra": false
+  },
+  "125001": {
+    "id": "125001",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Bestia",
+        "type": "Mostro",
+        "cost": 0,
+        "image": "https://i.postimg.cc/Rh3cfnCT/Pedina%20Bestia%20l3.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Bestia",
+    "type": "Mostro",
+    "cost": 0,
+    "Colore": "",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "125002": {
+    "id": "125002",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Bestia",
+        "type": "Mostro",
+        "cost": 0,
+        "image": "https://i.postimg.cc/GtBkYs3x/Pedina%20Bestia%20l4.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Bestia",
+    "type": "Mostro",
+    "cost": 0,
+    "Colore": "",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "125003": {
+    "id": "125003",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Bestia Felino",
+        "type": "Mostro",
+        "cost": 0,
+        "image": "https://i.postimg.cc/wv4X7kzw/Pedina%20Bestia%20Felino.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Bestia Felino",
+    "type": "Mostro",
+    "cost": 0,
+    "Colore": "",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "125004": {
+    "id": "125004",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Canide",
+        "type": "Mostro",
+        "cost": 0,
+        "image": "https://i.postimg.cc/2yq4vBj2/Pedina%20Canide.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Canide",
+    "type": "Mostro",
+    "cost": 0,
+    "Colore": "",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "125005": {
+    "id": "125005",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Cibo",
+        "type": "Artefatto",
+        "cost": 0,
+        "image": "https://i.postimg.cc/XqZwFyND/Pedina%20Cibo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Cibo",
+    "type": "Artefatto",
+    "cost": 0,
+    "Colore": "",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "125006": {
+    "id": "125006",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "https://i.postimg.cc/GtBkYs3W/Pedina%20Drago.png",
+        "type": "Mostro",
+        "cost": 0,
+        "image": "https://i.postimg.cc/GtBkYs3W/Pedina%20Drago.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Drago",
+    "type": "Mostro",
+    "cost": 0,
+    "Colore": "",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "125007": {
+    "id": "125007",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Goblin Phyrexiano",
+        "type": "Mostro",
+        "cost": 0,
+        "image": "https://i.postimg.cc/wMthJsTH/Pedina%20Goblin%20Phyrexiano.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Goblin Phyrexiano",
+    "type": "Mostro",
+    "cost": 0,
+    "Colore": "",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "125008": {
+    "id": "125008",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Indizio",
+        "type": "Artefatto",
+        "cost": 0,
+        "image": "https://i.postimg.cc/pr9D8nXv/Pedina%20Indizio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Indizio",
+    "type": "Artefatto",
+    "cost": 0,
+    "Colore": "",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "125009": {
+    "id": "125009",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Insetto",
+        "type": "Mostro",
+        "cost": 0,
+        "image": "https://i.postimg.cc/zvLnWRX8/Pedina%20Insetto.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Insetto",
+    "type": "Mostro",
+    "cost": 0,
+    "Colore": "",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "125010": {
+    "id": "125010",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Montone",
+        "type": "Mostro",
+        "cost": 0,
+        "image": "https://i.postimg.cc/tJLFzC7c/Pedina%20Montone.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Montone",
+    "type": "Mostro",
+    "cost": 0,
+    "Colore": "",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "125011": {
+    "id": "125011",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Opzione",
+        "type": "Mostro",
+        "cost": 0,
+        "image": "https://i.postimg.cc/kGkWyXBP/Pedina%20Opzione.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Opzione",
+    "type": "Mostro",
+    "cost": 0,
+    "Colore": "",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "125012": {
+    "id": "125012",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Ratto",
+        "type": "Mostro",
+        "cost": 0,
+        "image": "https://i.postimg.cc/T1ZncYp6/Pedina%20Ratto.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Ratto",
+    "type": "Mostro",
+    "cost": 0,
+    "Colore": "",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "125013": {
+    "id": "125013",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Scintilla",
+        "type": "Artefatto",
+        "cost": 0,
+        "image": "https://i.postimg.cc/KYRS51n9/Pedina-Scintilla.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Scintilla",
+    "type": "Artefatto",
+    "cost": 0,
+    "Colore": "",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "125014": {
+    "id": "125014",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Seme",
+        "type": "Mostro",
+        "cost": 0,
+        "image": "https://i.postimg.cc/1XLDK5ft/Pedina%20Seme.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Seme",
+    "type": "Mostro",
+    "cost": 0,
+    "Colore": "",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "125015": {
+    "id": "125015",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Soldato",
+        "type": "Mostro",
+        "cost": 0,
+        "image": "https://i.postimg.cc/8cqLbPjs/Pedina%20Soldato.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Soldato",
+    "type": "Mostro",
+    "cost": 0,
+    "Colore": "",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "125016": {
+    "id": "125016",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Umano",
+        "type": "Mostro",
+        "cost": 0,
+        "image": "https://i.postimg.cc/1XLDK5fV/Pedina%20Umano.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Umano",
+    "type": "Mostro",
+    "cost": 0,
+    "Colore": "",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "",
+    "Extra": false
+  },
+  "125017": {
+    "id": "125017",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pedina Verme",
+        "type": "Mostro",
+        "cost": 0,
+        "image": "https://i.postimg.cc/QCRcqxH7/Pedina%20Verme.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedina Verme",
+    "type": "Mostro",
+    "cost": 0,
+    "Colore": "",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "",
     "Extra": false
   }
 }
