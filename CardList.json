@@ -7364,6 +7364,29 @@
     "Tag": "dual lifegain",
     "Extra": false
   },
+  "120012": {
+    "id": "120012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sabbie Verdeggianti",
+        "type": "Terra",
+        "cost": 0,
+        "image": "https://i.postimg.cc/mDn9b23p/Sabbie%20Verdeggianti.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sabbie Verdeggianti",
+    "type": "Terra",
+    "cost": 0,
+    "Colore": "Bianco Verde",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "dual lifegain",
+    "Extra": true
+  },
   "121001": {
     "id": "121001",
     "isToken": false,
@@ -12056,6 +12079,627 @@
     "Tag": "warrior spirit barrier",
     "Extra": true
   },
+  "121206": {
+    "id": "121206",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sacerdotessa dei Nulli dell'Oblio",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/Y9PFpqNy/Sacerdotessa%20dei%20Nulli%20dell%20Oblio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sacerdotessa dei Nulli dell'Oblio",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Nero",
+    "Sottotipo": "Vampiro Chierico",
+    "ATK": "4",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "menace frenzy kicker lifegain lifelink reanimate",
+    "Extra": false
+  },
+  "121207": {
+    "id": "121207",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sacerdotessa della Sventura Razziatrice",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/W3yZ2bmK/Sacerdotessa%20della%20Sventura%20Razziatrice.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sacerdotessa della Sventura Razziatrice",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Nero",
+    "Sottotipo": "Vampiro Chierico",
+    "ATK": "6",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "lifegain heal burn",
+    "Extra": false
+  },
+  "121208": {
+    "id": "121208",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Saggia della Rivendicazione",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/D0bXmk5M/Saggia%20della%20Rivendicazione.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Saggia della Rivendicazione",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Verde",
+    "Sottotipo": "Elfo Sciamano",
+    "ATK": "4",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "removal antispell antiartifact enter",
+    "Extra": false
+  },
+  "121209": {
+    "id": "121209",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Saggio delle Infestazioni",
+        "type": "Mostro",
+        "cost": "1",
+        "image": "https://i.postimg.cc/XqyCXSxT/Saggio%20delle%20Infestazioni.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Saggio delle Infestazioni",
+    "type": "Mostro",
+    "cost": "1",
+    "Colore": "Nero",
+    "Sottotipo": "Elfo Fuorilegge",
+    "ATK": "2",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "dies token",
+    "Extra": false
+  },
+  "121210": {
+    "id": "121210",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Samurai Futuro",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/br2tdc3c/Samurai%20Futuro.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Samurai Futuro",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Bianco",
+    "Sottotipo": "Samurai Umano",
+    "ATK": "9",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "gemini vanilla banish removal antimonster",
+    "Extra": false
+  },
+  "121211": {
+    "id": "121211",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scrutanembi",
+        "type": "Mostro",
+        "cost": "5",
+        "image": "https://i.postimg.cc/yW4SZQbs/Scrutanembi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scrutanembi",
+    "type": "Mostro",
+    "cost": "5",
+    "Colore": "Azorius",
+    "Sottotipo": "Fata",
+    "ATK": "4",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "flier draw heal lifegain",
+    "Extra": false
+  },
+  "121212": {
+    "id": "121212",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Seme di Fiamma",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/w38smfG7/Seme%20di%20Fiamma.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Seme di Fiamma",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Verde",
+    "Sottotipo": "Pianta",
+    "ATK": "8",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "aftermath level4- plant reanimate gift token",
+    "Extra": false
+  },
+  "121213": {
+    "id": "121213",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Seppellitore Vile",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/Z0tyd7Mp/Seppellitore%20Vile.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Seppellitore Vile",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Nero",
+    "Sottotipo": "Zombie Fuorilegge",
+    "ATK": "4",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "removal deathtouch enter bury",
+    "Extra": false
+  },
+  "121214": {
+    "id": "121214",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sfera Mistica Lucente",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/kD3tb1pQ/Sfera%20Mistica%20Lucente.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sfera Mistica Lucente",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Bianco",
+    "Sottotipo": "Fata",
+    "ATK": "5",
+    "DEF": "5",
+    "Leggenda": false,
+    "Tag": "vanilla",
+    "Extra": false
+  },
+  "121215": {
+    "id": "121215",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sfiatofauce Selvaggia",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/nMbQDRPK/Sfiatofauce%20Selvaggia.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sfiatofauce Selvaggia",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Gruul",
+    "Sottotipo": "Drago",
+    "ATK": "8",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "flier ramp",
+    "Extra": false
+  },
+  "121216": {
+    "id": "121216",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sfinge dell'Ultima Parola",
+        "type": "Mostro",
+        "cost": "7",
+        "image": "https://i.postimg.cc/RC3swWDX/Sfinge%20dell%20Ultima%20Parola.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sfinge dell'Ultima Parola",
+    "type": "Mostro",
+    "cost": "7",
+    "Colore": "Blu",
+    "Sottotipo": "Uccello",
+    "ATK": "10",
+    "DEF": "10",
+    "Leggenda": false,
+    "Tag": "uncontested flier elusive spellsling protection",
+    "Extra": false
+  },
+  "121217": {
+    "id": "121217",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shinato, Re di un Livello Superiore",
+        "type": "Mostro",
+        "cost": "8",
+        "image": "https://i.postimg.cc/MZcP1nLS/Shinato%20Re%20di%20un%20Livello%20Superiore.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shinato, Re di un Livello Superiore",
+    "type": "Mostro",
+    "cost": "8",
+    "Colore": "Selesnya",
+    "Sottotipo": "Fata",
+    "ATK": "16",
+    "DEF": "15",
+    "Leggenda": true,
+    "Tag": "nomi ritualize trample flier",
+    "Extra": false
+  },
+  "121218": {
+    "id": "121218",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Signore del Veleno",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/G3B7v4fc/Signore%20del%20Veleno.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Signore del Veleno",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Verde",
+    "Sottotipo": "Pianta",
+    "ATK": "7",
+    "DEF": "5",
+    "Leggenda": false,
+    "Tag": "aftermath reanimate plant",
+    "Extra": false
+  },
+  "121219": {
+    "id": "121219",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sovrano delle Fiamme",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/BZdhpqWF/Sovrano%20delle%20Fiamme.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sovrano delle Fiamme",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Rosso",
+    "Sottotipo": "Mago Umano",
+    "ATK": "7",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "ramp offer handsummon level5+",
+    "Extra": false
+  },
+  "121220": {
+    "id": "121220",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sirena Arciera",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/h4JyVXYt/Sirena%20Arciera.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sirena Arciera",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Blu",
+    "Sottotipo": "Tritone",
+    "ATK": "1",
+    "DEF": "12",
+    "Leggenda": false,
+    "Tag": "level3- atk buff regenerate equip",
+    "Extra": false
+  },
+  "121221": {
+    "id": "121221",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soldato Accensione - Dinamo del Terrore",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/VsSGXJhd/Soldato%20Accensione%20Dinamo%20del%20Terrore.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soldato Accensione - Dinamo del Terrore",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Artefatto",
+    "ATK": "0",
+    "DEF": "10",
+    "Leggenda": false,
+    "Tag": "gadget atk buff",
+    "Extra": false
+  },
+  "121222": {
+    "id": "121222",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soldato Cannone",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/FF2Pp9tm/Soldato%20Cannone.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soldato Cannone",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Artefatto",
+    "ATK": "7",
+    "DEF": "7",
+    "Leggenda": false,
+    "Tag": "sacoutlet burn",
+    "Extra": false
+  },
+  "121223": {
+    "id": "121223",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soldato dell'Abisso",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/dQzW6qMQ/Soldato%20dell%20Abisso.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soldato dell'Abisso",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Blu",
+    "Sottotipo": "Tritone Soldato",
+    "ATK": "8",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "removal bounce discardoutlet",
+    "Extra": false
+  },
+  "121224": {
+    "id": "121224",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soldato Gemello",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/J79Tx1wh/Soldato%20Gemello.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soldato Gemello",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Bianco",
+    "Sottotipo": "Soldato Umano",
+    "ATK": "5",
+    "DEF": "3",
+    "Leggenda": false,
+    "Tag": "gemini filter decksummon level4- ramp",
+    "Extra": false
+  },
+  "121225": {
+    "id": "121225",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soldato Ingranaggio Antico",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/wxSW26Kv/Soldato%20Ingranaggio%20Antico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soldato Ingranaggio Antico",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Soldato Artefatto Ingranaggio",
+    "ATK": "6",
+    "DEF": "7",
+    "Leggenda": false,
+    "Tag": "intimidate",
+    "Extra": false
+  },
+  "121226": {
+    "id": "121226",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soldato Pinguino",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/BZdhpqWt/Soldato%20Pinguino.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soldato Pinguino",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Blu",
+    "Sottotipo": "Soldato Pinguino",
+    "ATK": "4",
+    "DEF": "3",
+    "Leggenda": false,
+    "Tag": "flip removal antimonster bounce",
+    "Extra": false
+  },
+  "121227": {
+    "id": "121227",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spiritello Silvestre",
+        "type": "Mostro",
+        "cost": "1",
+        "image": "https://i.postimg.cc/XNT2LVMk/Spiritello%20Silvestre.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spiritello Silvestre",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Verde",
+    "Sottotipo": "Fata Pianta",
+    "ATK": "5",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "snipe breath atk buff",
+    "Extra": false
+  },
+  "121228": {
+    "id": "121228",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Squadra d'Attacco Atlantica",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/8PMZnqDM/Squadra%20d%20Attacco%20Atlantica.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Squadra d'Attacco Atlantica",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Blu",
+    "Sottotipo": "Soldato Tritone Atlantico",
+    "ATK": "7",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "atk buff",
+    "Extra": false
+  },
+  "121229": {
+    "id": "121229",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Statua Barriera del Paradiso",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/dtr5SzvG/Statua%20Barriera%20del%20Paradiso.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Statua Barriera del Paradiso",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Bianco",
+    "Sottotipo": "Fata Artefatto",
+    "ATK": "5",
+    "DEF": "5",
+    "Leggenda": false,
+    "Tag": "floodgate antispecial",
+    "Extra": false
+  },
+  "121230": {
+    "id": "121230",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stendardiere di Ballyrush",
+        "type": "Mostro",
+        "cost": "2",
+        "image": "https://i.postimg.cc/GhGXSZrk/Stendardiere%20di%20Ballyrush.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stendardiere di Ballyrush",
+    "type": "Mostro",
+    "cost": "2",
+    "Colore": "Bianco",
+    "Sottotipo": "Soldato Kithkin",
+    "ATK": "4",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "ramp discount soldier kithkin",
+    "Extra": false
+  },
+  "121231": {
+    "id": "121231",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Surrak, il Convocatore di Caccia",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/RVKgbj9R/Surrak%20il%20Convocatore%20di%20Caccia.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Surrak, il Convocatore di Caccia",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Verde",
+    "Sottotipo": "Guerriero Umano",
+    "ATK": "10",
+    "DEF": "8",
+    "Leggenda": true,
+    "Tag": "totalatk16+ haste",
+    "Extra": false
+  },
+  "121232": {
+    "id": "121232",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Syr Alin, l'Artiglio del Leone",
+        "type": "Mostro",
+        "cost": "5",
+        "image": "https://i.postimg.cc/28h0XPm2/Syr%20Alin%20l%20Artiglio%20del%20Leone.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Syr Alin, l'Artiglio del Leone",
+    "type": "Mostro",
+    "cost": "5",
+    "Colore": "Bianco",
+    "Sottotipo": "Cavaliere Umano",
+    "ATK": "8",
+    "DEF": "8",
+    "Leggenda": true,
+    "Tag": "firststrike anthem lord",
+    "Extra": false
+  },
   "122001": {
     "id": "122001",
     "isToken": false,
@@ -13321,6 +13965,29 @@
     "Tag": "removal antimonster heal lifegain",
     "Extra": false
   },
+  "123054": {
+    "id": "123054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sguinzagliare i Cani",
+        "type": "Magia",
+        "cost": "4",
+        "image": "https://i.postimg.cc/gcwS3x7F/Sguinzagliare%20i%20Cani.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sguinzagliare i Cani",
+    "type": "Magia",
+    "cost": "4",
+    "Colore": "Bianco",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "token",
+    "Extra": false
+  },
   "123055": {
     "id": "123055",
     "isToken": false,
@@ -14218,6 +14885,282 @@
     "Tag": "removal antispell antiartifact bounce",
     "Extra": false
   },
+  "123094": {
+    "id": "123094",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Saetta Annientatrice",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/WzJktLSf/Saetta%20Annientatrice.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Saetta Annientatrice",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Rosso",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal banish antimonster",
+    "Extra": false
+  },
+  "123095": {
+    "id": "123095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scambio di Anima della Bestia",
+        "type": "Magia",
+        "cost": "1",
+        "image": "https://i.postimg.cc/JtVBk62C/Scambio%20di%20Anima%20della%20Bestia.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scambio di Anima della Bestia",
+    "type": "Magia",
+    "cost": "1",
+    "Colore": "Verde",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "flicker protection beast",
+    "Extra": false
+  },
+  "123096": {
+    "id": "123096",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scambio di Anime",
+        "type": "Magia",
+        "cost": "7",
+        "image": "https://i.postimg.cc/vDF6VqNd/Scambio%20di%20Anime.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scambio di Anime",
+    "type": "Magia",
+    "cost": "7",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "removal antimonster tribute handsummon ramp level5 level6",
+    "Extra": false
+  },
+  "123097": {
+    "id": "123097",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sdegno del Fiume",
+        "type": "Magia",
+        "cost": "6",
+        "image": "https://i.postimg.cc/dDPTyHxq/Sdegno%20del%20Fiume.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sdegno del Fiume",
+    "type": "Magia",
+    "cost": "6",
+    "Colore": "Blu",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "bounce removal boardwipe onesided",
+    "Extra": false
+  },
+  "123098": {
+    "id": "123098",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Secondo Rito di Hidetsugu",
+        "type": "Magia",
+        "cost": "4",
+        "image": "https://i.postimg.cc/yW4SZQbW/Secondo%20Rito%20di%20Hidetsugu.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Secondo Rito di Hidetsugu",
+    "type": "Magia",
+    "cost": "4",
+    "Colore": "Rosso",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "burn",
+    "Extra": false
+  },
+  "123099": {
+    "id": "123099",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sepoltura Prematura",
+        "type": "Magia",
+        "cost": "4",
+        "image": "https://i.postimg.cc/F15JLWBf/Sepoltura%20Prematura.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sepoltura Prematura",
+    "type": "Magia",
+    "cost": "4",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "Equip",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "lifepay reanimate",
+    "Extra": false
+  },
+  "123100": {
+    "id": "123100",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sepoltura Sciocca",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/DmkbXjMb/Sepoltura%20Sciocca.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sepoltura Sciocca",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "bury",
+    "Extra": false
+  },
+  "123101": {
+    "id": "123101",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sfondare ",
+        "type": "Magia",
+        "cost": "1",
+        "image": "https://i.postimg.cc/XNZH9rzt/Sfondare.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sfondare",
+    "type": "Mostro",
+    "cost": "1",
+    "Colore": "Rosso",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "draw trample",
+    "Extra": false
+  },
+  "123102": {
+    "id": "123102",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soddisfazione Sanguinaria",
+        "type": "Magia",
+        "cost": "4",
+        "image": "https://i.postimg.cc/44KLpY0n/Soddisfazione%20Sanguinaria.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soddisfazione Sanguinaria",
+    "type": "Magia",
+    "cost": "4",
+    "Colore": "Nero",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "lifegain recover recursion",
+    "Extra": false
+  },
+  "123103": {
+    "id": "123103",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sopraffare",
+        "type": "Magia",
+        "cost": "5",
+        "image": "https://i.postimg.cc/NGWNDghr/Sopraffare.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sopraffare",
+    "type": "Magia",
+    "cost": "5",
+    "Colore": "Verde",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "overrun atk def buff trample",
+    "Extra": false
+  },
+  "123104": {
+    "id": "123104",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spuntino di Mezzanotte",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/fW6HCw4B/Spuntino%20di%20Mezzanotte.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spuntino di Mezzanotte",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Nero",
+    "Sottotipo": "Continua",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "food token lifegain burn",
+    "Extra": false
+  },
+  "123105": {
+    "id": "123105",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sussulti dell'Impatto",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/m2Cm60RV/Sussulti%20dell%20Impatto.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sussulti dell'Impatto",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Rosso",
+    "Sottotipo": "Continua",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "burn elsenter",
+    "Extra": false
+  },
   "124001": {
     "id": "124001",
     "isToken": false,
@@ -14975,6 +15918,29 @@
     "DEF": "10",
     "Leggenda": false,
     "Tag": "enter atk buff gadget",
+    "Extra": false
+  },
+  "124034": {
+    "id": "124034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stendardo Araldico",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/zXKxP95F/Stendardo%20Araldico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stendardo Araldico",
+    "type": "Artefatto",
+    "cost": "3",
+    "Colore": "Neutro Incolore",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "ramp atk buff anthem",
     "Extra": false
   },
   "125001": {
