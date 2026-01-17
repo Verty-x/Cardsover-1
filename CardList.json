@@ -7387,6 +7387,236 @@
     "Tag": "dual lifegain",
     "Extra": true
   },
+  "120013": {
+    "id": "120013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tempio del Mistero",
+        "type": "Terra",
+        "cost": 0,
+        "image": "https://i.postimg.cc/3JmtbPYM/Tempio%20del%20Mistero.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tempio del Mistero",
+    "type": "Terra",
+    "cost": 0,
+    "Colore": "Blu Verde Simic",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "#dual #scry",
+    "Extra": true
+  },
+  "120014": {
+    "id": "120014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tempio del Silenzio",
+        "type": "Terra",
+        "cost": 0,
+        "image": "https://i.postimg.cc/wjzwK0TG/Tempio%20del%20Silenzio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tempio del Silenzio",
+    "type": "Terra",
+    "cost": 0,
+    "Colore": "Bianco Nero Orzhov",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "#dual #scry",
+    "Extra": true
+  },
+  "120015": {
+    "id": "120015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tempio del Trionfo",
+        "type": "Terra",
+        "cost": 0,
+        "image": "https://i.postimg.cc/Bn3mWMQy/Tempio%20del%20Trionfo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tempio del Trionfo",
+    "type": "Terra",
+    "cost": 0,
+    "Colore": "Bianco Rosso Boros",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "#dual #scry",
+    "Extra": true
+  },
+  "120016": {
+    "id": "120016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tempio dell'Abbandono",
+        "type": "Terra",
+        "cost": 0,
+        "image": "https://i.postimg.cc/XYWsMQYJ/Tempio%20dell%20Abbandono.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tempio dell'Abbandono",
+    "type": "Terra",
+    "cost": 0,
+    "Colore": "Rosso Verde Gruul",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "#dual #scry",
+    "Extra": true
+  },
+  "120017": {
+    "id": "120017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tempio dell'Illuminazione",
+        "type": "Terra",
+        "cost": 0,
+        "image": "https://i.postimg.cc/kgCTrfg2/Tempio%20dell%20Illuminazione.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tempio dell'Illuminazione",
+    "type": "Terra",
+    "cost": 0,
+    "Colore": "Bianco Blu Azorius",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "#dual #scry",
+    "Extra": true
+  },
+  "120018": {
+    "id": "120018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tempio dell'Inganno",
+        "type": "Terra",
+        "cost": 0,
+        "image": "https://i.postimg.cc/XYWsMQYB/Tempio%20dell%20Inganno.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tempio dell'Inganno",
+    "type": "Terra",
+    "cost": 0,
+    "Colore": "Blu Nero Dimir",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "#dual #scry",
+    "Extra": true
+  },
+  "120019": {
+    "id": "120019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tempio dell'Odio",
+        "type": "Terra",
+        "cost": 0,
+        "image": "https://i.postimg.cc/Bn3mWMn1/Tempio%20dell%20Odio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tempio dell'Odio",
+    "type": "Terra",
+    "cost": 0,
+    "Colore": "Nero Rosso Rakdos",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "#dual #scry",
+    "Extra": true
+  },
+  "120020": {
+    "id": "120020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tempio della Malattia",
+        "type": "Terra",
+        "cost": 0,
+        "image": "https://i.postimg.cc/YC7dcbqJ/Tempio%20della%20Malattia.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tempio della Malattia",
+    "type": "Terra",
+    "cost": 0,
+    "Colore": "Verde Nero Golgari",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "#dual #scry",
+    "Extra": true
+  },
+  "120021": {
+    "id": "120021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tempio della Prosperità ",
+        "type": "Terra",
+        "cost": 0,
+        "image": "https://i.postimg.cc/rwTf6Qw8/Tempio%20della%20Prosperit%C3%A0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tempio della Prosperità",
+    "type": "Terra",
+    "cost": 0,
+    "Colore": "Bianco Verde Selesnya",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "#dual #scry",
+    "Extra": true
+  },
+  "120022": {
+    "id": "120022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tempio della Rivelazione ",
+        "type": "Terra",
+        "cost": 0,
+        "image": "https://i.postimg.cc/4xGWCBx4/Tempio%20della%20Rivelazione.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tempio della Rivelazione",
+    "type": "Terra",
+    "cost": 0,
+    "Colore": "Rosso Blu Izzet",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "#dual #scry",
+    "Extra": true
+  },
   "121001": {
     "id": "121001",
     "isToken": false,
@@ -12700,6 +12930,75 @@
     "Tag": "firststrike anthem lord",
     "Extra": false
   },
+  "121233": {
+    "id": "121233",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tatyova, Druida delle Profondità ",
+        "type": "Mostro",
+        "cost": "5",
+        "image": "https://i.postimg.cc/3JmtbPYH/Tatyova%20Druida%20delle%20Profondit%C3%A0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tatyova, Druida delle Profondità ",
+    "type": "Mostro",
+    "cost": "5",
+    "Colore": "Simic",
+    "Sottotipo": "Druido Tritone",
+    "ATK": "6",
+    "DEF": "6",
+    "Leggenda": true,
+    "Tag": "#landfall #landmark #lifegain #draw",
+    "Extra": false
+  },
+  "121234": {
+    "id": "121234",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Terrore Volante Saprofago",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/nh10nBXC/Terrore%20Volante%20Saprofago.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Terrore Volante Saprofago",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Dimir",
+    "Sottotipo": "Uccello",
+    "ATK": "4",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "#flier #enter #attack #draw #selfdiscard #atkdefbuff #baleful #delirium",
+    "Extra": false
+  },
+  "121235": {
+    "id": "121235",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Teschio Evocato",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/zGk0qKyR/Teschio%20Evocato.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Teschio Evocato",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Nero",
+    "Sottotipo": "Demone",
+    "ATK": "12",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "#precombat #drain #burn #lifegain #lifepay",
+    "Extra": false
+  },
   "122001": {
     "id": "122001",
     "isToken": false,
@@ -15161,6 +15460,52 @@
     "Tag": "burn elsenter",
     "Extra": false
   },
+  "123106": {
+    "id": "123106",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Talismano Boros",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/hg3NhBYc/Talismano-Boros.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Talismano Boros",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Boros",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "#strikecounter #counter #burn #protection #unbreakable #massprotection",
+    "Extra": false
+  },
+  "123107": {
+    "id": "123107",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Teschio di Zoma",
+        "type": "Artefatto",
+        "cost": "4",
+        "image": "https://i.postimg.cc/GmjqbG48/Teschio%20di%20Zoma.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Teschio di Zoma",
+    "type": "Artefatto",
+    "cost": "4",
+    "Colore": "Nero",
+    "Sottotipo": "Zombie",
+    "ATK": "9",
+    "DEF": "5",
+    "Leggenda": false,
+    "Tag": "#flier #defeated #burn",
+    "Extra": false
+  },
   "124001": {
     "id": "124001",
     "isToken": false,
@@ -15941,6 +16286,75 @@
     "DEF": "",
     "Leggenda": false,
     "Tag": "ramp atk buff anthem",
+    "Extra": false
+  },
+  "124035": {
+    "id": "124035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Talismano della Grinfia dei Desideri",
+        "type": "Artefatto",
+        "cost": "2",
+        "image": "https://i.postimg.cc/7Y0KQpDR/Talismano%20della%20Grinfia%20dei%20Desideri.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Talismano della Grinfia dei Desideri",
+    "type": "Artefatto",
+    "cost": "2",
+    "Colore": "Nero",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "#search #counter #gift",
+    "Extra": false
+  },
+  "124036": {
+    "id": "124036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tempio Dimenticato degli Abissi",
+        "type": "Artefatto",
+        "cost": "3",
+        "image": "https://i.postimg.cc/nh10nBXc/Tempio%20Dimenticato%20degli%20Abissi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tempio Dimenticato degli Abissi",
+    "type": "Artefatto",
+    "cost": "3",
+    "Colore": "Blu",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": true,
+    "Tag": "#ramp #manarock #flicker",
+    "Extra": false
+  },
+  "124037": {
+    "id": "124037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tomo Cervellotico ",
+        "type": "Artefatto",
+        "cost": "2",
+        "image": "https://i.postimg.cc/2Sx2Ch1v/Tomo%20Cervellotico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tomo Cervellotico ",
+    "type": "Artefatto",
+    "cost": "2",
+    "Colore": "Neutro",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "#counter #scry #draw #lifegain",
     "Extra": false
   },
   "125001": {
