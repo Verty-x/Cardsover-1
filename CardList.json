@@ -12999,6 +12999,397 @@
     "Tag": "#precombat #drain #burn #lifegain #lifepay",
     "Extra": false
   },
+  "121236": {
+    "id": "121236",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trent",
+        "type": "Mostro",
+        "cost": "5",
+        "image": "https://i.postimg.cc/L8VNmLJv/Trent.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tremt",
+    "type": "Mostro",
+    "cost": "5",
+    "Colore": "Verde",
+    "Sottotipo": "Pianta",
+    "ATK": "7",
+    "DEF": "9",
+    "Leggenda": false,
+    "Tag": "#relentless #+2/+2 #counter",
+    "Extra": false
+  },
+  "121237": {
+    "id": "121237",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tribù Dragunità ",
+        "type": "Mostro",
+        "cost": "1",
+        "image": "https://i.postimg.cc/sgJw37Mn/Trib%C3%B9%20Dragunit%C3%A0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tribù Dragunità ",
+    "type": "Mostro",
+    "cost": "1",
+    "Colore": "Rosso",
+    "Sottotipo": "Uccello Dragunità",
+    "ATK": "2",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "#dragunity #bury",
+    "Extra": false
+  },
+  "121238": {
+    "id": "121238",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Triceratopo dal Passo Sismico",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/d0tn33Cf/Triceratopo%20dal%20Passo%20Sismico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Triceratopo dal Passo Sismico",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Verde",
+    "Sottotipo": "Dinosauro",
+    "ATK": "24",
+    "DEF": "16",
+    "Leggenda": false,
+    "Tag": "#vanilla",
+    "Extra": false
+  },
+  "121239": {
+    "id": "121239",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Truesdale Re delle Fate",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/HLs3nn5T/Truesdale%20Re%20delle%20Fate.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Truesdale Re delle Fate",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Verde",
+    "Sottotipo": "Pianta",
+    "ATK": "11",
+    "DEF": "8",
+    "Leggenda": true,
+    "Tag": "#snipe #plant #defend #anthem #atkdefbuff",
+    "Extra": false
+  },
+  "121240": {
+    "id": "121240",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Uomo Branchia Spinato",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/HLZzym4C/Uomo%20Branchia%20Spinato.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Uomo Branchia Spinato",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Blu",
+    "Sottotipo": "Tritone",
+    "ATK": "6",
+    "DEF": "5",
+    "Leggenda": false,
+    "Tag": "#aqua #merfolk #fish #anthem #atkbuff",
+    "Extra": false
+  },
+  "121241": {
+    "id": "121241",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Uomofaro",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/1zCBqScy/Uomofaro.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Uomofaro",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Neutro",
+    "Sottotipo": "Artefatto",
+    "ATK": "5",
+    "DEF": "5",
+    "Leggenda": false,
+    "Tag": "#flip",
+    "Extra": false
+  },
+  "121242": {
+    "id": "121242",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vampiro Falco Notturno",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/VNGgCwBL/Vampiro%20Falco%20Notturno.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vampiro Falco Notturno",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Nero",
+    "Sottotipo": "Vampiro Sciamano",
+    "ATK": "4",
+    "DEF": "6",
+    "Leggenda": false,
+    "Tag": "#flier #baleful #lifegain #lifegain #soulbind",
+    "Extra": false
+  },
+  "121243": {
+    "id": "121243",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vassallo di Foglia Secca",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/HLZzym4L/Vassallo%20di%20Foglia%20Secca.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vassallo di Foglia Secca",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Verde Bianco",
+    "Sottotipo": "Elfo Cavaliere",
+    "ATK": "8",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "#anthem #madness",
+    "Extra": false
+  },
+  "121244": {
+    "id": "121244",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Venere, la Creazione",
+        "type": "Mostro",
+        "cost": "3",
+        "image": "https://i.postimg.cc/qRNLcFjN/Venere%20la%20Creazione.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Venere, la Creazione",
+    "type": "Mostro",
+    "cost": "3",
+    "Colore": "Bianco",
+    "Sottotipo": "Fata Agente",
+    "ATK": "8",
+    "DEF": "4",
+    "Leggenda": false,
+    "Tag": "#pridemate #decksummon #ramp",
+    "Extra": false
+  },
+  "121245": {
+    "id": "121245",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Victory Viper XX03",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/nzXkKW0s/Victory%20Viper%20XX03.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Victory Viper XX03",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Neutro",
+    "Sottotipo": "Artefatto",
+    "ATK": "6",
+    "DEF": "5",
+    "Leggenda": false,
+    "Tag": "#flier #victorious #+2/+2 #counter #removal #destroy #antispell #antiartifact #token",
+    "Extra": false
+  },
+  "121246": {
+    "id": "121246",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vipera Ammuffita",
+        "type": "Mostro",
+        "cost": "1",
+        "image": "https://i.postimg.cc/vB4z7K30/Vipera%20Ammuffita.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vipera Ammuffita",
+    "type": "Mostro",
+    "cost": "1",
+    "Colore": "Verde",
+    "Sottotipo": "Rettile Pianta",
+    "ATK": "2",
+    "DEF": "2",
+    "Leggenda": false,
+    "Tag": "#antiblue #antiblack #+2/+2 #counter #gorger",
+    "Extra": false
+  },
+  "121247": {
+    "id": "121247",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Visir del Serraglio",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/0QzfG4ct/Visir%20del%20Serraglio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Visir del Serraglio",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Verde",
+    "Sottotipo": "Rettile Chierico",
+    "ATK": "6",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "#tokensupport #foresight #synchro",
+    "Extra": false
+  },
+  "121248": {
+    "id": "121248",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Viverna Occhi-Rossi",
+        "type": "Mostro",
+        "cost": "4",
+        "image": "https://i.postimg.cc/gJxDy7NS/Viverna%20Occhi%20Rossi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Viverna Occhi-Rossi",
+    "type": "Mostro",
+    "cost": "4",
+    "Colore": "Rosso",
+    "Sottotipo": "Drago Occhi-Rossi",
+    "ATK": "9",
+    "DEF": "8",
+    "Leggenda": false,
+    "Tag": "#flier #flashback #redeyes #reanimate",
+    "Extra": false
+  },
+  "121249": {
+    "id": "121249",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Voltanis il Giudicatore",
+        "type": "Mostro",
+        "cost": "8",
+        "image": "https://i.postimg.cc/rmDJGHQb/Voltanis%20il%20Giudicatore.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Voltanis il Giudicatore",
+    "type": "Mostro",
+    "cost": "8",
+    "Colore": "Nero Bianco",
+    "Sottotipo": "Fata",
+    "ATK": "14",
+    "DEF": "7",
+    "Leggenda": true,
+    "Tag": "#ritualize #flier #removal #destroy #shortcut",
+    "Extra": false
+  },
+  "121250": {
+    "id": "121250",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wurm della Strage",
+        "type": "Mostro",
+        "cost": "6",
+        "image": "https://i.postimg.cc/LXGVxVbW/Wurm%20della%20Strage.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wurm della Strage",
+    "type": "Mostro",
+    "cost": "6",
+    "Colore": "Nero",
+    "Sottotipo": "Insetto Phyrexiano",
+    "ATK": "12",
+    "DEF": "10",
+    "Leggenda": false,
+    "Tag": "#enter #atkdefdebuff #removal #burn",
+    "Extra": false
+  },
+  "121251": {
+    "id": "121251",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wurm di Pelakka",
+        "type": "Mostro",
+        "cost": "7",
+        "image": "https://i.postimg.cc/xCBP6P47/Wurm%20di%20Pelakka.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wurm di Pelakka",
+    "type": "Mostro",
+    "cost": "7",
+    "Colore": "Verde",
+    "Sottotipo": "Insetto",
+    "ATK": "14",
+    "DEF": "12",
+    "Leggenda": false,
+    "Tag": "#breacher #lifegain #draw #farewell",
+    "Extra": false
+  },
+  "121252": {
+    "id": "121252",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zetalpa, Alba Primordiale",
+        "type": "Mostro",
+        "cost": "8",
+        "image": "https://i.postimg.cc/HxFt6thq/Zetalpa%20Alba%20Primordiale.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zetalpa, Alba Primordiale",
+    "type": "Mostro",
+    "cost": "8",
+    "Colore": "Bianco",
+    "Sottotipo": "Dinosauro",
+    "ATK": "8",
+    "DEF": "16",
+    "Leggenda": true,
+    "Tag": "#flier #unbreakable #doublestrike",
+    "Extra": false
+  },
   "122001": {
     "id": "122001",
     "isToken": false,
@@ -15506,6 +15897,236 @@
     "Tag": "#flier #defeated #burn",
     "Extra": false
   },
+  "123108": {
+    "id": "123108",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tracciare la Rotta",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/y8Tv7cDh/Tracciare%20la%20Rotta.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tracciare la Rotta",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Blu",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "#draw #selfdiscard",
+    "Extra": false
+  },
+  "123109": {
+    "id": "123109",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trappola Statica",
+        "type": "Magia",
+        "cost": 0,
+        "image": "https://i.postimg.cc/y8Tv7cDy/Trappola%20Statica.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trappola Statica",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Bianco",
+    "Sottotipo": "Continua",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "#removal #banish #lesto",
+    "Extra": false
+  },
+  "123110": {
+    "id": "123110",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tributo al Dannato",
+        "type": "Magia",
+        "cost": "2",
+        "image": "https://i.postimg.cc/HLs3nnMv/Tributo%20al%20Dannato.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tributo al Dannato",
+    "type": "Magia",
+    "cost": "2",
+    "Colore": "Neutro",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "#removal #destroy #antimonster #selfdiscard",
+    "Extra": false
+  },
+  "123111": {
+    "id": "123111",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tributo alla Fame",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/jjdv22fk/Tributo%20alla%20Fame.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tributo alla Fame",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Nero",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "#removal #forcetribute #lifegain #antimonster",
+    "Extra": false
+  },
+  "123112": {
+    "id": "123112",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trucco delle Fategermoglio",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/258Tyyvm/Trucco%20delle%20Fategermoglio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trucco delle Fategermoglio",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Blu",
+    "Sottotipo": "Rapida",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "#token #tap",
+    "Extra": false
+  },
+  "123113": {
+    "id": "123113",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ultima Offerta",
+        "type": "Magia",
+        "cost": "5",
+        "image": "https://i.postimg.cc/zfXpvvWD/Ultima%20Offerta.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ultima Offerta",
+    "type": "Magia",
+    "cost": "5",
+    "Colore": "Neutro",
+    "Sottotipo": "Continua",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "#ramp #lifepay #handsummon",
+    "Extra": false
+  },
+  "123114": {
+    "id": "123114",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Velo dell'Oscurità ",
+        "type": "Magia",
+        "cost": "3",
+        "image": "https://i.postimg.cc/g0SsZpq6/Velo%20dell%20Oscurit%C3%A0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Velo dell'Oscurità",
+    "type": "Magia",
+    "cost": "3",
+    "Colore": "Nero",
+    "Sottotipo": "Continua",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "#draw #selfdiscard",
+    "Extra": false
+  },
+  "123115": {
+    "id": "123115",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Verme Esca",
+        "type": "Magia",
+        "cost": "1",
+        "image": "https://i.postimg.cc/5t7gCJq5/Verme%20Esca.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Verme Esca",
+    "type": "Magia",
+    "cost": "1",
+    "Colore": "Nero Verde",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "#token #insect #restrict",
+    "Extra": false
+  },
+  "123116": {
+    "id": "123116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Violenza Gratuita",
+        "type": "Magia",
+        "cost": "5",
+        "image": "https://i.postimg.cc/qRNLcFj2/Violenza%20Gratuita.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Violenza Gratuita",
+    "type": "Magia",
+    "cost": "5",
+    "Colore": "Rosso",
+    "Sottotipo": "Continua",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "#damage-multiplier",
+    "Extra": false
+  },
+  "123117": {
+    "id": "123117",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zombificare",
+        "type": "Magia",
+        "cost": "4",
+        "image": "https://i.postimg.cc/bJ4RmR5f/Zombificare.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zombificare",
+    "type": "Magia",
+    "cost": "4",
+    "Colore": "Nero",
+    "Sottotipo": "",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "#reanimate",
+    "Extra": false
+  },
   "124001": {
     "id": "124001",
     "isToken": false,
@@ -16355,6 +16976,29 @@
     "DEF": "",
     "Leggenda": false,
     "Tag": "#counter #scry #draw #lifegain",
+    "Extra": false
+  },
+  "124038": {
+    "id": "124038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trivella Ingranaggio Antico",
+        "type": "Artefatto",
+        "cost": "3",
+        "image": "https://i.postimg.cc/ZqKjnn3t/Trivella%20Ingranaggio%20Antico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trivella Ingranaggio Antico",
+    "type": "Artefatto",
+    "cost": "3",
+    "Colore": "Neutro",
+    "Sottotipo": "Ingranaggio",
+    "ATK": "",
+    "DEF": "",
+    "Leggenda": false,
+    "Tag": "#gear #artifact #decksummon #search",
     "Extra": false
   },
   "125001": {
