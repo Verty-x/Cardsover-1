@@ -5,14 +5,14 @@
          "front": {
             "name": "Foresta",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/7PcJgv75/Foresta.png",
             "isHorizontal": false
          }
       },
       "name": "Foresta",
       "type": "Terreno",
-      "cost": "",
+      "cost": "0",
       "Colore": "Verde",
       "Sottotipo": "",
       "ATK": "",
@@ -27,14 +27,14 @@
          "front": {
             "name": "Montagna",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/3RqNCpyy/Montagna.png",
             "isHorizontal": false
          }
       },
       "name": "Montagna",
       "type": "Terreno",
-      "cost": "",
+      "cost": "0",
       "Colore": "Rosso",
       "Sottotipo": "",
       "ATK": "",
@@ -49,14 +49,14 @@
          "front": {
             "name": "Sogen",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/3wJ2tXwR/Sogen.png",
             "isHorizontal": false
          }
       },
       "name": "Sogen",
       "type": "Terreno",
-      "cost": "",
+      "cost": "0",
       "Colore": "Bianco",
       "Sottotipo": "",
       "ATK": "",
@@ -71,14 +71,14 @@
          "front": {
             "name": "Umi",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/FzcSYGPz/Umi.png",
             "isHorizontal": false
          }
       },
       "name": "Umi",
       "type": "Terreno",
-      "cost": "",
+      "cost": "0",
       "Colore": "Blu",
       "Sottotipo": "",
       "ATK": "",
@@ -93,14 +93,14 @@
          "front": {
             "name": "Yami",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/Pf8YVrd0/Yami.png",
             "isHorizontal": false
          }
       },
       "name": "Yami",
       "type": "Terreno",
-      "cost": "",
+      "cost": "0",
       "Colore": "Nero",
       "Sottotipo": "",
       "ATK": "",
@@ -6627,21 +6627,21 @@
          "front": {
             "name": "Pedina Demone",
             "type": "Mostro",
-            "cost": null,
+            "cost": 5,
             "image": "https://i.postimg.cc/Y2jmG24r/Pedina-Demone.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Demone",
+      "type": "Mostro",
+      "cost": "5",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "117002": {
       "isToken": true,
@@ -6649,21 +6649,21 @@
          "front": {
             "name": "Pedina Druido",
             "type": "Mostro",
-            "cost": null,
+            "cost": 1,
             "image": "https://i.postimg.cc/8PZnff9y/Pedina-Druido.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Druido",
+      "type": "Mostro",
+      "cost": "1",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "117003": {
       "isToken": true,
@@ -6671,21 +6671,21 @@
          "front": {
             "name": "Pedina Elfo",
             "type": "Mostro",
-            "cost": null,
+            "cost": 1,
             "image": "https://i.postimg.cc/rzXp7kCB/Pedina%20Elfo.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Elfo",
+      "type": "Mostro",
+      "cost": "1",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "117004": {
       "isToken": true,
@@ -6693,21 +6693,21 @@
          "front": {
             "name": "Pedina Felino",
             "type": "Mostro",
-            "cost": null,
+            "cost": 1,
             "image": "https://i.postimg.cc/9z5fshY5/Pedina%20Felino.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Felino",
+      "type": "Mostro",
+      "cost": "1",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "117005": {
       "isToken": true,
@@ -6715,21 +6715,21 @@
          "front": {
             "name": "Pedina Goblin",
             "type": "Mostro",
-            "cost": null,
+            "cost": 1,
             "image": "https://i.postimg.cc/c6yJPSBS/Pedina%20Goblin.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Goblin",
+      "type": "Mostro",
+      "cost": "1",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "117006": {
       "isToken": true,
@@ -6737,21 +6737,21 @@
          "front": {
             "name": "Pedina Palla di Fuoco",
             "type": "Mostro",
-            "cost": null,
+            "cost": 1,
             "image": "https://i.postimg.cc/DmkzRTP2/Pedina%20Palla%20di%20Fuoco.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Palla di Fuoco",
+      "type": "Mostro",
+      "cost": "1",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "117007": {
       "isToken": true,
@@ -6759,21 +6759,21 @@
          "front": {
             "name": "Pedina Soffice",
             "type": "Mostro",
-            "cost": null,
+            "cost": 1,
             "image": "https://i.postimg.cc/rzXp7kNm/Pedina%20Soffice.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Soffice",
+      "type": "Mostro",
+      "cost": "1",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "117008": {
       "isToken": true,
@@ -6781,21 +6781,21 @@
          "front": {
             "name": "Pedina Spiritello ",
             "type": "Mostro",
-            "cost": null,
+            "cost": 1,
             "image": "https://i.postimg.cc/tR1N0NNn/Pedina%20Spiritello.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Spiritello ",
+      "type": "Mostro",
+      "cost": "1",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "117009": {
       "isToken": true,
@@ -6803,21 +6803,21 @@
          "front": {
             "name": "Pedina Tesoro",
             "type": "Artefatto",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/J7y5w55X/Pedina%20Tesoro.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Tesoro",
+      "type": "Artefatto",
+      "cost": "0",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "117010": {
       "isToken": true,
@@ -6825,21 +6825,21 @@
          "front": {
             "name": "Pedina Zombie",
             "type": "Mostro",
-            "cost": null,
+            "cost": 2,
             "image": "https://i.postimg.cc/1Rgrxrrw/Pedina%20Zombie.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Zombie",
+      "type": "Mostro",
+      "cost": "2",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "117011": {
       "isToken": true,
@@ -6847,21 +6847,21 @@
          "front": {
             "name": "Pedina Tappa",
             "type": "Mana",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/SNgtYY31/Pedina-Tappa.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Tappa",
+      "type": "Magia",
+      "cost": "0",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "120001": {
       "isToken": false,
@@ -6869,14 +6869,14 @@
          "front": {
             "name": "Acquitrino Tetro",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/NFbWySMk/Acquitrino-Tetro.png",
             "isHorizontal": false
          }
       },
       "name": "Acquitrino Tetro",
       "type": "Terreno",
-      "cost": "",
+      "cost": "0",
       "Colore": "Nero Blu Dimir",
       "Sottotipo": "",
       "ATK": "",
@@ -6891,14 +6891,14 @@
          "front": {
             "name": "Altopiani Accidentati",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/yxnwJtdL/Altopiani-Accidentati.png",
             "isHorizontal": false
          }
       },
       "name": "Altopiani Accidentati",
       "type": "Terreno",
-      "cost": "",
+      "cost": "0",
       "Colore": "Rosso Verde Gruul",
       "Sottotipo": "",
       "ATK": "",
@@ -6913,14 +6913,14 @@
          "front": {
             "name": "Baia Tranquilla",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/vHqJbJCx/Baia-Tranquilla.png",
             "isHorizontal": false
          }
       },
       "name": "Baia Tranquilla",
       "type": "Terreno",
-      "cost": "",
+      "cost": "0",
       "Colore": "Bianco Blu Azorius",
       "Sottotipo": "",
       "ATK": "",
@@ -6935,14 +6935,14 @@
          "front": {
             "name": "Cascate di Boscorovo",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/RFB8g4Js/Cascate%20di%20Boscorovo.png",
             "isHorizontal": false
          }
       },
       "name": "Cascate di Boscorovo",
       "type": "Terreno",
-      "cost": "",
+      "cost": "0",
       "Colore": "Blu Verde Simic",
       "Sottotipo": "",
       "ATK": "",
@@ -6957,14 +6957,14 @@
          "front": {
             "name": "Caverne del Sangue Versato",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/MHZL85DZ/Caverne%20del%20Sangue%20Versato.png",
             "isHorizontal": false
          }
       },
       "name": "Caverne del Sangue Versato",
       "type": "Terreno",
-      "cost": "",
+      "cost": "0",
       "Colore": "Nero Rosso Rakdos",
       "Sottotipo": "",
       "ATK": "",
@@ -6979,14 +6979,14 @@
          "front": {
             "name": "Conca nella Giungla",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/L4zJjf1J/Compagno-di-Ajani.png",
             "isHorizontal": false
          }
       },
       "name": "Conca nella Giungla",
       "type": "Terreno",
-      "cost": "",
+      "cost": "0",
       "Colore": "Nero Verde Golgari",
       "Sottotipo": "",
       "ATK": "",
@@ -7001,14 +7001,14 @@
          "front": {
             "name": "Dirupo Eroso dai Venti",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/MpfFxvyy/Dirupo%20Eroso%20dai%20Venti.png",
             "isHorizontal": false
          }
       },
       "name": "Dirupo Eroso dai Venti",
       "type": "Terreno ",
-      "cost": "",
+      "cost": "0",
       "Colore": "Bianco Rosso Boros",
       "Sottotipo": "",
       "ATK": "",
@@ -7023,14 +7023,14 @@
          "front": {
             "name": "Distese Desolate",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/K83HFRPX/Distese%20Desolate.png",
             "isHorizontal": false
          }
       },
       "name": "Distese Desolate",
       "type": "Terreno",
-      "cost": "",
+      "cost": "0",
       "Colore": "Bianco Nero Orzhov",
       "Sottotipo": "",
       "ATK": "",
@@ -7045,14 +7045,14 @@
          "front": {
             "name": "Gola Drago",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/yYtLfswT/Gola%20Drago.png",
             "isHorizontal": false
          }
       },
       "name": "Gola Drago",
       "type": "Terreno",
-      "cost": "",
+      "cost": "0",
       "Colore": "Rosso",
       "Sottotipo": "",
       "ATK": "",
@@ -7089,14 +7089,14 @@
          "front": {
             "name": "Rupi di Rapidacque",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/C128FLCC/Rupi%20di%20Rapidacque.png",
             "isHorizontal": false
          }
       },
       "name": "Rupi di Rapidacque",
       "type": "Terreno",
-      "cost": "",
+      "cost": "0",
       "Colore": "Blu Rosso Izzet",
       "Sottotipo": "",
       "ATK": "",
@@ -7111,14 +7111,14 @@
          "front": {
             "name": "Sabbie Verdeggianti",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/mDn9b23p/Sabbie%20Verdeggianti.png",
             "isHorizontal": false
          }
       },
       "name": "Sabbie Verdeggianti",
       "type": "Terreno",
-      "cost": "",
+      "cost": "0",
       "Colore": "Bianco Verde Selesnya",
       "Sottotipo": "",
       "ATK": "",
@@ -7133,14 +7133,14 @@
          "front": {
             "name": "Tempio del Mistero",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/3JmtbPYM/Tempio%20del%20Mistero.png",
             "isHorizontal": false
          }
       },
       "name": "Tempio del Mistero",
       "type": "Terreno",
-      "cost": "",
+      "cost": "0",
       "Colore": "Blu Verde Simic",
       "Sottotipo": "",
       "ATK": "",
@@ -7155,14 +7155,14 @@
          "front": {
             "name": "Tempio del Silenzio",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/wjzwK0TG/Tempio%20del%20Silenzio.png",
             "isHorizontal": false
          }
       },
       "name": "Tempio del Silenzio",
       "type": "Terreno",
-      "cost": "",
+      "cost": "0",
       "Colore": "Bianco Nero Orzhov",
       "Sottotipo": "",
       "ATK": "",
@@ -7177,14 +7177,14 @@
          "front": {
             "name": "Tempio del Trionfo",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/Bn3mWMQy/Tempio%20del%20Trionfo.png",
             "isHorizontal": false
          }
       },
       "name": "Tempio del Trionfo",
       "type": "Terreno ",
-      "cost": "",
+      "cost": "0",
       "Colore": "Bianco Rosso Boros",
       "Sottotipo": "",
       "ATK": "",
@@ -7199,14 +7199,14 @@
          "front": {
             "name": "Tempio dell'Abbandono",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/XYWsMQYJ/Tempio%20dell%20Abbandono.png",
             "isHorizontal": false
          }
       },
       "name": "Tempio dell'Abbandono",
       "type": "Terreno",
-      "cost": "",
+      "cost": "0",
       "Colore": "Rosso Verde Gruul",
       "Sottotipo": "",
       "ATK": "",
@@ -7221,14 +7221,14 @@
          "front": {
             "name": "Tempio dell'Illuminazione",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/kgCTrfg2/Tempio%20dell%20Illuminazione.png",
             "isHorizontal": false
          }
       },
       "name": "Tempio dell'Illuminazione",
       "type": "Terreno",
-      "cost": "",
+      "cost": "0",
       "Colore": "Bianco Blu Azorius",
       "Sottotipo": "",
       "ATK": "",
@@ -7243,14 +7243,14 @@
          "front": {
             "name": "Tempio dell'Inganno",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/XYWsMQYB/Tempio%20dell%20Inganno.png",
             "isHorizontal": false
          }
       },
       "name": "Tempio dell'Inganno",
       "type": "Terreno",
-      "cost": "",
+      "cost": "0",
       "Colore": "Nero Blu Dimir",
       "Sottotipo": "",
       "ATK": "",
@@ -7265,14 +7265,14 @@
          "front": {
             "name": "Tempio dell'Odio",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/Bn3mWMn1/Tempio%20dell%20Odio.png",
             "isHorizontal": false
          }
       },
       "name": "Tempio dell'Odio",
       "type": "Terreno",
-      "cost": "",
+      "cost": "0",
       "Colore": "Nero Rosso Rakdos",
       "Sottotipo": "",
       "ATK": "",
@@ -7287,14 +7287,14 @@
          "front": {
             "name": "Tempio della Malattia",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/YC7dcbqJ/Tempio%20della%20Malattia.png",
             "isHorizontal": false
          }
       },
       "name": "Tempio della Malattia",
       "type": "Terreno",
-      "cost": "",
+      "cost": "0",
       "Colore": "Nero Verde Golgari",
       "Sottotipo": "",
       "ATK": "",
@@ -7309,14 +7309,14 @@
          "front": {
             "name": "Tempio della Prosperità",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/rwTf6Qw8/Tempio%20della%20Prosperit%C3%A0.png",
             "isHorizontal": false
          }
       },
       "name": "Tempio della Prosperità",
       "type": "Terreno",
-      "cost": "",
+      "cost": "0",
       "Colore": "Bianco Verde Selesnya",
       "Sottotipo": "",
       "ATK": "",
@@ -7331,14 +7331,14 @@
          "front": {
             "name": "Tempio della Rivelazione",
             "type": "Terreno",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/4xGWCBx4/Tempio%20della%20Rivelazione.png",
             "isHorizontal": false
          }
       },
       "name": "Tempio della Rivelazione",
       "type": "Terreno",
-      "cost": "",
+      "cost": "0",
       "Colore": "Blu Rosso Izzet",
       "Sottotipo": "",
       "ATK": "",
@@ -11259,7 +11259,7 @@
       "Sottotipo": "Demone",
       "ATK": "11",
       "DEF": "14",
-      "Leggenda": true,
+      "Leggenda": false,
       "Tag": "#nomi #fiend #gyfuel #frenzy #control #removal",
       "Extra": false
    },
@@ -16329,21 +16329,21 @@
          "front": {
             "name": "Pedina Bestia 3",
             "type": "Mostro",
-            "cost": null,
+            "cost": 3,
             "image": "https://i.postimg.cc/Rh3cfnCT/Pedina%20Bestia%20l3.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Bestia 3",
+      "type": "Mostro",
+      "cost": "3",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "125002": {
       "isToken": true,
@@ -16351,21 +16351,21 @@
          "front": {
             "name": "Pedina Bestia 4",
             "type": "Mostro",
-            "cost": null,
+            "cost": 4,
             "image": "https://i.postimg.cc/GtBkYs3x/Pedina%20Bestia%20l4.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Bestia 4",
+      "type": "Mostro",
+      "cost": "4",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "125003": {
       "isToken": true,
@@ -16373,21 +16373,21 @@
          "front": {
             "name": "Pedina Bestia Felino",
             "type": "Mostro",
-            "cost": null,
+            "cost": 2,
             "image": "https://i.postimg.cc/wv4X7kzw/Pedina%20Bestia%20Felino.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Bestia Felino",
+      "type": "Mostro",
+      "cost": "2",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "125004": {
       "isToken": true,
@@ -16395,21 +16395,21 @@
          "front": {
             "name": "Pedina Canide",
             "type": "Mostro",
-            "cost": null,
+            "cost": 1,
             "image": "https://i.postimg.cc/2yq4vBj2/Pedina%20Canide.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Canide",
+      "type": "Mostro",
+      "cost": "1",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "125005": {
       "isToken": true,
@@ -16417,21 +16417,21 @@
          "front": {
             "name": "Pedina Cibo",
             "type": "Artefatto",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/XqZwFyND/Pedina%20Cibo.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Cibo",
+      "type": "Artefatto",
+      "cost": "0",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "125006": {
       "isToken": true,
@@ -16439,21 +16439,21 @@
          "front": {
             "name": "Pedina Drago ",
             "type": "Mostro",
-            "cost": null,
+            "cost": 5,
             "image": "https://i.postimg.cc/GtBkYs3W/Pedina%20Drago.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Drago ",
+      "type": "Mostro",
+      "cost": "5",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "125007": {
       "isToken": true,
@@ -16461,21 +16461,21 @@
          "front": {
             "name": "Pedina Goblin Phyrexiano",
             "type": "Mostro",
-            "cost": null,
+            "cost": 1,
             "image": "https://i.postimg.cc/wMthJsTH/Pedina%20Goblin%20Phyrexiano.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Goblin Phyrexiano",
+      "type": "Mostro",
+      "cost": "1",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "125008": {
       "isToken": true,
@@ -16483,21 +16483,21 @@
          "front": {
             "name": "Pedina Indizio",
             "type": "Artefatto",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/pr9D8nXv/Pedina%20Indizio.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Indizio",
+      "type": "Artefatto",
+      "cost": "0",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "125009": {
       "isToken": true,
@@ -16505,21 +16505,21 @@
          "front": {
             "name": "Pedina Insetto",
             "type": "Mostro",
-            "cost": null,
+            "cost": 1,
             "image": "https://i.postimg.cc/zvLnWRX8/Pedina%20Insetto.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Insetto",
+      "type": "Mostro",
+      "cost": "1",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "125010": {
       "isToken": true,
@@ -16527,21 +16527,21 @@
          "front": {
             "name": "Pedina Montone",
             "type": "Mostro",
-            "cost": null,
+            "cost": 1,
             "image": "https://i.postimg.cc/tJLFzC7c/Pedina%20Montone.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Montone",
+      "type": "Mostro",
+      "cost": "1",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "125011": {
       "isToken": true,
@@ -16549,21 +16549,21 @@
          "front": {
             "name": "Pedina Opzione",
             "type": "Mostro",
-            "cost": null,
+            "cost": 3,
             "image": "https://i.postimg.cc/kGkWyXBP/Pedina%20Opzione.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Opzione",
+      "type": "Mostro",
+      "cost": "3",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "125012": {
       "isToken": true,
@@ -16571,21 +16571,21 @@
          "front": {
             "name": "Pedina Ratto",
             "type": "Mostro",
-            "cost": null,
+            "cost": 1,
             "image": "https://i.postimg.cc/T1ZncYp6/Pedina%20Ratto.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Ratto",
+      "type": "Mostro",
+      "cost": "1",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "125013": {
       "isToken": true,
@@ -16593,21 +16593,21 @@
          "front": {
             "name": "Pedina Scintilla",
             "type": "Artefatto",
-            "cost": null,
+            "cost": 0,
             "image": "https://i.postimg.cc/KYRS51n9/Pedina-Scintilla.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Scintilla",
+      "type": "Artefatto",
+      "cost": "0",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "125014": {
       "isToken": true,
@@ -16615,21 +16615,21 @@
          "front": {
             "name": "Pedina Seme",
             "type": "Mostro",
-            "cost": null,
+            "cost": 1,
             "image": "https://i.postimg.cc/1XLDK5ft/Pedina%20Seme.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Seme",
+      "type": "Mostro",
+      "cost": "1",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "125015": {
       "isToken": true,
@@ -16637,21 +16637,21 @@
          "front": {
             "name": "Pedina Soldato",
             "type": "Mostro",
-            "cost": null,
+            "cost": 1,
             "image": "https://i.postimg.cc/8cqLbPjs/Pedina%20Soldato.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Soldato",
+      "type": "Mostro",
+      "cost": "1",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "125016": {
       "isToken": true,
@@ -16659,21 +16659,21 @@
          "front": {
             "name": "Pedina Umano",
             "type": "Mostro",
-            "cost": null,
+            "cost": 1,
             "image": "https://i.postimg.cc/1XLDK5fV/Pedina%20Umano.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Umano",
+      "type": "Mostro",
+      "cost": "1",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    },
    "125017": {
       "isToken": true,
@@ -16681,20 +16681,20 @@
          "front": {
             "name": "Pedina Verme",
             "type": "Mostro",
-            "cost": null,
+            "cost": 1,
             "image": "https://i.postimg.cc/QCRcqxH7/Pedina%20Verme.png",
             "isHorizontal": false
          }
       },
-      "name": "",
-      "type": "",
-      "cost": "",
+      "name": "Pedina Verme",
+      "type": "Mostro",
+      "cost": "1",
       "Colore": "",
       "Sottotipo": "",
       "ATK": "",
       "DEF": "",
-      "Leggenda": null,
+      "Leggenda": false,
       "Tag": "",
-      "Extra": null
+      "Extra": false
    }
 }
