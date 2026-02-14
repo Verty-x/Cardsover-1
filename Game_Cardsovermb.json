@@ -61,16 +61,16 @@
               "style": false,
               "content": [
                 {
+                  "section": "Extra-deck",
+                  "style": false
+                },
+                {
                   "section": "Mana",
-                  "style": {
-                    "Height": 50
-                  }
+                  "style": false
                 },
                 {
                   "section": "Riserve",
-                  "style": {
-                    "Height": 100
-                  }
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
