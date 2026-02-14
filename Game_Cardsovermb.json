@@ -14,7 +14,9 @@
     "formats": [
       {
         "title": "Default",
-        "customCategories": [],
+        "customCategories": [
+          "ExtraMazzo"
+        ],
         "gameplay": "Default",
         "compatibility": "EDH"
       }
@@ -60,11 +62,15 @@
               "content": [
                 {
                   "section": "Mana",
-                  "style": false
+                  "style": {
+                    "Height": 50
+                  }
                 },
                 {
                   "section": "Riserve",
-                  "style": false
+                  "style": {
+                    "Height": 50
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -74,14 +80,14 @@
         "autoPlayFromHand": {
           "Mostro": "Avanti",
           "Artefatto": "Retro",
-          "Magia": "PILE",
+          "Magia": "Stack",
           "Equip": "GROUP",
           "Mana": "Mana"
         },
         "autoPlayFromStack": {
-          "Mostri": "Avanti",
-          "Artefatti": "Retro",
-          "Magie": "Discard",
+          "Mostro": "Avanti",
+          "Artefatto": "Retro",
+          "Magia": "Discard",
           "Equip": "GROUP",
           "Mana": "Mana"
         },
@@ -149,6 +155,22 @@
             "isGroupForbidden": true,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
+          }
+          "Extra-deck": {
+            "title": "Extra-deck",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "DECK",
+            "displayedTitle": "ExtraMazzo",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": true
           }
         }
       },
