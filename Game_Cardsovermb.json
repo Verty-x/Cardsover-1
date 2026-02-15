@@ -1,6 +1,18 @@
 {
   "name": "Cardsover",
   "menuBackgroundImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2022/01/Magic-The-Gathering-Jace-The-Mind-Sculptor-And-Yu-Gi-Oh-Dark-Magician.jpg?q=50&fit=crop&w=825&dpr=1.5",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://www.wargamer.com/wp-content/sites/wargamer/2023/05/mtg-yugioh-fan-designs.jpg"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": 45,
+  "cards": {
+    "dataUrl": "https://verty-x.github.io/Cardsover-1/CardList.json",
+    "cardBack": "https://i.postimg.cc/2jwbKqPM/Retro.jpg"
+  },
   "deckBuilding": {
     "mainFilters": [
       "Tipo di carta",
@@ -8,109 +20,117 @@
       "Costo",
       "Sottotipo"
     ],
-    "costCurveIgnoredTypes": [
-      "Land"
-    ],
     "formats": [
       {
-        "title": "Default",
-        "customCategories": [],
-        "gameplay": "Default",
-        "compatibility": "EDH"
+        "title": "Classic",
+        "gameplay": "Classic",
+        "customCategories": [
+          "ExtraMazzo"
+        ]
       }
     ]
   },
   "gameplay": {
-    "Default": {
+    "Classic": {
       "mulligan": {
-        "info": "Pesca 7 carte ogni volta che fai mulligan. Una volta contento, metti 1 carta in fondo al tuo Mazzo per ogni tuo mulligan. (clicca quelle carte) each time you have mulliganed (click those cards).",
+        "info": "Questa è la tua mano!",
         "startingHandSize": 7,
         "drawNewHand": false,
-        "putSelectionAtBottom": false
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
       },
       "newTurn": {
         "drawOnStart": false,
-        "sharedTurn": false
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
       },
+      "defaultNotes": "",
+      "tokens": [],
       "countersStartingValues": [
         "50",
-        "0"
+        0
       ],
+      "hideFacedDownCards": true,
       "sections": {
         "customSections": [
-          "Mostri",
-          "Magie",
           "Mana",
-          "Artefatti"
+          "Avanti",
+          "Retro",
+          "Riserve"
         ],
         "layout": {
           "direction": "column",
+          "isSymetricalForOpponents": false,
           "content": [
             {
-              "section": "Mostri",
+              "section": "Avanti",
+              "style": false
+            },
+            {
+              "section": "Retro",
               "style": false
             },
             {
               "direction": "row",
+              "style": false,
               "content": [
-                {
-                  "section": "Magie",
-                  "style": false
-                },
                 {
                   "section": "Mana",
                   "style": false
                 },
                 {
-                  "section": "Artefatti",
+                  "section": "Riserve",
                   "style": false
                 }
-              ]
+              ],
+              "isSymetricalForOpponents": false
             }
           ]
         },
+        "categoriesAlreadyOnBoard": [
+          "ExtraMazzo->ExileHidden"
+        ],
         "autoPlayFromHand": {
-          "Mostro": "Mostri",
-          "Artefatto": "Artefatti",
-          "Magia Continua": "Magie",
-          "Magia Rapida": "Magie",
-          "Magia": "Magie",
-          "Equip": "GROUP"
+          "Mostro": "Avanti",
+          "Magia": "Stack",
+          "Artefatto": "Retro",
+          "Equip": "GROUP",
+          "Mana": "Mana"
         },
         "autoPlayFromStack": {
-          "Mostri": "Mostri",
-          "Artefatti": "Artefatti",
-          "Magie Continue": "Magie",
-          "Magie Rapide": "Discard",
-          "Magie": "Discard",
-          "Equip": "GROUP"
+          "Mostro": "Avanti",
+          "Magia": "Discard",
+          "Artefatto": "Retro",
+          "Equip": "GROUP",
+          "Mana": "Mana"
         },
         "sectionsDict": {
-          "Mostri": {
-            "title": "Mostri",
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "isHorizontalAllowed": true,
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Magie": {
-            "title": "Magie",
+          "Mana": {
+            "title": "Mana",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "START",
-            "isHorizontalAllowed": false,
             "opponentAlignment": false,
             "noAutoPayTo": false,
-            "displayedTitle": "",
+            "isHorizontalAllowed": true,
+            "displayedTitle": "MP",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Avanti": {
+            "title": "Avanti",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Mostri",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -118,9 +138,25 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Artefatti": {
-            "title": "Artefatti",
+          "Retro": {
+            "title": "Retro",
             "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Magie/Artefatti",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Risorse": {
+            "title": "Risorse",
+            "isHidden": "opponent-only",
             "height": "SMALL",
             "alignment": "END",
             "opponentAlignment": false,
@@ -128,45 +164,14 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "",
             "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Mana": {
-            "title": "Mana",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "isHorizontalAllowed": false,
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "displayedTitle": "MP",
-            "noQuickActions": false,
-            "enterTapped": false,
+            "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           }
         }
-      },
-      "defaultNotes": "",
-      "tokens": [],
-      "hideFacedDownCards": false
+      }
     }
-  },
-  "defaultRessources": {
-    "backgrounds": [
-      "https://www.wargamer.com/wp-content/sites/wargamer/2023/05/mtg-yugioh-fan-designs.jpg",
-      "https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fo0x6asahndp81.jpg%3Fwidth%3D720%26format%3Dpjpg%26auto%3Dwebp%26s%3D523facc8909241296a15cdd9f9c72665e25c871c"
-    ],
-    "decksUrl": ""
-  },
-  "customHelp": "",
-  "cards": {
-    "dataUrl": "https://verty-x.github.io/Cardsover-1/CardList.json",
-    "cardBack": "https://i.postimg.cc/2jwbKqPM/Retro.jpg"
   }
 }
