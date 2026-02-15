@@ -95,7 +95,7 @@
           "Avanti": {
             "title": "Avanti",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "isHorizontalAllowed": true,
             "opponentAlignment": false,
