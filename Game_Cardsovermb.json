@@ -90,8 +90,8 @@
         },
         "categoriesAlreadyOnBoard": [
           "ExtraMazzo->ExileHidden",
-          "Terreno",
-          "Terreno "
+          "Terreno->Mana",
+          "Terreno ->Mana"
         ],
         "autoPlayFromHand": {
           "Mostro": "Avanti",
