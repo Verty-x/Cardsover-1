@@ -154,8 +154,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Risorse": {
-            "title": "Risorse",
+          "Riserve": {
+            "title": "Riserve",
             "isHidden": "opponent-only",
             "height": "SMALL",
             "alignment": "END",
