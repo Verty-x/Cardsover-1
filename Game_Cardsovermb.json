@@ -74,7 +74,9 @@
                 },
                 {
                   "section": "Extra_Deck",
-                  "style": false
+                  "optional": {
+                    "key": "ExtraMazzo"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -93,7 +95,9 @@
                 },
                 {
                   "section": "Temporaneo",
-                  "style": false
+                  "optional": {
+                    "key": "Temporaneo"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
