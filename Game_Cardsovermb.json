@@ -102,7 +102,7 @@
           "Mostro": "Avanti",
           "Magia": "Stack",
           "Artefatto": "Retro",
-          "Equip": "GROUP",
+          "Equip": "Stack",
           "Mana": "Mana"
         },
         "autoPlayFromStack": {
