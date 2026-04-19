@@ -58,7 +58,8 @@
           "Avanti",
           "Retro",
           "Extra_Deck",
-          "Temporaneo"
+          "Temporaneo",
+          "Riserva"
         ],
         "layout": {
           "direction": "column",
@@ -98,6 +99,10 @@
                   "optional": {
                     "key": "Temporaneo"
                   }
+                },
+                {
+                  "section": "Riserva",
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -313,7 +318,7 @@
             "title": "Temporaneo",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "END",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -322,6 +327,22 @@
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Riserva": {
+            "title": "Riserva",
+            "isHidden": "opponent-only",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": true,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           }
